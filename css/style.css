@@ -343,10 +343,6 @@ code {
 #main .main-body-content:after {
   clear: both;
 }
-#main .main-body-content a.external {
-  padding-right: 12px;
-  background: url("https://www.dropbox.com/s/wvjywyocruq98sa/external.png?dl=0") no-repeat 100% 50%;
-}
 #header {
   background: #26272b;
   padding-bottom: 60px;
