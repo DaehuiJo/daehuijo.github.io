@@ -17,7 +17,7 @@
 <meta property="og:description" content="Hexo와 Github Page를 이용한 블로그 개설[이미지 출처: http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg]
 블로그 개설을 결심하고 Tistory를 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다.Jekyll(Ruby 기반), Hugo(Go 기">
 <meta property="og:image" content="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg">
-<meta property="og:updated_time" content="2017-04-05T18:58:15.772Z">
+<meta property="og:updated_time" content="2017-04-05T19:05:23.525Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo blog">
 <meta name="twitter:description" content="Hexo와 Github Page를 이용한 블로그 개설[이미지 출처: http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg]
@@ -216,12 +216,13 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">theme: 테마명</div></pre></td></tr></table></figure>
 <p>테마 업그레이드는 선택사항으로 <code>theme/테마명</code>폴더로 이동하여 <code>git pull</code>을 입력한다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ cd theme/테마명</div><div class="line">$ git pull</div></pre></td></tr></table></figure>
+<hr>
 <h3 id="Github-연동"><a href="#Github-연동" class="headerlink" title="Github 연동"></a>Github 연동</h3><p><strong>1) github repository 생성</strong></p>
 <p><img src="/images/hexo00.png" alt=""></p>
 <p>github page 기능을 이용하기 위해 new repository를 생성하는데 Repository name을 <code>username.github.io</code>로 지정해야 헥소 블로그 url을 <code>https://username.github.io/</code>로 지정할 수 있다.</p>
 <p><strong>2) hexo 설정 및 github 연동</strong></p>
 <p>헥소 블로그 파일을 github에 push하기 위해서 몇가지 설정을 해주어야 한다. 블로그 메인폴더에 위치한 <code>_config.yml</code>파일의 내용을 변경한다.</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"># URL</div><div class="line">url: http://daehuijo.github.io/	#생성한 repository url#</div><div class="line">root: /</div><div class="line">permalink: :year/:month/:day/:title/</div><div class="line">permalink_defaults:</div><div class="line"></div><div class="line"># Deployment</div><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: https://github.com/DaehuiJo/daehuijo.github.io.git	#github에 배포하기 위한 url#</div><div class="line">  branch: master</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"># URL</div><div class="line">url: http://daehuijo.github.io/		#생성한 repository url#</div><div class="line">root: /</div><div class="line">permalink: :year/:month/:day/:title/</div><div class="line">permalink_defaults:</div><div class="line"></div><div class="line"># Deployment</div><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: https://github.com/DaehuiJo/daehuijo.github.io.git	#github에 배포하기 위한 url#</div><div class="line">  branch: master</div></pre></td></tr></table></figure>
 <p>3) github에 배포</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ hexo generate 또는 hexo g	#정적 파일 생성#</div><div class="line">$ hexo deploy 또는 hexo d	#github 배포#</div></pre></td></tr></table></figure>
 <p><code>$ hexo g --d</code>명령으로 한번에 처리할 수 도 있다. <code>https://username.github.io/</code>에 접속하여 github에 push가 잘 되었나 확인한다.</p>
@@ -232,7 +233,7 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 
 
 
-    <a data-url="http://daehuijo.github.io/2017/04/03/Hexo-blog/" data-id="cj157zs4c0001sovhn0qzobka" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://daehuijo.github.io/2017/04/03/Hexo-blog/" data-id="cj15cigkw0000dcvhwzcjrt3a" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -349,6 +350,26 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
         <h3 class="widget-title">recents</h3>
         <div class="widget">
             <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/04/06/AWS-ubuntu-GUI/" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"></p>
+                            <p class="item-title"><a href="/2017/04/06/AWS-ubuntu-GUI/" class="title">AWS ubuntu GUI</a></p>
+                            <p class="item-date"><time datetime="2017-04-05T19:07:08.000Z" itemprop="datePublished">2017-04-06</time></p>
+                        </div>
+                    </li>
                 
                     <li>
                         
