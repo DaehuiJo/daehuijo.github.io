@@ -7,32 +7,48 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/03/Hexo-blog/</loc>
-        <lastmod>2017-04-09T20:04:18.549Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/13/spring-20170413-Spring-Framework-%ED%95%99%EC%8A%B501/</loc>
+        <lastmod>2017-04-12T22:25:13.646Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/03/Spring-Framework-%ED%95%99%EC%8A%B500/</loc>
-        <lastmod>2017-04-09T19:18:54.350Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/</loc>
+        <lastmod>2017-04-12T22:23:15.403Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/06/markdown-posting/</loc>
-        <lastmod>2017-04-08T15:43:23.000Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/06/aws-20170406-AWS-ubuntu-GUI/</loc>
+        <lastmod>2017-04-12T22:18:20.263Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/06/AWS-ubuntu-GUI/</loc>
-        <lastmod>2017-04-05T19:07:08.000Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-%ED%95%99%EC%8A%B500/</loc>
+        <lastmod>2017-04-12T22:12:21.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/2017/04/13/ubuntu-20170413-Ubuntu-Init-Setting/</loc>
+        <lastmod>2017-04-12T21:35:00.402Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</loc>
+        <lastmod>2017-04-12T19:59:59.546Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
