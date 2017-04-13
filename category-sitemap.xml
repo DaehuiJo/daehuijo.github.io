@@ -7,27 +7,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/categories/etc/ubuntu/</loc>
-        <lastmod>2017-04-12T21:35:00.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/categories/Java/</loc>
-        <lastmod>2017-04-12T22:12:21.731Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/categories/Java/Spring/</loc>
-        <lastmod>2017-04-12T22:12:21.731Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/categories/etc/aws/</loc>
         <lastmod>2017-04-12T22:18:20.263Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -35,15 +14,36 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/categories/etc/</loc>
-        <lastmod>2017-04-12T22:23:15.403Z</lastmod>
+        <loc>http://daehuijo.github.io/categories/etc/ubuntu/</loc>
+        <lastmod>2017-04-12T22:37:07.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/categories/Java/</loc>
+        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/categories/Java/Spring/</loc>
+        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/categories/etc/blog/</loc>
-        <lastmod>2017-04-12T22:23:15.403Z</lastmod>
+        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/categories/etc/</loc>
+        <lastmod>2017-04-13T05:55:05.012Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

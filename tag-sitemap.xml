@@ -2,34 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
-        <lastmod>2017-04-12T21:35:00.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/os/</loc>
-        <lastmod>2017-04-12T21:35:00.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/spring/</loc>
-        <lastmod>2017-04-12T22:12:21.731Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/framework/</loc>
-        <lastmod>2017-04-12T22:12:21.731Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/aws/</loc>
         <lastmod>2017-04-12T22:18:20.263Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -44,22 +16,64 @@
     </url>
 
     <url>
+        <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
+        <lastmod>2017-04-12T22:37:07.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/os/</loc>
+        <lastmod>2017-04-12T22:37:07.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/spring/</loc>
+        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/framework/</loc>
+        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://daehuijo.github.io/tags/hexo/</loc>
-        <lastmod>2017-04-12T22:23:15.403Z</lastmod>
+        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/blog/</loc>
-        <lastmod>2017-04-12T22:23:15.403Z</lastmod>
+        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/markdown/</loc>
-        <lastmod>2017-04-12T22:23:15.403Z</lastmod>
+        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/books/</loc>
+        <lastmod>2017-04-12T23:43:51.472Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
+        <lastmod>2017-04-13T05:55:05.012Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
