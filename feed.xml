@@ -130,10 +130,10 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
     <link href="http://daehuijo.github.io/2017/04/13/etc-ubuntu-20170413-Ubuntu-Init-Setting/"/>
     <id>http://daehuijo.github.io/2017/04/13/etc-ubuntu-20170413-Ubuntu-Init-Setting/</id>
     <published>2017-04-12T18:07:36.000Z</published>
-    <updated>2017-04-12T22:37:07.524Z</updated>
+    <updated>2017-04-13T07:25:00.768Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Ubuntu-16-04-LTS-Initial-Setup"><a href="#Ubuntu-16-04-LTS-Initial-Setup" class="headerlink" title="Ubuntu 16.04 LTS Initial Setup"></a>Ubuntu 16.04 LTS Initial Setup</h1><p><img src="/images/ubuntu/hp_laptop.png" alt=""></p>
-<p>군 전역 후 08년도에 구입했던 HP Compaq 6730s의 주기억장치를 SSD로 교체하면서 운영체제를 우분투로 설치해봤다. <del>구입한지 10년이 되어가지만 Backlight를 한번 교체한 것 외에 고장이 없다. 경이로운 내구성이다.</del> 많은 한국인들처럼 나 역시 MS-DOS, Windows 3.0을 거쳐 MS사의 OS만을 사용해왔기 때문에 리눅스는 낯설다. 개발자로 전직한답시고 발발거리면서 VMware 및 AWS EC2를 이용하여 사용해보았을 뿐이다. 구글링을 통해 이것저것 설치 및 설정을 하면서 해야할 것이 너무 많다는 것을 느꼈고, 다른 이들도 자신만의 세팅방법을 작성해둔 것을 보고 나도 작성해두려 한다. <del>권한설정에 버벅거리면서 이클립스 런칭오류로 한번 포멧한건 안비밀.</del></p>
+<p>군 전역 후 08년도에 구입했던 HP Compaq 6730s의 보조기억장치를 SSD로 교체하면서 운영체제를 우분투로 설치해봤다. <del>구입한지 10년이 되어가지만 Backlight를 한번 교체한 것 외에 고장이 없다. 경이로운 내구성이다.</del> 많은 한국인들처럼 나 역시 MS-DOS, Windows 3.0을 거쳐 MS사의 OS만을 사용해왔기 때문에 리눅스는 낯설다. 개발자로 전직한답시고 발발거리면서 VMware 및 AWS EC2를 이용하여 사용해보았을 뿐이다. 구글링을 통해 이것저것 설치 및 설정을 하면서 해야할 것이 너무 많다는 것을 느꼈고, 다른 이들도 자신만의 세팅방법을 작성해둔 것을 보고 나도 작성해두려 한다. <del>권한설정에 버벅거리면서 이클립스 런칭오류로 한번 포멧한건 안비밀.</del></p>
 <hr>
 <ul>
 <li>SSD Maximum</li>

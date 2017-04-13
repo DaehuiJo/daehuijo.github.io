@@ -16,20 +16,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
-        <lastmod>2017-04-12T22:37:07.524Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/os/</loc>
-        <lastmod>2017-04-12T22:37:07.524Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/spring/</loc>
         <lastmod>2017-04-12T23:14:13.232Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,6 +60,20 @@
     <url>
         <loc>http://daehuijo.github.io/tags/bookmark/</loc>
         <lastmod>2017-04-13T05:55:05.012Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
+        <lastmod>2017-04-13T07:25:00.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/os/</loc>
+        <lastmod>2017-04-13T07:25:00.768Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

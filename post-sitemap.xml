@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://daehuijo.github.io/2017/04/13/etc-ubuntu-20170413-Ubuntu-Init-Setting/</loc>
+        <lastmod>2017-04-13T07:25:00.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</loc>
         <lastmod>2017-04-13T05:55:05.012Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -41,14 +49,6 @@
     <url>
         <loc>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</loc>
         <lastmod>2017-04-12T23:13:11.896Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/2017/04/13/etc-ubuntu-20170413-Ubuntu-Init-Setting/</loc>
-        <lastmod>2017-04-12T22:37:07.524Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
