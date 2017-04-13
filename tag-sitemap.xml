@@ -58,13 +58,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
-        <lastmod>2017-04-13T05:55:05.012Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
         <lastmod>2017-04-13T07:30:52.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,6 +67,13 @@
     <url>
         <loc>http://daehuijo.github.io/tags/os/</loc>
         <lastmod>2017-04-13T07:30:52.081Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
+        <lastmod>2017-04-13T07:48:33.385Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
