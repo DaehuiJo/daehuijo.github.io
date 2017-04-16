@@ -16,41 +16,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/spring/</loc>
-        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/framework/</loc>
-        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/hexo/</loc>
-        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/blog/</loc>
-        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/markdown/</loc>
-        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/books/</loc>
         <lastmod>2017-04-12T23:43:51.472Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,6 +39,41 @@
     <url>
         <loc>http://daehuijo.github.io/tags/bookmark/</loc>
         <lastmod>2017-04-13T07:55:00.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/spring/</loc>
+        <lastmod>2017-04-15T14:13:35.254Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/framework/</loc>
+        <lastmod>2017-04-15T14:13:35.254Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/markdown/</loc>
+        <lastmod>2017-04-15T14:17:48.975Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/hexo/</loc>
+        <lastmod>2017-04-15T14:32:55.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/blog/</loc>
+        <lastmod>2017-04-15T14:32:55.902Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

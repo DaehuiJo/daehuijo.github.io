@@ -14,27 +14,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/categories/Java/</loc>
-        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/categories/Java/Spring/</loc>
-        <lastmod>2017-04-12T23:14:13.232Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/categories/etc/blog/</loc>
-        <lastmod>2017-04-12T23:36:07.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/categories/etc/ubuntu/</loc>
         <lastmod>2017-04-13T07:30:52.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -42,8 +21,29 @@
     </url>
 
     <url>
+        <loc>http://daehuijo.github.io/categories/Java/</loc>
+        <lastmod>2017-04-15T14:13:35.254Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/categories/Java/Spring/</loc>
+        <lastmod>2017-04-15T14:13:35.254Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://daehuijo.github.io/categories/etc/</loc>
-        <lastmod>2017-04-13T07:55:00.093Z</lastmod>
+        <lastmod>2017-04-15T14:32:55.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/categories/etc/blog/</loc>
+        <lastmod>2017-04-15T14:32:55.902Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
