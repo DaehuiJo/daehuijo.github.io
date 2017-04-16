@@ -56,9 +56,9 @@
       <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
     
     
-      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
-    
       <category term="markup" scheme="http://daehuijo.github.io/tags/markup/"/>
+    
+      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
     
   </entry>
   
@@ -321,7 +321,7 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
     <link href="http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/"/>
     <id>http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/</id>
     <published>2017-04-05T19:16:10.000Z</published>
-    <updated>2017-04-16T20:19:45.759Z</updated>
+    <updated>2017-04-16T21:05:04.548Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Markdown을-이용한-Hexo-블로그-포스팅"><a href="#Markdown을-이용한-Hexo-블로그-포스팅" class="headerlink" title="Markdown을 이용한 Hexo 블로그 포스팅"></a>Markdown을 이용한 Hexo 블로그 포스팅</h1><p><img src="/images/hexo/hexo_title.png" alt=""><span style="
 font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p>
@@ -389,18 +389,19 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">biospin님의 마크다운.md</a></li>
 </ul>
 <p><strong>markdown editor</strong></p>
-<p>다양한 IDE(Visual studio) 및 editor에서 markdown문법을 지원하여 쉽게 작성할 수 있다.</p>
+<p>다양한 IDE(Visual studio) 및 editor에서 markdown 작성을 지원해주고 있다.</p>
 <ul>
 <li><a href="https://nolboo.kim/blog/2014/04/15/how-to-use-markdown/#서브라임-텍스트-3와-플러그인들" target="_blank" rel="external">nolboo님의 sublime Text 활용</a></li>
 <li><a href="http://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/" target="_blank" rel="external">futurecreator님의 ATOM 활용</a></li>
 <li><a href="http://macnews.tistory.com/4799" target="_blank" rel="external">ONE™님의 Typora 활용</a></li>
 </ul>
 <hr>
-<h3 id="Post-배포"><a href="#Post-배포" class="headerlink" title="Post 배포"></a>Post 배포</h3><p>포스트 작성이 완료된 후 github에 배포하기 전 로컬서버를 통해 포스트 내용을 확인해 볼 수 있다. 배포하기 위해서는 정적파일을 생성해야 한다.</p>
+<h3 id="Post-배포"><a href="#Post-배포" class="headerlink" title="Post 배포"></a>Post 배포</h3><p>포스트 작성이 완료된 후 github에 배포하기 전 로컬서버를 통해 포스트 내용을 확인해 볼 수 있으며, 포스트를 배포하기 위해서는 정적파일을 생성해야 한다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>정적파일이 생성된 후 원격서버에 배포하면 된다. github의 정보를 입력 해주고 master branch로 commit 완료되었다는 메시지가 나타나면 배포가 완료된 것이다. 자신의 url로 이동하여 확인한다.</p>
+<p>정적파일이 생성된 후 원격서버에 이를 배포한다. 배포명령어는 입력하면 <code>_config.yml</code>에 입력했었던 repository url에 push를 하기위한 github의 정보를 요구한다. 이를 입력해주면 배포가 완료되었다는 메시지가 나타난다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>포스스내용의 업데이트가 완전히 이루어 지지 않았을 경우에는 <code>$ hexo clean</code>을 통해 database와 public forder를 삭제한 후 다시 정적파일 생성 및 배포를 하면 된다.</p>
+<p>포스트 내용의 업데이트가 완전히 이루어 지지 않았을 경우에는 <code>$ hexo clean</code>을 통해 database와 public folder를 삭제한 후 다시 정적파일 생성 및 배포를 하면 된다.</p>
+<h3 id="Hexo-posting-환경-유지"><a href="#Hexo-posting-환경-유지" class="headerlink" title="Hexo posting 환경 유지"></a>Hexo posting 환경 유지</h3><p> <code>public</code>폴더에 생성된 정적파일만 원격저장소에 저장되기 때문에 해당 블로그에 대한 설정파일(generator)을 유지하기 위해서는 github의 다른 repository에 블로그 폴더 전체파일을 push하는 방법도 있으나, 나의 경우 Cloud storage(dropbox)에 동기화 시켜 사용하고 있다. nodejs, git, hexo package만 설치해준 뒤, 블로그폴더 동기화를 거치면  포스팅 환경이 다시 만들어 진다.</p>
 <hr>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
 <li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">Github Mastering Markdown</a></li>
@@ -408,9 +409,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <li><a href="https://github.github.com/gfm/" target="_blank" rel="external">https://github.github.com/gfm/</a></li>
 <li><a href="http://www.cirosantilli.com/markdown-style-guide/" target="_blank" rel="external">http://www.cirosantilli.com/markdown-style-guide/</a></li>
 <li><a href="http://www.hakawati.co.kr/405" target="_blank" rel="external">hakawati님의 markdown과 친해지기</a></li>
-<li><a href="http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e" target="_blank" rel="external">http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e</a></li>
-<li><a href="https://simhyejin.github.io/2016/06/30/Markdown-syntax/" target="_blank" rel="external">https://simhyejin.github.io/2016/06/30/Markdown-syntax/</a></li>
-<li><a href="http://ccl.cckorea.org/syntax/" target="_blank" rel="external">http://ccl.cckorea.org/syntax/</a></li>
+<li><a href="http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e" target="_blank" rel="external">서울시립대 건축학부: markdown</a></li>
 </ul>
 ]]></content>
     
@@ -425,11 +424,11 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
       <category term="blog" scheme="http://daehuijo.github.io/categories/etc/blog/"/>
     
     
+      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
+    
       <category term="hexo" scheme="http://daehuijo.github.io/tags/hexo/"/>
     
       <category term="blog" scheme="http://daehuijo.github.io/tags/blog/"/>
-    
-      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
     
   </entry>
   
