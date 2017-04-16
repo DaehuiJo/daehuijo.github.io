@@ -51,22 +51,8 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/markup/</loc>
-        <lastmod>2017-04-16T15:53:22.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/bookmark/</loc>
         <lastmod>2017-04-16T17:10:36.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/markdown/</loc>
-        <lastmod>2017-04-16T21:05:04.548Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -81,6 +67,20 @@
     <url>
         <loc>http://daehuijo.github.io/tags/blog/</loc>
         <lastmod>2017-04-16T21:05:04.548Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/markup/</loc>
+        <lastmod>2017-04-16T21:08:17.307Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/markdown/</loc>
+        <lastmod>2017-04-16T21:08:17.307Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

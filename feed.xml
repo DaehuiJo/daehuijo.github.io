@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-16T15:53:22.666Z</updated>
+  <updated>2017-04-16T21:08:17.307Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/"/>
     <id>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</id>
     <published>2017-04-16T12:56:24.000Z</published>
-    <updated>2017-04-16T15:53:22.666Z</updated>
+    <updated>2017-04-16T21:08:17.307Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><h2 id="Markdonw"><a href="#Markdonw" class="headerlink" title="Markdonw"></a>Markdonw</h2><blockquote>
 <p><strong>마크다운</strong>(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰인다. 마크다운을 이용해 작성된 문서는 쉽게 HTML 등 다른 문서형태로 변환이 가능하다.</p>
 <p>존 그루버는 2004년에 문법 면에서 에런 스워츠와 중대한 협업을 통해 마크다운 언어를 만들었으며, 사람들이 읽기 쉽고 쓰기 쉬운 플레인 텍스트 포맷을 사용하여 쓸 수 있으면서 구조적으로 유효한 XHTML(또는 HTML)로 선택적 변환이 가능하게 하는 것이 목표이다.                                                                     - wikipedia</p>
 </blockquote>
 <p><strong><a href="https://www.slideshare.net/devsejong/ss-34549631" target="_blank" rel="external">박세정님의 Markdown 소개 Slide Share</a></strong></p>
-<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/apbFgxTgXWXPWR" width="1000" height="700" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div></p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/apbFgxTgXWXPWR" width="900" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div></p>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
 <li>​</li>
 <li>​</li>
