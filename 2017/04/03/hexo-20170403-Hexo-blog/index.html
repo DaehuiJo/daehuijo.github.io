@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="personal papers">
 <meta property="og:description" content="Hexo와 Github Page를 이용한 블로그 개설[이미지 출처: http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg] 블로그 개설을 결심하고 Tistory를 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go">
 <meta property="og:image" content="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg">
-<meta property="og:updated_time" content="2017-04-15T14:32:55.902Z">
+<meta property="og:updated_time" content="2017-04-16T16:18:31.727Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo blog">
 <meta name="twitter:description" content="Hexo와 Github Page를 이용한 블로그 개설[이미지 출처: http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg] 블로그 개설을 결심하고 Tistory를 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go">
@@ -184,19 +184,22 @@ ga('send', 'pageview');
         
         
         <div class="article-entry" itemprop="articleBody">
-            <h1 id="Hexo와-Github-Page를-이용한-블로그-개설"><a href="#Hexo와-Github-Page를-이용한-블로그-개설" class="headerlink" title="Hexo와 Github Page를 이용한 블로그 개설"></a>Hexo와 Github Page를 이용한 블로그 개설</h1><p><img src="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" alt=""><span style="
+            <h1 id="Hexo와-Github-Page를-이용한-블로그-개설"><a href="#Hexo와-Github-Page를-이용한-블로그-개설" class="headerlink" title="Hexo와 Github Page를 이용한 블로그 개설"></a>Hexo와 Github Page를 이용한 블로그 개설</h1><p><img src="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" width="500" height="250"><span style="
 font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" target="_blank" rel="external">http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg</a>]</span></p>
 <p>블로그 개설을 결심하고 Tistory를 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go 기반), Hexo(Node.js 기반)와 같은 <a href="https://staticsitegenerators.net/" target="_blank" rel="external">Static Website Generator</a>를 이용하여 생성한 블로그를 github에 push하면 블로그 사이트가 만들어 진다.</p>
 <hr>
-<h3 id="설치"><a href="#설치" class="headerlink" title="설치"></a>설치</h3><p><strong>0) 설치환경</strong></p>
-<table>
+<h3 id="설치"><a href="#설치" class="headerlink" title="설치"></a>설치</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">OS</th>
-<th>Windows 10</th>
+<th style="text-align:center">설치환경</th>
+<th></th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:center">OS</td>
+<td>Windows 10</td>
+</tr>
 <tr>
 <td style="text-align:center">CLI</td>
 <td><a href="https://git-scm.com/downloads" target="_blank" rel="external">Git Bash</a></td>
@@ -233,12 +236,12 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 <p><strong>4) 테마 설치</strong></p>
 <p><em>4.1) 헥소 테마를 직접 만드는 경우</em></p>
 <ul>
-<li><a href="https://hexo.io/docs/themes.html" target="_blank" rel="external">https://hexo.io/docs/themes.html</a></li>
-<li><a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/" target="_blank" rel="external">http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/</a></li>
+<li><a href="https://hexo.io/docs/themes.html" target="_blank" rel="external">Hexo 공식 웹사이트 가이드</a></li>
+<li>Jonathan Klughertz’s Create Hexo Theme <a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/" target="_blank" rel="external">Part 1</a>, <a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-2-Other-Pages/" target="_blank" rel="external">Part 2</a>, <a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-3-Comments-Analytics-and-Widgets/" target="_blank" rel="external">Part 3</a></li>
 </ul>
 <p><em>4.2) 만들어진 테마를 적용할 경우</em></p>
 <ul>
-<li><a href="https://hexo.io/themes/" target="_blank" rel="external">https://hexo.io/themes/</a></li>
+<li><a href="https://hexo.io/themes/" target="_blank" rel="external">Hexo 공식 웹사이트 테마페이지</a></li>
 </ul>
 <p>헥소 공식사이트에 방문하여 적당한 테마를 선택한다. 해당 테마를 제공하는 사용자의 repository를 방문하면 설치방법이 설명되어 있다. 터미널을 열고 헥소 블로그 최상위 폴더에서 다음과 같이 입력하여 테마를 다운받는다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ git clone repository주소 themes/테마명</div></pre></td></tr></table></figure>
@@ -263,6 +266,7 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 <hr>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
 <li><a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a></li>
+<li><a href="http://www.codeblocq.com/tags/Hexo/" target="_blank" rel="external">http://www.codeblocq.com/tags/Hexo/</a></li>
 <li><a href="http://futurecreator.github.io/categories/Web/Hexo/" target="_blank" rel="external">http://futurecreator.github.io/categories/Web/Hexo/</a></li>
 <li><a href="http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/" target="_blank" rel="external">http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/</a></li>
 <li><a href="https://hyunseob.github.io/2016/02/23/start-hexo/" target="_blank" rel="external">https://hyunseob.github.io/2016/02/23/start-hexo/</a></li>
@@ -274,7 +278,7 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 
 
 
-    <a data-url="http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/" data-id="cj1jbs8p60000z4y0mb8npe2l" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/" data-id="cj1l4zavs0001fiy02jdy03sd" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -353,17 +357,34 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
                     </section>
                     <aside id="sidebar">
     <a class="sidebar-toggle" title="Expand Sidebar"><i class="toggle icon"></i></a>
-    <!-- <div class="sidebar-top">
+    <div class="sidebar-top">
          <p>follow:</p>
           <ul class="social-links">
             
+                
+                <li>
+                    <a class="social-tooltip" title="github" href="https://github.com/DaehuiJo/" target="_blank">
+                        <i class="icon fa fa-github"></i>
+                    </a>
+                </li>
+                
+            
+                
+                <li>
+                    <a class="social-tooltip" title="telegram" href="http://telegram.me/surpriseday" target="_blank">
+                        <i class="icon fa fa-telegram"></i>
+                    </a>
+                </li>
+                
+            
         </ul>
-    </div> -->
+    </div>
 
     <!-- github name card -->
+    <!--
     <div class="github-card" data-github="DaehuiJo" data-width="340" data-height="180" data-theme="medium"></div>
     <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
+    -->
 
     
         
@@ -383,10 +404,50 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
         
             
                 
+    <div class="widget-wrap widget-list">
+        <h3 class="widget-title">categories</h3>
+        <div class="widget">
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/">Java</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/Spring/">Spring</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/">etc</a><span class="category-list-count">7</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/etc/aws/">aws</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/blog/">blog</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/ubuntu/">ubuntu</a><span class="category-list-count">1</span></li></ul></li></ul>
+        </div>
+    </div>
+
+
+            
+                
+    <div class="widget-wrap widget-float">
+        <h3 class="widget-title">tag cloud</h3>
+        <div class="widget tagcloud">
+            <a href="/tags/VNCviewr/" style="font-size: 10px;">VNCviewr</a> <a href="/tags/aws/" style="font-size: 10px;">aws</a> <a href="/tags/blog/" style="font-size: 20px;">blog</a> <a href="/tags/bookmark/" style="font-size: 10px;">bookmark</a> <a href="/tags/books/" style="font-size: 10px;">books</a> <a href="/tags/framework/" style="font-size: 20px;">framework</a> <a href="/tags/hexo/" style="font-size: 20px;">hexo</a> <a href="/tags/markdown/" style="font-size: 20px;">markdown</a> <a href="/tags/markup/" style="font-size: 10px;">markup</a> <a href="/tags/os/" style="font-size: 10px;">os</a> <a href="/tags/spring/" style="font-size: 20px;">spring</a> <a href="/tags/ubuntu/" style="font-size: 10px;">ubuntu</a>
+        </div>
+    </div>
+
+
+            
+                
     <div class="widget-wrap">
         <h3 class="widget-title">recents</h3>
         <div class="widget">
             <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/04/16/etc-20170416-markup-and-markdown/" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a></p>
+                            <p class="item-title"><a href="/2017/04/16/etc-20170416-markup-and-markdown/" class="title">markup and markdown</a></p>
+                            <p class="item-date"><time datetime="2017-04-16T12:56:24.000Z" itemprop="datePublished">2017-04-16</time></p>
+                        </div>
+                    </li>
                 
                     <li>
                         
@@ -468,53 +529,14 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
                         </div>
                     </li>
                 
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/04/06/hexo-20170406-markdown-posting/" class="thumbnail">
-    
-    
-        <span style="background-image:url(/images/hexo/hexo_title.png)" alt="markdown posting" class="thumbnail-image"></span>
-    
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/etc/blog/">blog</a></p>
-                            <p class="item-title"><a href="/2017/04/06/hexo-20170406-markdown-posting/" class="title">markdown posting</a></p>
-                            <p class="item-date"><time datetime="2017-04-05T19:16:10.000Z" itemprop="datePublished">2017-04-06</time></p>
-                        </div>
-                    </li>
-                
             </ul>
         </div>
     </div>
 
             
-                
-    <div class="widget-wrap widget-list">
-        <h3 class="widget-title">categories</h3>
-        <div class="widget">
-            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/">Java</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/Spring/">Spring</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/">etc</a><span class="category-list-count">6</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/etc/aws/">aws</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/blog/">blog</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/ubuntu/">ubuntu</a><span class="category-list-count">1</span></li></ul></li></ul>
-        </div>
-    </div>
-
-
-            
-                
-    <div class="widget-wrap widget-float">
-        <h3 class="widget-title">tag cloud</h3>
-        <div class="widget tagcloud">
-            <a href="/tags/VNCviewr/" style="font-size: 10px;">VNCviewr</a> <a href="/tags/aws/" style="font-size: 10px;">aws</a> <a href="/tags/blog/" style="font-size: 20px;">blog</a> <a href="/tags/bookmark/" style="font-size: 10px;">bookmark</a> <a href="/tags/books/" style="font-size: 10px;">books</a> <a href="/tags/framework/" style="font-size: 20px;">framework</a> <a href="/tags/hexo/" style="font-size: 20px;">hexo</a> <a href="/tags/markdown/" style="font-size: 10px;">markdown</a> <a href="/tags/os/" style="font-size: 10px;">os</a> <a href="/tags/spring/" style="font-size: 20px;">spring</a> <a href="/tags/ubuntu/" style="font-size: 10px;">ubuntu</a>
-        </div>
-    </div>
-
-
-            
         
     </div>
+
 </aside>
 
                 </div>

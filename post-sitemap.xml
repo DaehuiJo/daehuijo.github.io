@@ -7,24 +7,8 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</loc>
-        <lastmod>2017-04-15T14:32:55.902Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/</loc>
-        <lastmod>2017-04-15T14:17:48.975Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-%ED%95%99%EC%8A%B500/</loc>
-        <lastmod>2017-04-15T14:13:35.254Z</lastmod>
+        <lastmod>2017-04-16T20:19:45.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -32,7 +16,31 @@
 
     <url>
         <loc>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</loc>
-        <lastmod>2017-04-13T07:55:00.093Z</lastmod>
+        <lastmod>2017-04-16T17:10:36.349Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</loc>
+        <lastmod>2017-04-16T16:18:31.727Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</loc>
+        <lastmod>2017-04-16T15:53:22.666Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-%ED%95%99%EC%8A%B500/</loc>
+        <lastmod>2017-04-16T12:18:54.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

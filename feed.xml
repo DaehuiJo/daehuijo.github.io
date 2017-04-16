@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-12T23:43:51.472Z</updated>
+  <updated>2017-04-16T15:53:22.666Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markup and markdown</title>
+    <link href="http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/"/>
+    <id>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</id>
+    <published>2017-04-16T12:56:24.000Z</published>
+    <updated>2017-04-16T15:53:22.666Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><h2 id="Markdonw"><a href="#Markdonw" class="headerlink" title="Markdonw"></a>Markdonw</h2><blockquote>
+<p><strong>마크다운</strong>(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰인다. 마크다운을 이용해 작성된 문서는 쉽게 HTML 등 다른 문서형태로 변환이 가능하다.</p>
+<p>존 그루버는 2004년에 문법 면에서 에런 스워츠와 중대한 협업을 통해 마크다운 언어를 만들었으며, 사람들이 읽기 쉽고 쓰기 쉬운 플레인 텍스트 포맷을 사용하여 쓸 수 있으면서 구조적으로 유효한 XHTML(또는 HTML)로 선택적 변환이 가능하게 하는 것이 목표이다.                                                                     - wikipedia</p>
+</blockquote>
+<p><strong><a href="https://www.slideshare.net/devsejong/ss-34549631" target="_blank" rel="external">박세정님의 Markdown 소개 Slide Share</a></strong></p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/apbFgxTgXWXPWR" width="1000" height="700" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div></p>
+<h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
+<li>​</li>
+<li>​</li>
+<li><a href="http://daringfireball.net/projects/markdown/syntax" target="_blank" rel="external">JOHN GRUBER Markdown Syntax</a></li>
+<li><a href="https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/" target="_blank" rel="external">https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/</a></li>
+<li><a href="http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/" target="_blank" rel="external">Kalkin7님의 워드프레스 마크다운 문법 설명</a></li>
+<li><a href="https://nolboo.kim/blog/2014/03/25/php-markdown-extra/" target="_blank" rel="external">Nolboo님의 PHP 마크다운 확장 번역</a></li>
+<li>​</li>
+<li>​</li>
+<li>​</li>
+<li>​</li>
+<li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md</a></li>
+<li><a href="http://www.hakawati.co.kr/405" target="_blank" rel="external">http://www.hakawati.co.kr/405</a></li>
+<li><a href="http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e" target="_blank" rel="external">http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e</a></li>
+<li><a href="https://simhyejin.github.io/2016/06/30/Markdown-syntax/" target="_blank" rel="external">https://simhyejin.github.io/2016/06/30/Markdown-syntax/</a></li>
+<li><a href="http://ccl.cckorea.org/syntax/" target="_blank" rel="external">http://ccl.cckorea.org/syntax/</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Markup&quot;&gt;&lt;a href=&quot;#Markup&quot; class=&quot;headerlink&quot; title=&quot;Markup&quot;&gt;&lt;/a&gt;Markup&lt;/h2&gt;&lt;h2 id=&quot;Markdonw&quot;&gt;&lt;a href=&quot;#Markdonw&quot; class=&quot;headerlink&quot; 
+    
+    </summary>
+    
+      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
+    
+    
+      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
+    
+      <category term="markup" scheme="http://daehuijo.github.io/tags/markup/"/>
+    
+  </entry>
   
   <entry>
     <title>booklist</title>
@@ -70,11 +117,15 @@ font-size:10px">[이미지 출처: <a href="https://cdn.taschen.com/" target="_b
     <link href="http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/"/>
     <id>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</id>
     <published>2017-04-12T23:15:10.000Z</published>
-    <updated>2017-04-13T07:55:00.093Z</updated>
+    <updated>2017-04-16T17:10:36.349Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://thumbs.dreamstime.com/t/bookmark-star-web-page-concept-graphic-83517408.jpg" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://thumbs.dreamstime.com/" target="_blank" rel="external">https://thumbs.dreamstime.com/</a>]</span></p>
 <p>Chrome browser bookmark 기능이 있지만 가독성 및 효용성을 위한 포스팅</p>
+<div class="text-box"><br><br>1. aws<br><br></div>
+
+
+
 <h4 id="Tag"><a href="#Tag" class="headerlink" title="#Tag"></a>#Tag</h4><table>
 <thead>
 <tr>
@@ -270,22 +321,93 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
     <link href="http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/"/>
     <id>http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/</id>
     <published>2017-04-05T19:16:10.000Z</published>
-    <updated>2017-04-15T14:17:48.975Z</updated>
+    <updated>2017-04-16T20:19:45.759Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Markdown을-이용한-Hexo-블로그-포스팅"><a href="#Markdown을-이용한-Hexo-블로그-포스팅" class="headerlink" title="Markdown을 이용한 Hexo 블로그 포스팅"></a>Markdown을 이용한 Hexo 블로그 포스팅</h1><p><img src="/images/hexo/hexo_title.png" alt=""><span style="
-font-size:10px">[이미지 출처: Hexo hueman theme default image]</span></p>
-<p>Hexo를 이용하여 새로운 포스트를 생성하고 Markdown을 이용하여 포스트 내용을 작성하여 github에 포스팅하는 방법이다. 마크다운 문법이 github에서 지원되지 않거나 다르게 적용되고 있다.</p>
-<h3 id="Post-생성"><a href="#Post-생성" class="headerlink" title="Post 생성"></a>Post 생성</h3><hr>
-<h3 id="Post-작성"><a href="#Post-작성" class="headerlink" title="Post 작성"></a>Post 작성</h3><p><strong>Github markdown syntax</strong></p>
+font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p>
+<p>Hexo를 이용한 포스팅 방법은 3단계로 나눌 수 있다. 새로운 포스트를 생성한 다음 GFM: Github Flavored Markdown syntax를 이용하여 포스트 내용을 작성하고 github에 배포한다.</p>
 <hr>
-<h3 id="Post-배포"><a href="#Post-배포" class="headerlink" title="Post 배포"></a>Post 배포</h3><hr>
+<h3 id="Post-생성"><a href="#Post-생성" class="headerlink" title="Post 생성"></a>Post 생성</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new &apos;post title&apos;</div></pre></td></tr></table></figure>
+<p><img src="/images/hexo/hexo_new_post.png" alt=""></p>
+<p>Hexo에서 제공하는 <code>markdown file</code>생성 명령어는 <code>$ hexo new [layout] &lt;title&gt;</code>이지만 github에 배포하기 전까지는 로컬의 내용이 반영되지 않기 때문에 무의미 하다 생각되어 이외의 내용은 고려하지 않는다. 생성된 마크다운 파일은 <code>/source/_posts</code>에 위치한다.</p>
+<p><img src="/images/hexo/hexo-post-dir.png" alt=""></p>
+<hr>
+<h3 id="Post-작성"><a href="#Post-작성" class="headerlink" title="Post 작성"></a>Post 작성</h3><p>생성된 파일을 열어보면 다음과 같다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: firstPost</div><div class="line">date: 2017-04-15 22:18:35</div><div class="line">tags:</div><div class="line">---</div></pre></td></tr></table></figure>
+<p><strong>Front-matter</strong></p>
+<p>포스트 최상단에 <code>---</code>로 구분해 놓은 부분은 Front-matter라 하며, YAML 또는 JSON을 이용한 포스트 환경설정 부분이다. Front-matter가 끝나는 부분은 YAML의 경우 세 개의 대시(-) 로, JSON의 경우 세 개의 세미콜론(;)을 넣어서 구분한다. 이 부분은 scaffolds폴더의 해당 파일(이곳에서는 <code>post.md</code>)의 수정을 통해 초기값을 변경할 수 있다.</p>
+<p><strong>scaffolds</strong></p>
+<p>Front-matter 설정 값</p>
+<table>
+<thead>
+<tr>
+<th>설정</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>layout</td>
+<td>레이아웃</td>
+</tr>
+<tr>
+<td>title</td>
+<td>타이틀(파일명)</td>
+</tr>
+<tr>
+<td>date</td>
+<td>파일 생성일</td>
+</tr>
+<tr>
+<td>update</td>
+<td>파일 업로드일</td>
+</tr>
+<tr>
+<td>comments</td>
+<td>포스트에서 comment 기능을 사용할 지 여부</td>
+</tr>
+<tr>
+<td>category</td>
+<td>카테고리</td>
+</tr>
+<tr>
+<td>tag</td>
+<td>태그</td>
+</tr>
+<tr>
+<td>permalink</td>
+<td>포스트의 기본 permalink를 override</td>
+</tr>
+</tbody>
+</table>
+<p><strong>categories &amp; tags</strong></p>
+<p>태그의 경우 계층의 구분이 없기때문에 작성순서가 중요하지 않으나, 카테고리는 작성한 순서에 따라 계층구조로 적용된다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">categories:</div><div class="line"> - Sports</div><div class="line"> - Baseball</div><div class="line">tags:</div><div class="line"> - Exercise</div><div class="line"> - athlete</div></pre></td></tr></table></figure>
+<p><strong>본문 작성</strong></p>
+<p>Front-matter 다음 라인부터 포스스 내용을 GFM에 맞춰서 작성하면 된다.</p>
+<ul>
+<li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">biospin님의 마크다운.md</a></li>
+</ul>
+<p><strong>markdown editor</strong></p>
+<p>다양한 IDE(Visual studio) 및 editor에서 markdown문법을 지원하여 쉽게 작성할 수 있다.</p>
+<ul>
+<li><a href="https://nolboo.kim/blog/2014/04/15/how-to-use-markdown/#서브라임-텍스트-3와-플러그인들" target="_blank" rel="external">nolboo님의 sublime Text 활용</a></li>
+<li><a href="http://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/" target="_blank" rel="external">futurecreator님의 ATOM 활용</a></li>
+<li><a href="http://macnews.tistory.com/4799" target="_blank" rel="external">ONE™님의 Typora 활용</a></li>
+</ul>
+<hr>
+<h3 id="Post-배포"><a href="#Post-배포" class="headerlink" title="Post 배포"></a>Post 배포</h3><p>포스트 작성이 완료된 후 github에 배포하기 전 로컬서버를 통해 포스트 내용을 확인해 볼 수 있다. 배포하기 위해서는 정적파일을 생성해야 한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>정적파일이 생성된 후 원격서버에 배포하면 된다. github의 정보를 입력 해주고 master branch로 commit 완료되었다는 메시지가 나타나면 배포가 완료된 것이다. 자신의 url로 이동하여 확인한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>포스스내용의 업데이트가 완전히 이루어 지지 않았을 경우에는 <code>$ hexo clean</code>을 통해 database와 public forder를 삭제한 후 다시 정적파일 생성 및 배포를 하면 된다.</p>
+<hr>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
-<li><a href="http://daringfireball.net/projects/markdown/syntax" target="_blank" rel="external">JOHN GRUBER Markdown Syntax</a></li>
 <li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">Github Mastering Markdown</a></li>
 <li><a href="https://help.github.com/categories/writing-on-github/" target="_blank" rel="external">Github Writing</a></li>
-<li><a href="http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/" target="_blank" rel="external">http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/</a></li>
-<li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md</a></li>
-<li><a href="http://www.hakawati.co.kr/405" target="_blank" rel="external">http://www.hakawati.co.kr/405</a></li>
+<li><a href="https://github.github.com/gfm/" target="_blank" rel="external">https://github.github.com/gfm/</a></li>
+<li><a href="http://www.cirosantilli.com/markdown-style-guide/" target="_blank" rel="external">http://www.cirosantilli.com/markdown-style-guide/</a></li>
+<li><a href="http://www.hakawati.co.kr/405" target="_blank" rel="external">hakawati님의 markdown과 친해지기</a></li>
 <li><a href="http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e" target="_blank" rel="external">http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e</a></li>
 <li><a href="https://simhyejin.github.io/2016/06/30/Markdown-syntax/" target="_blank" rel="external">https://simhyejin.github.io/2016/06/30/Markdown-syntax/</a></li>
 <li><a href="http://ccl.cckorea.org/syntax/" target="_blank" rel="external">http://ccl.cckorea.org/syntax/</a></li>
@@ -382,9 +504,10 @@ font-size:10px">[이미지 출처: Hexo hueman theme default image]</span></p>
     <link href="http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-%ED%95%99%EC%8A%B500/"/>
     <id>http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-학습00/</id>
     <published>2017-04-03T14:06:16.000Z</published>
-    <updated>2017-04-15T14:13:35.254Z</updated>
+    <updated>2017-04-16T12:18:54.765Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Spring-Framework-개발환경-설정"><a href="#Spring-Framework-개발환경-설정" class="headerlink" title="Spring Framework 개발환경 설정"></a>Spring Framework 개발환경 설정</h1><p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="<span style=" font-size:10px"="">[이미지 출처: https://spring.io/]</span>font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" target="_blank" rel="external">http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg</a>]</p>
+    <content type="html"><![CDATA[<h1 id="Spring-Framework-개발환경-설정"><a href="#Spring-Framework-개발환경-설정" class="headerlink" title="Spring Framework 개발환경 설정"></a>Spring Framework 개발환경 설정</h1><p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
+font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" rel="external">https://spring.io/</a>]</span></p>
 <h2 id="실습환경"><a href="#실습환경" class="headerlink" title="실습환경"></a>실습환경</h2><ul>
 <li>OS: Ubuntu 16.04.2 LTS</li>
 <li>JDK: 1.8.0_121</li>
@@ -437,21 +560,24 @@ font-size:10px">[<a href="https://spring.io/tools" target="_blank" rel="external
     <link href="http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/"/>
     <id>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</id>
     <published>2017-04-03T13:39:41.000Z</published>
-    <updated>2017-04-15T14:32:55.902Z</updated>
+    <updated>2017-04-16T16:18:31.727Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Hexo와-Github-Page를-이용한-블로그-개설"><a href="#Hexo와-Github-Page를-이용한-블로그-개설" class="headerlink" title="Hexo와 Github Page를 이용한 블로그 개설"></a>Hexo와 Github Page를 이용한 블로그 개설</h1><p><img src="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" alt=""><span style="
+    <content type="html"><![CDATA[<h1 id="Hexo와-Github-Page를-이용한-블로그-개설"><a href="#Hexo와-Github-Page를-이용한-블로그-개설" class="headerlink" title="Hexo와 Github Page를 이용한 블로그 개설"></a>Hexo와 Github Page를 이용한 블로그 개설</h1><p><img src="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" width="500" height="250"><span style="
 font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" target="_blank" rel="external">http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg</a>]</span></p>
 <p>블로그 개설을 결심하고 Tistory를 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go 기반), Hexo(Node.js 기반)와 같은 <a href="https://staticsitegenerators.net/" target="_blank" rel="external">Static Website Generator</a>를 이용하여 생성한 블로그를 github에 push하면 블로그 사이트가 만들어 진다.</p>
 <hr>
-<h3 id="설치"><a href="#설치" class="headerlink" title="설치"></a>설치</h3><p><strong>0) 설치환경</strong></p>
-<table>
+<h3 id="설치"><a href="#설치" class="headerlink" title="설치"></a>설치</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">OS</th>
-<th>Windows 10</th>
+<th style="text-align:center">설치환경</th>
+<th></th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:center">OS</td>
+<td>Windows 10</td>
+</tr>
 <tr>
 <td style="text-align:center">CLI</td>
 <td><a href="https://git-scm.com/downloads" target="_blank" rel="external">Git Bash</a></td>
@@ -488,12 +614,12 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 <p><strong>4) 테마 설치</strong></p>
 <p><em>4.1) 헥소 테마를 직접 만드는 경우</em></p>
 <ul>
-<li><a href="https://hexo.io/docs/themes.html" target="_blank" rel="external">https://hexo.io/docs/themes.html</a></li>
-<li><a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/" target="_blank" rel="external">http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/</a></li>
+<li><a href="https://hexo.io/docs/themes.html" target="_blank" rel="external">Hexo 공식 웹사이트 가이드</a></li>
+<li>Jonathan Klughertz’s Create Hexo Theme <a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/" target="_blank" rel="external">Part 1</a>, <a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-2-Other-Pages/" target="_blank" rel="external">Part 2</a>, <a href="http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-3-Comments-Analytics-and-Widgets/" target="_blank" rel="external">Part 3</a></li>
 </ul>
 <p><em>4.2) 만들어진 테마를 적용할 경우</em></p>
 <ul>
-<li><a href="https://hexo.io/themes/" target="_blank" rel="external">https://hexo.io/themes/</a></li>
+<li><a href="https://hexo.io/themes/" target="_blank" rel="external">Hexo 공식 웹사이트 테마페이지</a></li>
 </ul>
 <p>헥소 공식사이트에 방문하여 적당한 테마를 선택한다. 해당 테마를 제공하는 사용자의 repository를 방문하면 설치방법이 설명되어 있다. 터미널을 열고 헥소 블로그 최상위 폴더에서 다음과 같이 입력하여 테마를 다운받는다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ git clone repository주소 themes/테마명</div></pre></td></tr></table></figure>
@@ -518,6 +644,7 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 <hr>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
 <li><a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a></li>
+<li><a href="http://www.codeblocq.com/tags/Hexo/" target="_blank" rel="external">http://www.codeblocq.com/tags/Hexo/</a></li>
 <li><a href="http://futurecreator.github.io/categories/Web/Hexo/" target="_blank" rel="external">http://futurecreator.github.io/categories/Web/Hexo/</a></li>
 <li><a href="http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/" target="_blank" rel="external">http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/</a></li>
 <li><a href="https://hyunseob.github.io/2016/02/23/start-hexo/" target="_blank" rel="external">https://hyunseob.github.io/2016/02/23/start-hexo/</a></li>
