@@ -181,23 +181,84 @@ font-size:10px&quot;&gt;[이미지
   </entry>
   
   <entry>
-    <title>spring-framework-학습01</title>
-    <link href="http://daehuijo.github.io/2017/04/13/spring-20170413-spring-framework-%ED%95%99%EC%8A%B501/"/>
-    <id>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-framework-학습01/</id>
+    <title>spring projects</title>
+    <link href="http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/"/>
+    <id>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</id>
     <published>2017-04-12T22:48:12.000Z</published>
-    <updated>2017-04-12T23:14:13.232Z</updated>
+    <updated>2017-04-17T21:01:25.603Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Spring-Project"><a href="#Spring-Project" class="headerlink" title="Spring Project"></a>Spring Project</h1><p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
+    <content type="html"><![CDATA[<p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" rel="external">https://spring.io/</a>]</span></p>
 <p><a href="https://spring.io/projects" target="_blank" rel="external">https://spring.io/projects</a></p>
 <p>23개 projects</p>
 <p><a href="http://codingcoding.tistory.com/29" target="_blank" rel="external">http://codingcoding.tistory.com/29</a></p>
 <p><a href="https://gs.saro.me/#!m=elec&amp;jn=673" target="_blank" rel="external">https://gs.saro.me/#!m=elec&amp;jn=673</a></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://platform.spring.io/platform/" target="_blank" rel="external"><img src="/images/spring/icon/springio.png" width="110" height="110"></a></td>
+<td><img src="https://en.opensuse.org/images/e/e3/None.png" width="50"></td>
+<td><strong>Spring IO Platform</strong><br>스프링 IO는 현대적인 애플리케이션을 위해서 응집력 있고 버전관리가 된 기본적인 플랫폼안에 핵심(core) 스프링 API를 함께 제공한다.</td>
+</tr>
+<tr>
+<td><img src="/images/spring/icon/spring-boot.png" width="110" height="110"></td>
+<td></td>
+<td><strong>Spring Boot</strong><br>작은 스프링 구성과 함께 언제든지 실행할 수 있는 스프링 애플리케이션을 만들수 있게 도와준다.</td>
+</tr>
+<tr>
+<td><img src="/images/spring/icon/spring-framework.png" width="110" height="110"></td>
+<td></td>
+<td><strong>Spring Framework</strong><br>자바로 엔터프라이즈 애플리케이션을 만들 때 포괄적으로 사용할 수 있는 Programming 및 Configuration 모델을 제공해주는 프레임워크이다.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Spring-Project&quot;&gt;&lt;a href=&quot;#Spring-Project&quot; class=&quot;headerlink&quot; title=&quot;Spring Project&quot;&gt;&lt;/a&gt;Spring Project&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://spri
+      &lt;p&gt;&lt;img src=&quot;https://spring.io/img/spring-by-pivotal.png&quot; alt=&quot;&quot;&gt;&lt;span style=&quot;
+font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://spring.io/&quot; target=
     
     </summary>
     
@@ -499,13 +560,13 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
   </entry>
   
   <entry>
-    <title>Spring Framework 학습 00</title>
-    <link href="http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-%ED%95%99%EC%8A%B500/"/>
-    <id>http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-Framework-학습00/</id>
+    <title>Spring 개발환경 설정</title>
+    <link href="http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95/"/>
+    <id>http://daehuijo.github.io/2017/04/03/spring-20170403-Spring-개발환경-설정/</id>
     <published>2017-04-03T14:06:16.000Z</published>
-    <updated>2017-04-16T12:18:54.765Z</updated>
+    <updated>2017-04-17T20:54:40.541Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Spring-Framework-개발환경-설정"><a href="#Spring-Framework-개발환경-설정" class="headerlink" title="Spring Framework 개발환경 설정"></a>Spring Framework 개발환경 설정</h1><p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
+    <content type="html"><![CDATA[<p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" rel="external">https://spring.io/</a>]</span></p>
 <h2 id="실습환경"><a href="#실습환경" class="headerlink" title="실습환경"></a>실습환경</h2><ul>
 <li>OS: Ubuntu 16.04.2 LTS</li>
@@ -539,7 +600,8 @@ font-size:10px">[<a href="https://spring.io/tools" target="_blank" rel="external
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Spring-Framework-개발환경-설정&quot;&gt;&lt;a href=&quot;#Spring-Framework-개발환경-설정&quot; class=&quot;headerlink&quot; title=&quot;Spring Framework 개발환경 설정&quot;&gt;&lt;/a&gt;Spring Framewo
+      &lt;p&gt;&lt;img src=&quot;https://spring.io/img/spring-by-pivotal.png&quot; alt=&quot;&quot;&gt;&lt;span style=&quot;
+font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://spring.io/&quot; target=
     
     </summary>
     

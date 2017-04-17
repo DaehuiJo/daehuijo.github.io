@@ -37,20 +37,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/spring/</loc>
-        <lastmod>2017-04-16T12:18:54.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/framework/</loc>
-        <lastmod>2017-04-16T12:18:54.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/bookmark/</loc>
         <lastmod>2017-04-16T17:10:36.349Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -81,6 +67,20 @@
     <url>
         <loc>http://daehuijo.github.io/tags/markdown/</loc>
         <lastmod>2017-04-16T21:08:17.307Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/spring/</loc>
+        <lastmod>2017-04-17T21:01:25.603Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/framework/</loc>
+        <lastmod>2017-04-17T21:01:25.603Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
