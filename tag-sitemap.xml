@@ -37,50 +37,57 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
-        <lastmod>2017-04-16T17:10:36.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/hexo/</loc>
-        <lastmod>2017-04-16T21:05:04.548Z</lastmod>
+        <lastmod>2017-04-18T11:04:38.743Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/blog/</loc>
-        <lastmod>2017-04-16T21:05:04.548Z</lastmod>
+        <lastmod>2017-04-18T11:04:38.743Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/Cloud-IDE/</loc>
+        <lastmod>2017-04-18T20:25:26.983Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/markup/</loc>
-        <lastmod>2017-04-16T21:08:17.307Z</lastmod>
+        <lastmod>2017-04-18T20:58:46.245Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/markdown/</loc>
-        <lastmod>2017-04-16T21:08:17.307Z</lastmod>
+        <lastmod>2017-04-18T20:58:46.245Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
+        <lastmod>2017-04-18T20:59:25.564Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/spring/</loc>
-        <lastmod>2017-04-17T21:01:25.603Z</lastmod>
+        <lastmod>2017-04-18T21:23:16.627Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/framework/</loc>
-        <lastmod>2017-04-17T21:01:25.603Z</lastmod>
+        <lastmod>2017-04-18T21:23:16.627Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

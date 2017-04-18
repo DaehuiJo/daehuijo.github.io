@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-16T21:08:17.307Z</updated>
+  <updated>2017-04-18T20:25:26.983Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -16,21 +16,111 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Cloud IDE</title>
+    <link href="http://daehuijo.github.io/2017/04/19/etc-20170419-Cloud-IDE/"/>
+    <id>http://daehuijo.github.io/2017/04/19/etc-20170419-Cloud-IDE/</id>
+    <published>2017-04-18T19:24:26.000Z</published>
+    <updated>2017-04-18T20:25:26.983Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/800/0*anRQIKUQuPcFdClg.jpg" alt=""><span style="
+font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_blank" rel="external">https://blog.codenvy.com/</a>]</span></p>
+<blockquote>
+<p>클라우드 IDE는 기존 IDE의 불편함을 줄이기 위해 등장했다. 클라우드 IDE는 물리적인 컴퓨터에 종속되지 않는다. 웹브라우저를 실행하고 로그인만 하면 IDE를 이용할 수 있기 때문이다. 구글 독스를 이용하면 언제 어디서나 원하는 문서 작업을 할 수 있듯이, 클라우드 IDE로 인터넷에 연결된 컴퓨터만 있으면 어디서든 개발 작업을 이어 진행할 수 있다.                    - jihyun@bloter.net</p>
+</blockquote>
+<h3 id="Cloud-IDE-Services"><a href="#Cloud-IDE-Services" class="headerlink" title="Cloud IDE Services"></a>Cloud IDE Services</h3><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://c9.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/672150770578362368/_xpMfEap.jpg" width="110" height="110"></a></td>
+<td><img src="https://en.opensuse.org/images/e/e3/None.png" width="50"></td>
+<td>Cloud9</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://codeanywhere.com/" target="_blank" rel="external"><img src="http://cdn.appstorm.net/web.appstorm.net/files/2011/06/Codeanywhere.png" width="110" height="110"></a></td>
+<td></td>
+<td>CodeAnywhere</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://codenvy.com/" target="_blank" rel="external"><img src="https://jaxenter.com/wp-content/uploads/2015/04/Codenvy_Logo-e1430385138631.jpg" width="110" height="110"></a></td>
+<td></td>
+<td>Codenvy</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://www.koding.com/" target="_blank" rel="external"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAcjAAAAJGM1YjU5ODI5LWU1NmYtNDU2Yi05NWVmLWYyYTc1MTM2ZGVhNA.png" width="110" height="110"></a></td>
+<td></td>
+<td>Koding</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://www.sourcelair.com/home" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SourceLair_Logo.png/240px-SourceLair_Logo.png" width="110" height="110"></a></td>
+<td></td>
+<td>SourceLair</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://www.eclipse.org/che/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/700361197112000513/w9Cyilbf.png" width="110" height="110"></a></td>
+<td></td>
+<td>Eclipse Che</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://www.goorm.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/378800000578347365/cf1a4430a704e076b603c095fa631414_400x400.png" width="110" height="110"></a></td>
+<td></td>
+<td>Goorm</td>
+</tr>
+</tbody>
+</table>
+<p><span style="
+font-size:14px">[출처: <a href="https://www.slant.co/" target="_blank" rel="external">https://www.slant.co/</a>]</span></p>
+<p>사용후기는 나중에…</p>
+<h3 id="참고"><a href="#참고" class="headerlink" title="참고"></a>참고</h3><ul>
+<li><a href="https://www.slant.co/topics/713/~best-cloud-ides" target="_blank" rel="external">What are the best cloud IDEs?</a></li>
+<li><a href="http://nnoco.tistory.com/258" target="_blank" rel="external">Web(Cloud) IDE 비교</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*anRQIKUQuPcFdClg.jpg&quot; alt=&quot;&quot;&gt;&lt;span style=&quot;
+font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
+    
+    </summary>
+    
+      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
+    
+    
+      <category term="Cloud IDE" scheme="http://daehuijo.github.io/tags/Cloud-IDE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>markup and markdown</title>
     <link href="http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/"/>
     <id>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</id>
     <published>2017-04-16T12:56:24.000Z</published>
-    <updated>2017-04-16T21:08:17.307Z</updated>
+    <updated>2017-04-18T20:58:46.245Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><h2 id="Markdonw"><a href="#Markdonw" class="headerlink" title="Markdonw"></a>Markdonw</h2><blockquote>
-<p><strong>마크다운</strong>(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰인다. 마크다운을 이용해 작성된 문서는 쉽게 HTML 등 다른 문서형태로 변환이 가능하다.</p>
-<p>존 그루버는 2004년에 문법 면에서 에런 스워츠와 중대한 협업을 통해 마크다운 언어를 만들었으며, 사람들이 읽기 쉽고 쓰기 쉬운 플레인 텍스트 포맷을 사용하여 쓸 수 있으면서 구조적으로 유효한 XHTML(또는 HTML)로 선택적 변환이 가능하게 하는 것이 목표이다.                                                                     - wikipedia</p>
+    <content type="html"><![CDATA[<p><img src="http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-Stock-Illustration.jpg" alt=""></p>
+<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><blockquote>
+<p>마크업(Markup)은 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한 가지이다. 태그는 원래 텍스트와는 별도로 원고의 교정부호와 주석을 표현하기 위한 것이였으나 용도가 점차 확장되어 문서의 구조를 표현하는 역할을 하게 되었다.                                                                                                                                     - wikipedia</p>
+</blockquote>
+<h2 id="Markdonw"><a href="#Markdonw" class="headerlink" title="Markdonw"></a>Markdonw</h2><p><img src="/images/etc/markdown.jpg" alt=""></p>
+<blockquote>
+<p>존 그루버는 2004년에 문법 면에서 에런 스워츠와 중대한 협업을 통해 마크다운 언어를 만들었다. 마크다운(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰인다. 마크다운을 이용해 작성된 문서는 쉽게 HTML 등 다른 문서형태로 변환이 가능하다.                                                                                                                                        - wikipedia</p>
 </blockquote>
 <p><strong><a href="https://www.slideshare.net/devsejong/ss-34549631" target="_blank" rel="external">박세정님의 Markdown 소개 Slide Share</a></strong></p>
-<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/apbFgxTgXWXPWR" width="900" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div></p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/apbFgxTgXWXPWR" width="780" height="460" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div></p>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
-<li>​</li>
-<li>​</li>
 <li><a href="http://daringfireball.net/projects/markdown/syntax" target="_blank" rel="external">JOHN GRUBER Markdown Syntax</a></li>
 <li><a href="https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/" target="_blank" rel="external">https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/</a></li>
 <li><a href="http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/" target="_blank" rel="external">Kalkin7님의 워드프레스 마크다운 문법 설명</a></li>
@@ -49,7 +139,7 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Markup&quot;&gt;&lt;a href=&quot;#Markup&quot; class=&quot;headerlink&quot; title=&quot;Markup&quot;&gt;&lt;/a&gt;Markup&lt;/h2&gt;&lt;h2 id=&quot;Markdonw&quot;&gt;&lt;a href=&quot;#Markdonw&quot; class=&quot;headerlink&quot; 
+      &lt;p&gt;&lt;img src=&quot;http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-
     
     </summary>
     
@@ -117,16 +207,9 @@ font-size:10px">[이미지 출처: <a href="https://cdn.taschen.com/" target="_b
     <link href="http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/"/>
     <id>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</id>
     <published>2017-04-12T23:15:10.000Z</published>
-    <updated>2017-04-16T17:10:36.349Z</updated>
+    <updated>2017-04-18T20:59:25.564Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://thumbs.dreamstime.com/t/bookmark-star-web-page-concept-graphic-83517408.jpg" alt=""><span style="
-font-size:10px">[이미지 출처: <a href="https://thumbs.dreamstime.com/" target="_blank" rel="external">https://thumbs.dreamstime.com/</a>]</span></p>
-<p>Chrome browser bookmark 기능이 있지만 가독성 및 효용성을 위한 포스팅</p>
-<div class="text-box"><br><br>1. aws<br><br></div>
-
-
-
-<h4 id="Tag"><a href="#Tag" class="headerlink" title="#Tag"></a>#Tag</h4><table>
+    <content type="html"><![CDATA[<h4 id="Tag"><a href="#Tag" class="headerlink" title="#Tag"></a>#Tag</h4><table>
 <thead>
 <tr>
 <th>@category</th>
@@ -134,18 +217,135 @@ font-size:10px">[이미지 출처: <a href="https://thumbs.dreamstime.com/" targ
 </thead>
 <tbody>
 <tr>
-<td><a href="#AWS">AWS</a> / <a href="#Spring">Spring Framework</a></td>
+<td><a href="#AWS">AWS</a> / <a href="#Cloud_IDE">Cloud IDE</a> / <a href="#Database">Database</a> / <a href="#JAVA">JAVA</a> / <a href="#Spring">Spring</a> / <a href="#웹표준">웹표준</a> /</td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3 id="AWS"><a href="#AWS" class="headerlink" title="AWS"></a>AWS</h3><table>
+<h3 id="웹표준"><a href="#웹표준" class="headerlink" title="웹표준"></a>웹표준</h3><table>
 <thead>
 <tr>
-<th>Amazon Web Service</th>
+<th></th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://www.w3schools.com/" target="_blank" rel="external">W3SCHOOL.COM</a></td>
+</tr>
+<tr>
+<td><a href="http://superkts.com/" target="_blank" rel="external">CSS, JQuery 공작소</a></td>
+</tr>
+<tr>
+<td><a href="http://www.htmldrive.net/" target="_blank" rel="external">Free Dhtml scripts, Jquery plugins ,Javascript, CSS, CSS3, Html5 Library</a></td>
+</tr>
+<tr>
+<td><a href="https://opentutorials.org/course/743" target="_blank" rel="external">생활코딩 JavaScript</a></td>
+</tr>
+<tr>
+<td><a href="https://nolboo.kim/blog/2014/03/13/how-to-learn-javascript-properly/" target="_blank" rel="external">Nolboo님의 자바스크립트 제대로 배우기</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="JAVA"><a href="#JAVA" class="headerlink" title="JAVA"></a>JAVA</h3><table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CORE</strong></td>
+</tr>
+<tr>
+<td><a href="http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php" target="_blank" rel="external">난 정말 JAVA를 공부한 적이 없다구요</a> / 오렌지 미디어 동영상 강의</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td><strong>JSP/SERVELET</strong></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="Spring"><a href="#Spring" class="headerlink" title="Spring"></a>Spring</h3><table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>동영상 강좌</strong></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLieE0qnqO2kTyzAlsvxzoulHVISvO8zA9" target="_blank" rel="external">Seoul Wiz: Java&amp;JSP&amp;Spring</a> /youtube</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLY9pe3iUjRrRHaN7Sb8xxWS7Ir_PolLtk" target="_blank" rel="external">Boaz Academy: Spring</a> /youtube</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x" target="_blank" rel="external">Java Brains: Spring Boot quick start</a> /youtube</td>
+</tr>
+<tr>
+<td><strong>tutorial</strong></td>
+</tr>
+<tr>
+<td><a href="https://slipp.net/wiki/pages/viewpage.action?pageId=25529113" target="_blank" rel="external">자바지기(박재성)님의 Spring-Boot, JPA로 질문/답변 게시판 구현</a> / <a href="http://asfirstalways.tistory.com/292" target="_blank" rel="external">JBee님의 실습페이지</a></td>
+</tr>
+<tr>
+<td><a href="http://addio3305.tistory.com/category/Spring?page=2" target="_blank" rel="external">흔한 개발자의 개발 노트: Spring</a></td>
+</tr>
+<tr>
+<td><a href="http://blog.naver.com/jazz1234k" target="_blank" rel="external">강력먼지제거님의 Spring 3</a></td>
+</tr>
+<tr>
+<td><a href="https://gs.saro.me/#!m=elec&amp;jn=674" target="_blank" rel="external">박용서님의 Spring 4 입문 &amp; 리눅스 서버 배포</a></td>
+</tr>
+<tr>
+<td><a href="http://ooz.co.kr/170" target="_blank" rel="external">오즈님의 Spring Framework</a></td>
+</tr>
+<tr>
+<td><a href="https://leesunghee.gitbooks.io/mockito-for-spring/content/chapter1.html" target="_blank" rel="external">이성희님의 Spring Framework</a></td>
+</tr>
+<tr>
+<td><a href="http://websystique.com/spring-4-mvc-tutorial/" target="_blank" rel="external">websystique.com: Spring 4 MVC Tutorial</a></td>
+</tr>
+<tr>
+<td><a href="http://millky.com/@origoni/post/1100?language=ko_kr" target="_blank" rel="external">밀키님의 Spring Boot web Project</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="AWS"><a href="#AWS" class="headerlink" title="AWS"></a>AWS</h3><table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Amazon Web Service</strong></td>
+</tr>
 <tr>
 <td><a href="http://ora-sysdba.tistory.com/entry/Cloud-Computing-Amazon-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-JavaJDK-%EC%84%A4%EC%B9%98" target="_blank" rel="external">Amazon EC2 Instance에 Java(JDK) 설치: FTP방식</a></td>
 </tr>
@@ -163,13 +363,40 @@ font-size:10px">[이미지 출처: <a href="https://thumbs.dreamstime.com/" targ
 </tr>
 </tbody>
 </table>
-<h3 id="Spring"><a href="#Spring" class="headerlink" title="Spring"></a>Spring</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div><div class="line">122</div><div class="line">123</div><div class="line">124</div><div class="line">125</div><div class="line">126</div><div class="line">127</div><div class="line">128</div><div class="line">129</div><div class="line">130</div><div class="line">131</div><div class="line">132</div><div class="line">133</div><div class="line">134</div><div class="line">135</div><div class="line">136</div><div class="line">137</div><div class="line">138</div><div class="line">139</div><div class="line">140</div><div class="line">141</div><div class="line">142</div><div class="line">143</div><div class="line">144</div><div class="line">145</div><div class="line">146</div><div class="line">147</div><div class="line">148</div><div class="line">149</div><div class="line">150</div><div class="line">151</div><div class="line">152</div><div class="line">153</div><div class="line">154</div><div class="line">155</div><div class="line">156</div><div class="line">157</div><div class="line">158</div><div class="line">159</div><div class="line">160</div><div class="line">161</div><div class="line">162</div><div class="line">163</div><div class="line">164</div><div class="line">165</div><div class="line">166</div><div class="line">167</div><div class="line">168</div><div class="line">169</div><div class="line">170</div><div class="line">171</div><div class="line">172</div><div class="line">173</div><div class="line">174</div><div class="line">175</div><div class="line">176</div><div class="line">177</div><div class="line">178</div><div class="line">179</div><div class="line">180</div><div class="line">181</div><div class="line">182</div><div class="line">183</div><div class="line">184</div><div class="line">185</div><div class="line">186</div><div class="line">187</div><div class="line">188</div><div class="line">189</div><div class="line">190</div><div class="line">191</div><div class="line">192</div><div class="line">193</div><div class="line">194</div><div class="line">195</div><div class="line">196</div><div class="line">197</div><div class="line">198</div><div class="line">199</div><div class="line">200</div><div class="line">201</div><div class="line">202</div><div class="line">203</div><div class="line">204</div><div class="line">205</div><div class="line">206</div><div class="line">207</div><div class="line">208</div><div class="line">209</div><div class="line">210</div><div class="line">211</div><div class="line">212</div><div class="line">213</div><div class="line">214</div><div class="line">215</div><div class="line">216</div><div class="line">217</div><div class="line">218</div><div class="line">219</div><div class="line">220</div><div class="line">221</div><div class="line">222</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div><div class="line">Spring</div><div class="line"></div><div class="line">강좌</div><div class="line"></div><div class="line">    자바 프레임워크 스프링 강좌			https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%95%EC%A2%8C/</div><div class="line">    						http://www.enjoydev.net/xe/en_devboard/26554</div><div class="line">    						https://gs.saro.me/#!m=elec&amp;jn=674</div><div class="line">    Spring-Boot, JPA로 질문/답변 게시판 구현	https://slipp.net/wiki/pages/viewpage.action?pageId=25529113</div><div class="line">    						http://asfirstalways.tistory.com/300</div><div class="line">    스프링(Spring) 프레임워크 기본 개념 강좌	http://ooz.co.kr/170</div><div class="line">    						https://leesunghee.gitbooks.io/mockito-for-spring/content/chapter1.html</div><div class="line">    스프링 기본 프로젝트 분석!!!			http://addio3305.tistory.com/37</div><div class="line">    Accessing MongoDB Data with REST		https://spring.io/guides/gs/accessing-mongodb-data-rest/#scratch	</div><div class="line">    ???						http://jason719.tistory.com/88</div><div class="line">    spring 4 mvc tutorial				http://websystique.com/spring-4-mvc-tutorial/</div><div class="line"></div><div class="line">Spring boot</div><div class="line"></div><div class="line">    STS로 Spring Boot 웹 프로젝트 시작		http://millky.com/@origoni/post/1100?language=ko_kr</div><div class="line"></div><div class="line">   	Spring Boot + Spring Data MongoDB example	https://www.mkyong.com/spring-boot/spring-boot-spring-data-mongodb-example/</div><div class="line"></div><div class="line">    Spring Boot Reference Guide			http://docs.spring.io/spring-boot/docs/1.2.2.RELEASE/reference/htmlsingle/</div><div class="line">    spring 4.0					http://milo.tistory.com/entry/Spring-40-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%84%B1</div><div class="line">    spring 4.0 + java config(web.xml x)		http://tiveloper.tistory.com/entry/Spring-40-Java-Config-webxml-%EC%97%86%EC%95%A0%EA%B8%B0</div><div class="line"></div><div class="line">게시판 예제</div><div class="line"></div><div class="line">    Spring - 게시판 만들기(검색기능 구현)		http://doublesprogramming.tistory.com/96</div><div class="line">    게시판						http://addio3305.tistory.com/72</div><div class="line">    스프링 프레임워크를 이용한 MyBatis 게시판	http://m.blog.naver.com/0221jyh/220325179391</div><div class="line">    Spring MVC 게시판				http://www.java-school.net/spring/spring-mvc-bbs</div><div class="line">    Spring boot 게시판				http://private.tistory.com/35</div><div class="line"></div><div class="line">JSP게시판</div><div class="line"></div><div class="line">    본격 게시판짜기 – jsp 게시판 기초부터 고급까지	http://iluku.net/blog/archives/1398</div><div class="line"></div><div class="line">etc</div><div class="line"></div><div class="line">    release note					http://javabeat.net/spring-4/</div><div class="line">    스프링 프로젝트 종류				http://codingcoding.tistory.com/29</div><div class="line">    spring						http://cocomo.tistory.com/category/%EC%9B%B9%20%26%20%EC%95%B1%20%EA%B0%9C%EB%B0%9C/Spring</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">MongoDB</div><div class="line"></div><div class="line">    MongoDB 기초					http://cyberx.tistory.com/76</div><div class="line">    Install MongoDB					https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/</div><div class="line">    						http://bcho.tistory.com/742</div><div class="line">    Tutorial					https://www.tutorialspoint.com/mongodb/mongodb_java.htm</div><div class="line">    강좌						https://velopert.com/436</div><div class="line">    MongoDB 사용자 인증				http://www.tutorialbook.co.kr/entry/MongoDB-%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-authorization-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0</div><div class="line">    </div><div class="line">    MongoDB University				https://university.mongodb.com/</div><div class="line">    Spring &amp; MongoDB				http://juntigerk.tistory.com/30</div><div class="line">    						https://tests4geeks.com/spring-data-boot-mongodb-example/</div><div class="line">    						http://mazdah.tistory.com/726</div><div class="line">    						http://loveiskey.tistory.com/150</div><div class="line">    						http://cocomo.tistory.com/364</div><div class="line">    						http://madeinjeon.tistory.com/106</div><div class="line">    MongoDB Editor					https://robomongo.org/</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">GitHub Page</div><div class="line"></div><div class="line">    GitHub의 Pages를 이용하여 개인 사이트 구축	http://blog.saltfactory.net/create-personal-web-site-using-with-github-pages/</div><div class="line"></div><div class="line">Hexo</div><div class="line"></div><div class="line">    Get started with Hexo on Github			http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/</div><div class="line">    헥소 시작하기					https://hyunseob.github.io/2016/02/23/start-hexo/	</div><div class="line"></div><div class="line">Hugo</div><div class="line"></div><div class="line">    Hugo Quickstart Guide				http://gohugo.io/overview/quickstart/</div><div class="line">    Hugo 설치					https://blog.leehack.com/blog/2015/11/25/hugo-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/</div><div class="line"></div><div class="line">Jekyll</div><div class="line"></div><div class="line">    Jekyll Official Page				https://jekyllrb.com/</div><div class="line">    Jekyll 기반의 GitHub Pages에 블로그 만들기	https://xho95.github.io/blog/github/jekyll/git/2016/01/11/Make-a-blog-with-Jekyll.html</div><div class="line"></div><div class="line">https://hexo.io/ko/docs/setup.html</div><div class="line"></div><div class="line">    	http://futurecreator.github.io/2016/06/19/hexo-tag-plugins/</div><div class="line">    hexo setting -&gt; apply theme -&gt; git push( http://www.codeblocq.com/2015/12/Hexo-deploy-your-blog-to-github-pages-in-one-command/ )</div><div class="line"></div><div class="line">hexo_template</div><div class="line"></div><div class="line">    	https://github.com/ppoffice/hexo-theme-hueman</div><div class="line"></div><div class="line">markdown</div><div class="line"></div><div class="line">    	http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/</div><div class="line">    	http://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">Java</div><div class="line"></div><div class="line">    자바(Java) - 인터페이스(Interface) 개념과 예제		http://bisuanytime.blogspot.sg/2016/09/java-interface.html</div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">C</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">JQuery</div><div class="line"></div><div class="line">http://gangzzang.tistory.com/entry/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%ACjquery-%EA%B8%B0%EB%B3%B8</div><div class="line"></div><div class="line">http://jquery.com/</div><div class="line"></div><div class="line">http://www.superkts.com/</div><div class="line"></div><div class="line">//jQuery 예제</div><div class="line"></div><div class="line">http://biketago.com/etc/?m=list&amp;id=13</div><div class="line"></div><div class="line">//자바스크립트예제</div><div class="line"></div><div class="line">http://falconer.tistory.com/158</div><div class="line"></div><div class="line">superkts.com</div><div class="line"></div><div class="line">superkts.pe.kr</div><div class="line"></div><div class="line">//css 참조 사이트</div><div class="line"></div><div class="line">http://superkts.com/</div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line">// jQuery 기본 문법 사이트</div><div class="line"></div><div class="line">http://gangzzang.tistory.com/entry/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%ACjquery-%EA%B8%B0%EB%B3%B8</div><div class="line"></div><div class="line">//jQuery 예제 사이트 모음</div><div class="line"></div><div class="line">http://www.htmldrive.net/items/show/872/Nice-Multiple-jQuery-Mega-Drop-Down-Menu</div><div class="line"></div><div class="line">// 홈페이지 무료 사이트 /부트 스크립/ 템플릿</div><div class="line"></div><div class="line">http://www.bootstrapzero.com/</div><div class="line"></div><div class="line">http://startbootstrap.com/template-categories/all/</div><div class="line"></div><div class="line">http://bootswatch.com/</div><div class="line"></div><div class="line">	</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">Algolism &amp; DataStructure</div><div class="line"></div><div class="line">    C 알고리즘					http://blog.eairship.kr/35</div><div class="line">    C 자료구조					http://dblab.duksung.ac.kr/ds/about.html</div><div class="line">    알고리즘 연습					http://www.clien.net/cs2/bbs/board.php?bo_table=useful&amp;wr_id=242531</div><div class="line">    						https://www.acmicpc.net/</div><div class="line">    초보자를 위한 Big O 표기법			http://www.mydiyworld.net/?p=440</div><div class="line">    자료구조_이화여자대학교				http://www.kocw.net/home/search/kemView.do?kemId=1085782</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">PHP</div><div class="line"></div><div class="line">    윈도우즈에 아파치,PHP,MySQL			http://www.erzsamatory.net/172</div><div class="line">    PHP개발자 소양					http://slides.com/hyun-seoklee/newbie_book_survey-8/embed</div><div class="line"></div><div class="line">	</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">전자정부 표준프레임워크</div><div class="line"></div><div class="line">    전자정부 프레임워크 소개			http://netframework.tistory.com/entry/3-%EC%A0%84%EC%9E%90-%EC%A0%95%EB%B6%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%9D%98-%EC%86%8C%EA%B0%9C</div><div class="line">    공식페이지					https://www.egovframe.go.kr/</div><div class="line">    전자정부 표준프레임워크 3.0 기반 개발		http://www.egovframe.go.kr/wiki/doku.php?id=egovframework:dev3.0:gettingstarted</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">API</div><div class="line"></div><div class="line">    OPEN API란					http://ehclub.co.kr/2535</div><div class="line"></div><div class="line">-----------------------------------------------------------------------------------------	</div><div class="line"></div><div class="line">restAPI</div><div class="line"></div><div class="line">    REST API 설계 및 구현				https://slipp.net/wiki/pages/viewpage.action?pageId=12878219#id-8주차-RESTAPI설계및구현-API(ApplicationProgrammingInterface)란무엇인가?</div><div class="line"></div><div class="line">	</div><div class="line"></div><div class="line">---</div><div class="line"></div><div class="line">etc</div><div class="line"></div><div class="line">    torrent						https://rutracker.org/forum/index.php</div><div class="line"></div><div class="line">    포터블 콘솔 에뮬레이터				http://programmingsummaries.tistory.com/352</div><div class="line"></div><div class="line">    cloud development				https://c9.io/</div><div class="line">    댓글API						https://disqus.com/</div><div class="line">    VLC media Player				</div><div class="line">    Java(JDK) 환경변수 설정				http://shuman.tistory.com/113</div><div class="line">    이클립스 속도 올리기				http://gyuha.tistory.com/289</div><div class="line">    Packtpub IT book				https://www.packtpub.com/</div><div class="line">    IT book download				http://it-ebooks.directory/</div><div class="line">    OWASP WebGoat Web Hacking Simulation .._	http://webappsecmovies.sourceforge.net/webgoat/</div><div class="line">    Scrapy Tutorial					https://www.tutorialspoint.com/scrapy/index.htm</div><div class="line">    윈도우 hosts 파일 수정 프로그램 v0.5		http://saksin.tistory.com/1159</div><div class="line">    개인프로젝트를 위한 개발환경 구축		https://bluepoet.me/2013/06/27/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B4%80%EB%A6%AC%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-1/</div><div class="line"></div><div class="line">---</div></pre></td></tr></table></figure>
+<h3 id="Cloud-IDE"><a href="#Cloud-IDE" class="headerlink" title="Cloud_IDE"></a>Cloud_IDE</h3><table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://c9.io/" target="_blank" rel="external">Cloud9</a></td>
+</tr>
+<tr>
+<td><a href="https://ide.goorm.io/" target="_blank" rel="external">구름IDE</a></td>
+</tr>
+<tr>
+<td><a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" rel="external">tutorialspoint Onlie Terminal &amp; IDE</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>### </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://thumbs.dreamstime.com/t/bookmark-star-web-page-concept-graphic-83517408.jpg&quot; alt=&quot;&quot;&gt;&lt;span style=&quot;
-font-size:10px&quot;&gt;[이미지 
+      &lt;h4 id=&quot;Tag&quot;&gt;&lt;a href=&quot;#Tag&quot; class=&quot;headerlink&quot; title=&quot;#Tag&quot;&gt;&lt;/a&gt;#Tag&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;@category&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
     
     </summary>
     
@@ -185,7 +412,7 @@ font-size:10px&quot;&gt;[이미지
     <link href="http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/"/>
     <id>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</id>
     <published>2017-04-12T22:48:12.000Z</published>
-    <updated>2017-04-17T21:01:25.603Z</updated>
+    <updated>2017-04-18T21:23:16.627Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" rel="external">https://spring.io/</a>]</span></p>
@@ -253,6 +480,7 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
 </tr>
 </tbody>
 </table>
+<p><a href="/images/etc/icons.zip" download="">Spring project icons download</a></p>
 ]]></content>
     
     <summary type="html">
@@ -382,7 +610,7 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://spring.io/&q
     <link href="http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/"/>
     <id>http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/</id>
     <published>2017-04-05T19:16:10.000Z</published>
-    <updated>2017-04-16T21:05:04.548Z</updated>
+    <updated>2017-04-18T11:00:14.574Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Markdown을-이용한-Hexo-블로그-포스팅"><a href="#Markdown을-이용한-Hexo-블로그-포스팅" class="headerlink" title="Markdown을 이용한 Hexo 블로그 포스팅"></a>Markdown을 이용한 Hexo 블로그 포스팅</h1><p><img src="/images/hexo/hexo_title.png" alt=""><span style="
 font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p>
@@ -390,7 +618,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <hr>
 <h3 id="Post-생성"><a href="#Post-생성" class="headerlink" title="Post 생성"></a>Post 생성</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new &apos;post title&apos;</div></pre></td></tr></table></figure>
 <p><img src="/images/hexo/hexo_new_post.png" alt=""></p>
-<p>Hexo에서 제공하는 <code>markdown file</code>생성 명령어는 <code>$ hexo new [layout] &lt;title&gt;</code>이지만 github에 배포하기 전까지는 로컬의 내용이 반영되지 않기 때문에 무의미 하다 생각되어 이외의 내용은 고려하지 않는다. 생성된 마크다운 파일은 <code>/source/_posts</code>에 위치한다.</p>
+<p>Hexo에서 제공하는 <code>markdown file</code>생성 명령어는 <code>$ hexo new [layout] &lt;title&gt;</code>이지만 github에 배포하기 전까지는 로컬의 내용이 반영되지 않기 때문에 무의미 하다 생각되어 이외의 내용은 고려하지 않았다. 생성된 마크다운 파일은 <code>/source/_posts</code>에 위치한다.</p>
 <p><img src="/images/hexo/hexo-post-dir.png" alt=""></p>
 <hr>
 <h3 id="Post-작성"><a href="#Post-작성" class="headerlink" title="Post 작성"></a>Post 작성</h3><p>생성된 파일을 열어보면 다음과 같다.</p>
@@ -443,9 +671,9 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 </table>
 <p><strong>categories &amp; tags</strong></p>
 <p>태그의 경우 계층의 구분이 없기때문에 작성순서가 중요하지 않으나, 카테고리는 작성한 순서에 따라 계층구조로 적용된다.</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">categories:</div><div class="line"> - Sports</div><div class="line"> - Baseball</div><div class="line">tags:</div><div class="line"> - Exercise</div><div class="line"> - athlete</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: firstPost</div><div class="line">date: 2017-04-15 22:18:35</div><div class="line">categories:</div><div class="line"> - Sports</div><div class="line"> - Baseball</div><div class="line">tags:</div><div class="line"> - Exercise</div><div class="line"> - athlete</div><div class="line"> ---</div></pre></td></tr></table></figure>
 <p><strong>본문 작성</strong></p>
-<p>Front-matter 다음 라인부터 포스스 내용을 GFM에 맞춰서 작성하면 된다.</p>
+<p>Front-matter 다음 라인<code>(---)</code>부터 컨텐츠 내용을 GFM에 맞춰서 작성하면 된다.</p>
 <ul>
 <li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">biospin님의 마크다운.md</a></li>
 </ul>
@@ -462,13 +690,16 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <p>정적파일이 생성된 후 원격서버에 이를 배포한다. 배포명령어는 입력하면 <code>_config.yml</code>에 입력했었던 repository url에 push를 하기위한 github의 정보를 요구한다. 이를 입력해주면 배포가 완료되었다는 메시지가 나타난다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
 <p>포스트 내용의 업데이트가 완전히 이루어 지지 않았을 경우에는 <code>$ hexo clean</code>을 통해 database와 public folder를 삭제한 후 다시 정적파일 생성 및 배포를 하면 된다.</p>
-<h3 id="Hexo-posting-환경-유지"><a href="#Hexo-posting-환경-유지" class="headerlink" title="Hexo posting 환경 유지"></a>Hexo posting 환경 유지</h3><p> <code>public</code>폴더에 생성된 정적파일만 원격저장소에 저장되기 때문에 해당 블로그에 대한 설정파일(generator)을 유지하기 위해서는 github의 다른 repository에 블로그 폴더 전체파일을 push하는 방법도 있으나, 나의 경우 Cloud storage(dropbox)에 동기화 시켜 사용하고 있다. nodejs, git, hexo package만 설치해준 뒤, 블로그폴더 동기화를 거치면  포스팅 환경이 다시 만들어 진다.</p>
+<hr>
+<h3 id="기타-환경설정"><a href="#기타-환경설정" class="headerlink" title="기타 환경설정"></a>기타 환경설정</h3><p>여기까지가 포스팅을 위한 기본적인 내용이며, 추가적인 환경설정(github namecard 추가, 네이버 &amp; 구글 사이트 등록 및 구글 광고 추가 등)은 <a href="http://futurecreator.github.io/categories/Web/Hexo/" target="_blank" rel="external">Eric Han님의 헥소관련 포스팅</a>에 자세히 나와있다.</p>
+<hr>
+<h3 id="Hexo-posting-환경-유지"><a href="#Hexo-posting-환경-유지" class="headerlink" title="Hexo posting 환경 유지"></a>Hexo posting 환경 유지</h3><p> <code>/public</code>폴더에 생성된 정적파일만 원격저장소에 저장되기 때문에 해당 블로그에 대한 설정파일(generator)을 유지하기 위해서는 github의 다른 repository에 블로그 폴더 전체파일을 push하는 방법도 있으나, 나의 경우에는 Cloud storage(dropbox)에 동기화 시켜 사용하고 있다. nodejs, git, hexo package만 설치해준 뒤, 블로그폴더 동기화를 거치면  포스팅 환경이 다시 만들어 진다.</p>
 <hr>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
 <li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">Github Mastering Markdown</a></li>
 <li><a href="https://help.github.com/categories/writing-on-github/" target="_blank" rel="external">Github Writing</a></li>
-<li><a href="https://github.github.com/gfm/" target="_blank" rel="external">https://github.github.com/gfm/</a></li>
-<li><a href="http://www.cirosantilli.com/markdown-style-guide/" target="_blank" rel="external">http://www.cirosantilli.com/markdown-style-guide/</a></li>
+<li><a href="https://github.github.com/gfm/" target="_blank" rel="external">GitHub Flavored Markdown Spec</a></li>
+<li><a href="http://www.cirosantilli.com/markdown-style-guide/" target="_blank" rel="external">Ciro Santilli’s markdown style guide</a></li>
 <li><a href="http://www.hakawati.co.kr/405" target="_blank" rel="external">hakawati님의 markdown과 친해지기</a></li>
 <li><a href="http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e" target="_blank" rel="external">서울시립대 건축학부: markdown</a></li>
 </ul>
@@ -621,16 +852,16 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://spring.io/&q
     <link href="http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/"/>
     <id>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</id>
     <published>2017-04-03T13:39:41.000Z</published>
-    <updated>2017-04-16T16:18:31.727Z</updated>
+    <updated>2017-04-18T11:04:38.743Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hexo와-Github-Page를-이용한-블로그-개설"><a href="#Hexo와-Github-Page를-이용한-블로그-개설" class="headerlink" title="Hexo와 Github Page를 이용한 블로그 개설"></a>Hexo와 Github Page를 이용한 블로그 개설</h1><p><img src="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" width="500" height="250"><span style="
 font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" target="_blank" rel="external">http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg</a>]</span></p>
-<p>블로그 개설을 결심하고 Tistory를 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go 기반), Hexo(Node.js 기반)와 같은 <a href="https://staticsitegenerators.net/" target="_blank" rel="external">Static Website Generator</a>를 이용하여 생성한 블로그를 github에 push하면 블로그 사이트가 만들어 진다.</p>
+<p>블로그 개설을 결심하고 블로그 제공 서비스들(<a href="http://section.blog.naver.com/" target="_blank" rel="external">Naver</a>, <a href="http://www.tistory.com/" target="_blank" rel="external">Tistory</a>, <a href="https://www.blogger.com/" target="_blank" rel="external">Blogger</a>, <a href="https://medium.com/" target="_blank" rel="external">Medium</a>)을 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go 기반), Hexo(Node.js 기반)와 같은 <a href="https://staticsitegenerators.net/" target="_blank" rel="external">Static Website Generator</a>를 이용하여 생성한 블로그를 github에 push하면 블로그 사이트가 만들어 진다. 다양한 서비스들이 있지만 그나마 알고 있는 nodejs기반 Hexo를 이용하기로 했다.</p>
 <hr>
 <h3 id="설치"><a href="#설치" class="headerlink" title="설치"></a>설치</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">설치환경</th>
+<th style="text-align:center">software</th>
 <th></th>
 </tr>
 </thead>
@@ -697,18 +928,18 @@ font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/pro
 <p><img src="/images/hexo/hexo_config.png" alt=""></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"># URL</div><div class="line">url: http://daehuijo.github.io/		#생성한 repository url#</div><div class="line">root: /</div><div class="line">permalink: :year/:month/:day/:title/</div><div class="line">permalink_defaults:</div><div class="line"></div><div class="line"># Deployment</div><div class="line">deploy:</div><div class="line">  type: git</div><div class="line">  repo: https://github.com/DaehuiJo/daehuijo.github.io.git	#github에 배포하기 위한 url#</div><div class="line">  branch: master</div></pre></td></tr></table></figure>
 <p><strong>3) hexo-deployer-git 플러그인 설치</strong></p>
-<p>로컬에 있는 헥소 웹사이트 파일을 github에 배포하기 위해서는 정적파일을 생성하여 배포하여 하는데, github에 배포하기 위해서는 node package 중 <code>hexo-deployer-git</code>를 설치해 주어야 한다.</p>
+<p>로컬에 있는 마크다운 파일(.md)을 github에 배포하기 위해서는 정적파일(.html)을 생성하여 배포하여 하는데, github에 배포하기 위해서는 node package 중 <code>hexo-deployer-git</code>를 설치해 주어야 한다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install --save hexo-deployer-git</div></pre></td></tr></table></figure>
 <p><strong>4) github에 배포</strong></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ hexo generate 또는 hexo g	#정적 파일 생성#</div><div class="line">$ hexo deploy 또는 hexo d	#github 배포#</div></pre></td></tr></table></figure>
 <p><code>$ hexo g --d</code>명령으로 한번에 처리할 수 도 있다. <code>https://username.github.io/</code>에 접속하여 github에 push가 잘 되었나 확인한다.</p>
 <hr>
 <h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
-<li><a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a></li>
-<li><a href="http://www.codeblocq.com/tags/Hexo/" target="_blank" rel="external">http://www.codeblocq.com/tags/Hexo/</a></li>
-<li><a href="http://futurecreator.github.io/categories/Web/Hexo/" target="_blank" rel="external">http://futurecreator.github.io/categories/Web/Hexo/</a></li>
-<li><a href="http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/" target="_blank" rel="external">http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/</a></li>
-<li><a href="https://hyunseob.github.io/2016/02/23/start-hexo/" target="_blank" rel="external">https://hyunseob.github.io/2016/02/23/start-hexo/</a></li>
+<li><a href="https://hexo.io/" target="_blank" rel="external">헥소 공식 페이지</a></li>
+<li><a href="http://www.codeblocq.com/tags/Hexo/" target="_blank" rel="external">Jonathan Klughertz’s Hexo article</a></li>
+<li><a href="http://futurecreator.github.io/categories/Web/Hexo/" target="_blank" rel="external">Eric Han님의 헥소관련 포스트</a></li>
+<li><a href="http://fizzylogic.nl/2016/01/09/Get-started-with-Hexo/" target="_blank" rel="external">Willem Meints’s Get started with Hexo on Github</a></li>
+<li><a href="https://hyunseob.github.io/2016/02/23/start-hexo/" target="_blank" rel="external">hyunseob님의 헥소 시작하기</a></li>
 </ul>
 ]]></content>
     
