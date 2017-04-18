@@ -16,13 +16,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/books/</loc>
-        <lastmod>2017-04-12T23:43:51.472Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
         <lastmod>2017-04-13T07:30:52.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -51,43 +44,43 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/Cloud-IDE/</loc>
-        <lastmod>2017-04-18T20:25:26.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/markup/</loc>
-        <lastmod>2017-04-18T20:58:46.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/markdown/</loc>
-        <lastmod>2017-04-18T20:58:46.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
-        <lastmod>2017-04-18T20:59:25.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/spring/</loc>
-        <lastmod>2017-04-18T21:23:16.627Z</lastmod>
+        <lastmod>2017-04-18T21:37:41.084Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/framework/</loc>
-        <lastmod>2017-04-18T21:23:16.627Z</lastmod>
+        <lastmod>2017-04-18T21:37:41.084Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/Cloud-IDE/</loc>
+        <lastmod>2017-04-18T21:43:40.677Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/markup/</loc>
+        <lastmod>2017-04-18T21:45:50.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/markdown/</loc>
+        <lastmod>2017-04-18T21:45:50.504Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
+        <lastmod>2017-04-18T21:48:10.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

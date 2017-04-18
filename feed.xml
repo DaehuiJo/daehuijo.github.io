@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-18T20:25:26.983Z</updated>
+  <updated>2017-04-18T21:43:40.677Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -20,12 +20,12 @@
     <link href="http://daehuijo.github.io/2017/04/19/etc-20170419-Cloud-IDE/"/>
     <id>http://daehuijo.github.io/2017/04/19/etc-20170419-Cloud-IDE/</id>
     <published>2017-04-18T19:24:26.000Z</published>
-    <updated>2017-04-18T20:25:26.983Z</updated>
+    <updated>2017-04-18T21:43:40.677Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/800/0*anRQIKUQuPcFdClg.jpg" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_blank" rel="external">https://blog.codenvy.com/</a>]</span></p>
 <blockquote>
-<p>클라우드 IDE는 기존 IDE의 불편함을 줄이기 위해 등장했다. 클라우드 IDE는 물리적인 컴퓨터에 종속되지 않는다. 웹브라우저를 실행하고 로그인만 하면 IDE를 이용할 수 있기 때문이다. 구글 독스를 이용하면 언제 어디서나 원하는 문서 작업을 할 수 있듯이, 클라우드 IDE로 인터넷에 연결된 컴퓨터만 있으면 어디서든 개발 작업을 이어 진행할 수 있다.                    - jihyun@bloter.net</p>
+<p>클라우드 IDE는 기존 IDE의 불편함을 줄이기 위해 등장했다. 클라우드 IDE는 물리적인 컴퓨터에 종속되지 않는다. 웹브라우저를 실행하고 로그인만 하면 IDE를 이용할 수 있기 때문이다. 구글 독스를 이용하면 언제 어디서나 원하는 문서 작업을 할 수 있듯이, 클라우드 IDE로 인터넷에 연결된 컴퓨터만 있으면 어디서든 개발 작업을 이어 진행할 수 있다.                                                        -jihyun@bloter.net</p>
 </blockquote>
 <h3 id="Cloud-IDE-Services"><a href="#Cloud-IDE-Services" class="headerlink" title="Cloud IDE Services"></a>Cloud IDE Services</h3><table>
 <thead>
@@ -38,43 +38,43 @@ font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_
 </thead>
 <tbody>
 <tr>
-<td><a href="https://c9.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/672150770578362368/_xpMfEap.jpg" width="110" height="110"></a></td>
+<td><a href="https://c9.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/672150770578362368/_xpMfEap.jpg" width="90" height="90"></a></td>
 <td><img src="https://en.opensuse.org/images/e/e3/None.png" width="50"></td>
 <td>Cloud9</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://codeanywhere.com/" target="_blank" rel="external"><img src="http://cdn.appstorm.net/web.appstorm.net/files/2011/06/Codeanywhere.png" width="110" height="110"></a></td>
+<td><a href="https://codeanywhere.com/" target="_blank" rel="external"><img src="http://cdn.appstorm.net/web.appstorm.net/files/2011/06/Codeanywhere.png" width="90" height="90"></a></td>
 <td></td>
 <td>CodeAnywhere</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://codenvy.com/" target="_blank" rel="external"><img src="https://jaxenter.com/wp-content/uploads/2015/04/Codenvy_Logo-e1430385138631.jpg" width="110" height="110"></a></td>
+<td><a href="https://codenvy.com/" target="_blank" rel="external"><img src="https://jaxenter.com/wp-content/uploads/2015/04/Codenvy_Logo-e1430385138631.jpg" width="90" height="90"></a></td>
 <td></td>
 <td>Codenvy</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="http://www.koding.com/" target="_blank" rel="external"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAcjAAAAJGM1YjU5ODI5LWU1NmYtNDU2Yi05NWVmLWYyYTc1MTM2ZGVhNA.png" width="110" height="110"></a></td>
+<td><a href="http://www.koding.com/" target="_blank" rel="external"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAcjAAAAJGM1YjU5ODI5LWU1NmYtNDU2Yi05NWVmLWYyYTc1MTM2ZGVhNA.png" width="90" height="90"></a></td>
 <td></td>
 <td>Koding</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://www.sourcelair.com/home" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SourceLair_Logo.png/240px-SourceLair_Logo.png" width="110" height="110"></a></td>
+<td><a href="https://www.sourcelair.com/home" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SourceLair_Logo.png/240px-SourceLair_Logo.png" width="90" height="90"></a></td>
 <td></td>
 <td>SourceLair</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="http://www.eclipse.org/che/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/700361197112000513/w9Cyilbf.png" width="110" height="110"></a></td>
+<td><a href="http://www.eclipse.org/che/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/700361197112000513/w9Cyilbf.png" width="90" height="90"></a></td>
 <td></td>
 <td>Eclipse Che</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://www.goorm.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/378800000578347365/cf1a4430a704e076b603c095fa631414_400x400.png" width="110" height="110"></a></td>
+<td><a href="https://www.goorm.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/378800000578347365/cf1a4430a704e076b603c095fa631414_400x400.png" width="90" height="90"></a></td>
 <td></td>
 <td>Goorm</td>
 </tr>
@@ -82,7 +82,6 @@ font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_
 </table>
 <p><span style="
 font-size:14px">[출처: <a href="https://www.slant.co/" target="_blank" rel="external">https://www.slant.co/</a>]</span></p>
-<p>사용후기는 나중에…</p>
 <h3 id="참고"><a href="#참고" class="headerlink" title="참고"></a>참고</h3><ul>
 <li><a href="https://www.slant.co/topics/713/~best-cloud-ides" target="_blank" rel="external">What are the best cloud IDEs?</a></li>
 <li><a href="http://nnoco.tistory.com/258" target="_blank" rel="external">Web(Cloud) IDE 비교</a></li>
@@ -108,10 +107,10 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
     <link href="http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/"/>
     <id>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</id>
     <published>2017-04-16T12:56:24.000Z</published>
-    <updated>2017-04-18T20:58:46.245Z</updated>
+    <updated>2017-04-18T21:45:50.504Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-Stock-Illustration.jpg" alt=""></p>
-<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><blockquote>
+    <content type="html"><![CDATA[<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><p><img src="http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-Stock-Illustration.jpg" alt=""></p>
+<blockquote>
 <p>마크업(Markup)은 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한 가지이다. 태그는 원래 텍스트와는 별도로 원고의 교정부호와 주석을 표현하기 위한 것이였으나 용도가 점차 확장되어 문서의 구조를 표현하는 역할을 하게 되었다.                                                                                                                                     - wikipedia</p>
 </blockquote>
 <h2 id="Markdonw"><a href="#Markdonw" class="headerlink" title="Markdonw"></a>Markdonw</h2><p><img src="/images/etc/markdown.jpg" alt=""></p>
@@ -139,7 +138,7 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-
+      &lt;h2 id=&quot;Markup&quot;&gt;&lt;a href=&quot;#Markup&quot; class=&quot;headerlink&quot; title=&quot;Markup&quot;&gt;&lt;/a&gt;Markup&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://previews.123rf.com/images/kgtoh/kgtoh
     
     </summary>
     
@@ -153,63 +152,13 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
   </entry>
   
   <entry>
-    <title>booklist</title>
-    <link href="http://daehuijo.github.io/2017/04/13/etc-20170413-booklist/"/>
-    <id>http://daehuijo.github.io/2017/04/13/etc-20170413-booklist/</id>
-    <published>2017-04-12T23:15:30.000Z</published>
-    <updated>2017-04-12T23:43:51.472Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://cdn.taschen.com/custom/taschen/includes/phpThumb/phpThumb.php/q=70;f=png;640;/media/images/640/menu_books_1507171125_id_970319.png" alt=""><span style="
-font-size:10px">[이미지 출처: <a href="https://cdn.taschen.com/" target="_blank" rel="external">https://cdn.taschen.com/</a>]</span></p>
-<table>
-<thead>
-<tr>
-<th>title</th>
-<th>author</th>
-<th>isbn</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://cdn.taschen.com/custom/taschen/includes/phpThumb/phpThumb.php/q=70;f=png;640;/media/images/640/menu_books_1507171125_id
-    
-    </summary>
-    
-      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
-    
-    
-      <category term="books" scheme="http://daehuijo.github.io/tags/books/"/>
-    
-  </entry>
-  
-  <entry>
     <title>bookmark page</title>
     <link href="http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/"/>
     <id>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</id>
     <published>2017-04-12T23:15:10.000Z</published>
-    <updated>2017-04-18T20:59:25.564Z</updated>
+    <updated>2017-04-18T21:48:10.387Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="Tag"><a href="#Tag" class="headerlink" title="#Tag"></a>#Tag</h4><table>
+    <content type="html"><![CDATA[<table>
 <thead>
 <tr>
 <th>@category</th>
@@ -389,7 +338,7 @@ font-size:10px">[이미지 출처: <a href="https://cdn.taschen.com/" target="_b
     
     <summary type="html">
     
-      &lt;h4 id=&quot;Tag&quot;&gt;&lt;a href=&quot;#Tag&quot; class=&quot;headerlink&quot; title=&quot;#Tag&quot;&gt;&lt;/a&gt;#Tag&lt;/h4&gt;&lt;table&gt;
+      &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;@category&lt;/th&gt;
@@ -397,6 +346,7 @@ font-size:10px">[이미지 출처: <a href="https://cdn.taschen.com/" target="_b
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#AWS&quot;&gt;AWS&lt;/a&gt; / &lt;a href=&quot;#Cloud_IDE&quot;&gt;Cloud IDE&lt;/a&gt; / &lt;a hre
     
     </summary>
     
@@ -412,14 +362,12 @@ font-size:10px">[이미지 출처: <a href="https://cdn.taschen.com/" target="_b
     <link href="http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/"/>
     <id>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</id>
     <published>2017-04-12T22:48:12.000Z</published>
-    <updated>2017-04-18T21:23:16.627Z</updated>
+    <updated>2017-04-18T21:37:41.084Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
+    <content type="html"><![CDATA[<div style="text-align:right"><a href="/images/etc/icons.zip" download=""><i class="fa fa-download" aria-hidden="true"></i> Spring project icons.zip</a></div>
+
+<p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" rel="external">https://spring.io/</a>]</span></p>
-<p><a href="https://spring.io/projects" target="_blank" rel="external">https://spring.io/projects</a></p>
-<p>23개 projects</p>
-<p><a href="http://codingcoding.tistory.com/29" target="_blank" rel="external">http://codingcoding.tistory.com/29</a></p>
-<p><a href="https://gs.saro.me/#!m=elec&amp;jn=673" target="_blank" rel="external">https://gs.saro.me/#!m=elec&amp;jn=673</a></p>
 <table>
 <thead>
 <tr>
@@ -480,13 +428,13 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
 </tr>
 </tbody>
 </table>
-<p><a href="/images/etc/icons.zip" download="">Spring project icons download</a></p>
+<p><a href="http://codingcoding.tistory.com/29" target="_blank" rel="external">http://codingcoding.tistory.com/29</a></p>
+<p><a href="https://gs.saro.me/#!m=elec&amp;jn=673" target="_blank" rel="external">https://gs.saro.me/#!m=elec&amp;jn=673</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://spring.io/img/spring-by-pivotal.png&quot; alt=&quot;&quot;&gt;&lt;span style=&quot;
-font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://spring.io/&quot; target=
+      &lt;div style=&quot;text-align:right&quot;&gt;&lt;a href=&quot;/images/etc/icons.zip&quot; download=&quot;&quot;&gt;&lt;i class=&quot;fa fa-download&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spring project i
     
     </summary>
     
