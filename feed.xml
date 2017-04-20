@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-18T21:43:40.677Z</updated>
+  <updated>2017-04-20T16:36:01.882Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -16,11 +16,266 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>desktop environments</title>
+    <link href="http://daehuijo.github.io/2017/04/21/linux-20170421-desktop-environments/"/>
+    <id>http://daehuijo.github.io/2017/04/21/linux-20170421-desktop-environments/</id>
+    <published>2017-04-20T15:28:10.000Z</published>
+    <updated>2017-04-20T16:36:01.882Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong><a href="https://www.gnome.org/" target="_blank" rel="external">GNOME</a></strong></p>
+<p><img src="https://www.gnome.org/wp-content/themes/gnome-grass/images/home/featured_image.png" alt=""></p>
+<ul>
+<li><a href="http://www.omgubuntu.co.uk/2016/05/install-gnome-3-20-ubuntu-16-04-lts" target="_blank" rel="external">omgubuntu.co.uk: Install GNOME 3.20 on Ubuntu 16.04 LTS</a></li>
+</ul>
+<p><strong><a href="https://www.kde.org/" target="_blank" rel="external">KDE Plasma</a></strong></p>
+<p><img src="http://i1-news.softpedia-static.com/images/news2/opensuse-tumbleweed-receives-kde-plasma-5-4-2-kde-apps-15-08-2-qt-5-5-1-495457-2.jpg" alt=""></p>
+<ul>
+<li><a href="http://www.tecmint.com/install-kde-plasma-5-in-linux/" target="_blank" rel="external">techmint.com: install kde plasma5 in linux</a></li>
+</ul>
+<p><strong><a href="http://developer.linuxmint.com/projects.html" target="_blank" rel="external">Cinnamon Desktop</a></strong></p>
+<p><img src="https://fthmb.tqn.com/qTbeXkDPUJOqka5Avn3CvRsYQEM=/768x0/filters:no_upscale(" alt="">/about/cinnamondesktop-588a4c6a5f9b5874ee1d5f5e.png)</p>
+<ul>
+<li><a href="https://www.lifewire.com/install-cinnamon-on-ubuntu-4125605" target="_blank" rel="external">lifewire.com: insatll cinnamon on ubuntu</a></li>
+</ul>
+<p><strong><a href="http://mate-desktop.com/" target="_blank" rel="external">MATE Desktop</a></strong></p>
+<p><img src="http://mate-desktop.org/gallery/1.14/MATE-1.14_1.png" alt=""></p>
+<ul>
+<li><a href="http://www.tecmint.com/install-mate-desktop-in-ubuntu-fedora/" target="_blank" rel="external">techmint.com: insatll Mate desktop</a></li>
+</ul>
+<p><strong><a href="https://unity.ubuntu.com/" target="_blank" rel="external">Unity Desktop</a></strong></p>
+<h2 id="참고"><a href="#참고" class="headerlink" title="참고"></a>참고</h2><ul>
+<li><a href="http://www.tecmint.com/best-linux-desktop-environments/" target="_blank" rel="external">techmint.com: 10 Best and Most Popular Linux Desktop Environments of All Time</a></li>
+<li><a href="https://www.lifewire.com/best-linux-desktop-environments-4120912" target="_blank" rel="external">https://www.lifewire.com/best-linux-desktop-environments-4120912</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.gnome.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GNOME&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.gnome.org/wp-cont
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://daehuijo.github.io/categories/Linux/"/>
+    
+    
+      <category term="linux" scheme="http://daehuijo.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Which Linux should I use</title>
+    <link href="http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/"/>
+    <id>http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/</id>
+    <published>2017-04-20T08:41:08.000Z</published>
+    <updated>2017-04-20T16:35:48.134Z</updated>
+    
+    <content type="html"><![CDATA[<p><img width="400" src="http://q-linux.com/wp-content/uploads/sites/460/2016/02/linux_distros-1024x766.png"><div style="
+font-size:10px" text-align:"center"="">[이미지 출처: <a href="http://q-linux.com/" target="_blank" rel="external">http://q-linux.com/</a>]</div></p>
+<h2 id="리눅스-구축환경-결정"><a href="#리눅스-구축환경-결정" class="headerlink" title="리눅스 구축환경 결정"></a>리눅스 구축환경 결정</h2><p>리눅스 환경을 구축하는 방법으로는 세 가지로 볼 수 있다. <strong>현재 사용중인 PC의 운영체제로써 배포판을 직접 설치</strong>하거나(또는 Multi-booting을 이용하여 하나의 PC에 윈도우와 리눅스를 공존시켜 부팅시 선택) <strong>가상머신(VMware, Virtual BOX, Parallels)을 이용</strong>하여 운용할 수 있으며, <strong>Amazon web service와 같은 PasS(Platform as a Service)를 이용</strong>하여 리눅스 환경을 구축할 수 있다.</p>
+<p></p><h2>리눅스 배포판 결정</h2><table style="border:0px solid gray; margin:0; text-align:center;"><tr><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/linux_rank.png"></td><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/lastest_release.png"></td><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/lastest_package.png"></td></tr></table><div text-align:right="">[출처: <a href="http://distrowatch.com/" target="_blank" rel="external">http://distrowatch.com/</a>] 4/20/2017</div><p></p>
+<p>국내에서 널리 알려진 리눅스 배포판은 주로 레드햇 사의 레드햇 엔터프라이즈 리눅스(RHEL)와 계보를 같이하는 페도라(Fedora), 센트OS(CentOS)가 있으며, 데비안으로 부터 파생된 우분투(ubuntu), 민트(Mint)가 있습니다. 그리고 스마트폰에 탑재되는 안드로이드(Android)도 있습니다.</p>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.debian.org/index.ko.html" target="_blank" rel="external">Debian</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="http://2.bp.blogspot.com/-6dKqPP_XUc0/Tjkzx3CiHWI/AAAAAAAAAGE/mGeTEotfSfw/s1600/Screenshot.png" alt=""></td>
+</tr>
+<tr>
+<td>데비안은 지금까지 사용되고 있는 리눅스 배포판 중 2번째로 오래되었다. 데비안의 특징은 패키지 설치 및 업그레이드에 있다. 이와 더불어 다른 패키지와의 의존성 등을 apt를 이용하여 쉽게 설정할 수 있으며, 이에 따라 알맞은 서버를 구축할 수 있다. 우분투와 같은 명령어와 디렉토리 구조를 가졌기 때문에 우분투를 경험한 경우 다른 계열의 배포판 보다는 데비안을 선택하는 것이 효율적이다. 기업의 경우 사후지원 여부에 따라 레드헷과 데비안으로 갈리게 된다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.ubuntu.com/" target="_blank" rel="external">Ubuntu</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="http://img.clubic.com/0320025808421404-photo-ubuntu-16-04-lts.jpg" alt=""></td>
+</tr>
+<tr>
+<td>우분투는 데비안 계열의 리눅스 중 가장 성공한 desktop 배포판이다. 하드웨어 지원이 잘 되어있어 드라이버 및 주변장치를 잘 인식한다. 또한 MS Office나 Photo Shop을 대체할 수 있는 여러 소프트웨어들이 무료로 제공된다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.linuxmint.com/" target="_blank" rel="external">Mint</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="http://1.bp.blogspot.com/-VlNfWhsvUNQ/VmLlwYK1I_I/AAAAAAAAGzo/CeyIpm3KDLQ/s1920/Linux_Mint_17_3-1.jpg" alt=""></td>
+</tr>
+<tr>
+<td>민트는 우분투 기반의 리눅스 배포판으로서 우분투의 단점을 보완하기 위해 시작되었다. 우분투와은 가장 큰 차이로는 GUI를 뽑을 수 있다. 윈도우 환경과 최대한 유사하게 구성되어 있어 리눅스를 처음 접한 사용자도 쉽게 접근할 수 있다. 하지만 업데이트 측면에서 다소 문제가 있다. 민트는 우분투가 새로운 버젼을 공개하면 이를 기반으로 몇 개월 후에 새로 출시되기 때문에 시간상 우분투는 안정화가 이루어지고 민트의 경우 불안정한 요소가 발생 될 수 있다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.redhat.com/ko" target="_blank" rel="external">RHEL(Redhat Enterprise Linux)</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Screenshot_rhel7-gnome_2014-06-11_17_06_46.png" alt=""></td>
+</tr>
+<tr>
+<td>레드헷은 리눅스 서버시장의 강자로 군림하고 있다. 다른 배포판들과는 다르게 라이센스를 구입하여 운용해야하지만(상용이 아닌 개발용은 무료) 그에 따른 사후관리(기술지원) 비용이라고 할 수 있으며 자체적인 솔루션들을 판매하고 있다. 기술지원과 뛰어난 서버 운영 솔루션을 가지고 있기 때문에 많은 기업들이 레드헷을 선호한다. 2003년 레드헷 배포판의 판매 및 중지하였으며 Fedora를 후원하여 대신하고 있다.  레드헷의 업데이트가 이루어지기 전에 배포판인 Fedora를 통해 먼저 발표된다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.centos.org/" target="_blank" rel="external">CentOS</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://freealternative.files.wordpress.com/2007/12/centos.jpg" alt=""></td>
+</tr>
+<tr>
+<td>페도라와는 RHEL 소스 기반이지만 페도라와는 다르게 철절히 최신 버전의 RHEL을 미러링하는데 중점에 두고 있다. 따라서 RHEL에 대한 추가나 제거를 최대한 자제하고 있기때문에 기술지원을 제외한 RHEL을 그대로 사용하는 것이라고 볼 수 있다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://getfedora.org/" target="_blank" rel="external">Fedora</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Fedora_Core_5.png" alt=""></td>
+</tr>
+<tr>
+<td>페도라는 RHEL에 추가할 기능들을 먼저 테스트하기 위해 기능이 개발될 때 마다 지속적인 업데이트 이루워진다. 개발에 용이한 여러가지 툴들을 제공해주며 잘 활용한다면 유용하게 사용할 수 있다. 하지만 테스트용으로 버그 및 문제가 발생될 수 있다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.kali.org/" target="_blank" rel="external">KaliLinux</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://www.kali.org/wp-content/uploads/2016/01/kali-rolling-screenshot.png" alt=""></td>
+</tr>
+<tr>
+<td>칼리는 Offensive Security에서 만든 모의 침투 테스트용 운영체제이다. 따라서 해킹에 필요한 많은 툴들을 제공하고 있다. BackTrack의 후속버전으로 BackTrack이 운영체제로써의 완성도는 타 배포판의 베타정도로 떨어졌었지만 Kali에서 끌어올렸다.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th><strong><a href="https://www.archlinux.org/" target="_blank" rel="external">ArchLinux</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="http://i1-linux.softpedia-static.com/screenshots/Arch-Linux_1.jpg" alt=""></td>
+</tr>
+<tr>
+<td>아치리눅스는 리눅스 배포판중에서는 소프트웨어 업데이트 속도가 가장 빠르다. 패키지 관리자로는 팩맨을 사용한다. 처음 시작할 때 CUI를 띄우는 것 부터 시작해서 손수 세팅할것을 요구한다. 하지만 이는 아치리눅스의 중요한 특징으로 처음 설치를 할 때 기본적인 틀만 짜인 상태에서 유저가 알아서 자신만의 OS를 만들어간다. 설치부터 쓸만한 하나의 운영체제가 될 때 까지 만들어가는 게 오래 걸리긴 하지만 운영체제의 구석구석을 돌아다니면서 배울 수 있는 것도 많고, 웬만한 설정파일은 유저의 손을 한번씩 거치므로 뭔가가 꼬였을 때 풀어나갈 수 있는 안목도 기르게 된다.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="참고"><a href="#참고" class="headerlink" title="참고"></a>참고</h3><ul>
+<li><a href="https://namu.wiki/w/%EB%A6%AC%EB%88%85%EC%8A%A4" target="_blank" rel="external">나무위키: 리눅스</a></li>
+<li><a href="http://korean-daeddo.blogspot.kr/2016/11/blog-post.html" target="_blank" rel="external">지식나눔 블로그: 리눅스 배포판 종류 및 선택</a></li>
+<li><a href="http://www.itworld.co.kr/news/93559" target="_blank" rel="external">itworld: 초보자를 위한 리눅스 시작가이드</a></li>
+<li><a href="http://www.itworld.co.kr/news/94602" target="_blank" rel="external">itworld: “리눅스 초보 탈출”…초심자용 리눅스 배포판 3종 고르기</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img width=&quot;400&quot; src=&quot;http://q-linux.com/wp-content/uploads/sites/460/2016/02/linux_distros-1024x766.png&quot;&gt;&lt;div style=&quot;
+font-size:10px&quot; te
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://daehuijo.github.io/categories/Linux/"/>
+    
+    
+      <category term="linux" scheme="http://daehuijo.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>version control</title>
+    <link href="http://daehuijo.github.io/2017/04/20/etc-tool-20170420-version-control/"/>
+    <id>http://daehuijo.github.io/2017/04/20/etc-tool-20170420-version-control/</id>
+    <published>2017-04-20T01:58:04.000Z</published>
+    <updated>2017-04-20T02:38:57.315Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/etc/version_control.jpg" alt=""></p>
+<h2 id="버젼관리란"><a href="#버젼관리란" class="headerlink" title="버젼관리란?"></a>버젼관리란?</h2><blockquote>
+<p>버전 관리(version control, revision control), 소스 관리(source control), 소스 코드 관리(source code management, SCM)란 동일한 정보에 대한 여러 버전을 관리하는 것을 말한다. 공학과 소프트웨어 개발에서 팀 단위로 개발 중인 소스 코드나, 청사진 같은 설계도 등의 디지털 문서를 관리하는데 사용된다. 그러한 문서의 변경 사항들에 숫자나 문자로 이뤄진 (“개정판 번호”나 “개정판 레벨”이라고도 불리는) “버전”을 부여해서 구분한다. “버전”을 통해서 시간적으로 변경 사항과 그 변경 사항을 작성한 작업자를 추적할 수 있다. 간단한 버전 관리 방법으로는 처음 작성한 코드에 버전 번호 1을 부여한다. 변경 사항이 생기면, 버전 번호를 2로 증가시킨다. 이처럼 추후 변경 사항이 발생 시마다 버전 번호를 1씩 증가시킨다.                     -wikipedia</p>
+</blockquote>
+<p><strong>김민태님의 버전관리를 들어본적 없는 사람들을 위한 DVCS</strong></p>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/rRvcSqdo6Iar5q" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div></p>
+<p>dvcs(분산식 버전관리시스템)</p>
+<ul>
+<li><a href="https://www.appfusions.com/display/StashSCMImporter/CVCS+vs.+DVCS+In+a+Nutshell" target="_blank" rel="external">CVCS vs DVCS in a Nutshell</a></li>
+</ul>
+<p>버전관리시스템의 종류</p>
+<h3 id="CVS"><a href="#CVS" class="headerlink" title="CVS"></a>CVS</h3><ul>
+<li><a href="http://www.javajigi.net/pages/viewpage.action?pageId=189" target="_blank" rel="external">setup CVS in Linux</a></li>
+<li><a href="http://mapoo.net/os/oslinux/cvs%EC%82%AC%EC%9A%A9%EB%B2%95/" target="_blank" rel="external">CVS 사용법</a></li>
+<li><a href="https://www.open.collab.net/scdocs/ddCVS.html.ko" target="_blank" rel="external">CVS를 사용한 소스 코드 버전 관리에 관한 도움말</a></li>
+</ul>
+<h3 id="SVN"><a href="#SVN" class="headerlink" title="SVN"></a>SVN</h3><ul>
+<li><a href="http://www.imc.co.kr/1334" target="_blank" rel="external">SVN강좌</a></li>
+<li><a href="http://dslab.konkuk.ac.kr/Class/2010/10SV/Practice/2/T5%20-%20%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C(5%EC%A1%B0" target="_blank" rel="external">Subclipse</a>%EB%B0%9C%ED%91%9C%EC%9A%A9.pdf)</li>
+</ul>
+<h3 id="GIT"><a href="#GIT" class="headerlink" title="GIT"></a>GIT</h3><ul>
+<li><a href="http://blog.gaerae.com/2015/03/comparison-of-revision-control-software.html" target="_blank" rel="external">Git &amp; Mercurial</a></li>
+</ul>
+<h3 id="참고"><a href="#참고" class="headerlink" title="참고"></a>참고</h3><ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_version_control_software" target="_blank" rel="external">버전관리시스템의 종류</a></li>
+<li><a href="http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000039163229" target="_blank" rel="external">CVS/SVN을 이용한 버전 관리</a></li>
+<li><a href="http://daitso.kds.co.kr/50240/" target="_blank" rel="external">형상관리 툴 CVS, SVN, 그리고 Git비교</a></li>
+<li><a href="https://gist.github.com/benelog/2922437" target="_blank" rel="external">버전 관리 시스템 유랑기, 그리고 Git 적응기</a></li>
+<li><a href="http://blog.naver.com/PostView.nhn?blogId=seatom&amp;logNo=220881151309&amp;categoryNo=69&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=search" target="_blank" rel="external">버전관리도구</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/etc/version_control.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;버젼관리란&quot;&gt;&lt;a href=&quot;#버젼관리란&quot; class=&quot;headerlink&quot; title=&quot;버젼관리란?&quot;&gt;&lt;/a&gt;버젼관리란?&lt;/h2&gt;&lt;
+    
+    </summary>
+    
+      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
+    
+    
+      <category term="version control" scheme="http://daehuijo.github.io/tags/version-control/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cloud IDE</title>
-    <link href="http://daehuijo.github.io/2017/04/19/etc-20170419-Cloud-IDE/"/>
-    <id>http://daehuijo.github.io/2017/04/19/etc-20170419-Cloud-IDE/</id>
+    <link href="http://daehuijo.github.io/2017/04/19/etc-tool-20170419-Cloud-IDE/"/>
+    <id>http://daehuijo.github.io/2017/04/19/etc-tool-20170419-Cloud-IDE/</id>
     <published>2017-04-18T19:24:26.000Z</published>
-    <updated>2017-04-18T21:43:40.677Z</updated>
+    <updated>2017-04-20T11:09:35.308Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/800/0*anRQIKUQuPcFdClg.jpg" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_blank" rel="external">https://blog.codenvy.com/</a>]</span></p>
@@ -30,53 +285,53 @@ font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_
 <h3 id="Cloud-IDE-Services"><a href="#Cloud-IDE-Services" class="headerlink" title="Cloud IDE Services"></a>Cloud IDE Services</h3><table>
 <thead>
 <tr>
+<th style="text-align:center"></th>
 <th></th>
-<th></th>
-<th></th>
+<th style="text-align:left"></th>
 <th></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://c9.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/672150770578362368/_xpMfEap.jpg" width="90" height="90"></a></td>
+<td style="text-align:center"><a href="https://c9.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/672150770578362368/_xpMfEap.jpg" width="90" height="90"></a></td>
 <td><img src="https://en.opensuse.org/images/e/e3/None.png" width="50"></td>
-<td>Cloud9</td>
+<td style="text-align:left">Cloud9</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://codeanywhere.com/" target="_blank" rel="external"><img src="http://cdn.appstorm.net/web.appstorm.net/files/2011/06/Codeanywhere.png" width="90" height="90"></a></td>
+<td style="text-align:center"><a href="https://codeanywhere.com/" target="_blank" rel="external"><img src="http://cdn.appstorm.net/web.appstorm.net/files/2011/06/Codeanywhere.png" width="90" height="90"></a></td>
 <td></td>
-<td>CodeAnywhere</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="https://codenvy.com/" target="_blank" rel="external"><img src="https://jaxenter.com/wp-content/uploads/2015/04/Codenvy_Logo-e1430385138631.jpg" width="90" height="90"></a></td>
-<td></td>
-<td>Codenvy</td>
+<td style="text-align:left">CodeAnywhere</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="http://www.koding.com/" target="_blank" rel="external"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAcjAAAAJGM1YjU5ODI5LWU1NmYtNDU2Yi05NWVmLWYyYTc1MTM2ZGVhNA.png" width="90" height="90"></a></td>
+<td style="text-align:center"><a href="https://codenvy.com/" target="_blank" rel="external"><img src="https://jaxenter.com/wp-content/uploads/2015/04/Codenvy_Logo-e1430385138631.jpg" width="90" height="90"></a></td>
 <td></td>
-<td>Koding</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="https://www.sourcelair.com/home" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SourceLair_Logo.png/240px-SourceLair_Logo.png" width="90" height="90"></a></td>
-<td></td>
-<td>SourceLair</td>
+<td style="text-align:left">Codenvy</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="http://www.eclipse.org/che/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/700361197112000513/w9Cyilbf.png" width="90" height="90"></a></td>
+<td style="text-align:center"><a href="http://www.koding.com/" target="_blank" rel="external"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAcjAAAAJGM1YjU5ODI5LWU1NmYtNDU2Yi05NWVmLWYyYTc1MTM2ZGVhNA.png" width="90" height="90"></a></td>
 <td></td>
-<td>Eclipse Che</td>
+<td style="text-align:left">Koding</td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://www.goorm.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/378800000578347365/cf1a4430a704e076b603c095fa631414_400x400.png" width="90" height="90"></a></td>
+<td style="text-align:center"><a href="https://www.sourcelair.com/home" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SourceLair_Logo.png/240px-SourceLair_Logo.png" width="90" height="90"></a></td>
 <td></td>
-<td>Goorm</td>
+<td style="text-align:left">SourceLair</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="http://www.eclipse.org/che/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/700361197112000513/w9Cyilbf.png" width="90" height="90"></a></td>
+<td></td>
+<td style="text-align:left">Eclipse Che</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://www.goorm.io/" target="_blank" rel="external"><img src="https://pbs.twimg.com/profile_images/378800000578347365/cf1a4430a704e076b603c095fa631414_400x400.png" width="90" height="90"></a></td>
+<td></td>
+<td style="text-align:left">Goorm</td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +411,7 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
     <link href="http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/"/>
     <id>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</id>
     <published>2017-04-12T23:15:10.000Z</published>
-    <updated>2017-04-18T21:48:10.387Z</updated>
+    <updated>2017-04-20T15:53:59.347Z</updated>
     
     <content type="html"><![CDATA[<table>
 <thead>
@@ -183,6 +438,9 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
 </tr>
 <tr>
 <td><a href="http://superkts.com/" target="_blank" rel="external">CSS, JQuery 공작소</a></td>
+</tr>
+<tr>
+<td><a href="http://www.homejjang.com/" target="_blank" rel="external">홈짱닷컴 홈페이지 제작 가이드</a></td>
 </tr>
 <tr>
 <td><a href="http://www.htmldrive.net/" target="_blank" rel="external">Free Dhtml scripts, Jquery plugins ,Javascript, CSS, CSS3, Html5 Library</a></td>
@@ -451,29 +709,43 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
   
   <entry>
     <title>Ubuntu Init Setup</title>
-    <link href="http://daehuijo.github.io/2017/04/13/etc-ubuntu-20170413-Ubuntu-Init-Setting/"/>
-    <id>http://daehuijo.github.io/2017/04/13/etc-ubuntu-20170413-Ubuntu-Init-Setting/</id>
+    <link href="http://daehuijo.github.io/2017/04/13/linux-20170413-Ubuntu-Init-Setting/"/>
+    <id>http://daehuijo.github.io/2017/04/13/linux-20170413-Ubuntu-Init-Setting/</id>
     <published>2017-04-12T18:07:36.000Z</published>
-    <updated>2017-04-13T07:30:52.081Z</updated>
+    <updated>2017-04-20T16:36:13.398Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Ubuntu-16-04-LTS-Initial-Setup"><a href="#Ubuntu-16-04-LTS-Initial-Setup" class="headerlink" title="Ubuntu 16.04 LTS Initial Setup"></a>Ubuntu 16.04 LTS Initial Setup</h1><p><img src="/images/ubuntu/hp_laptop.png" alt=""></p>
-<p>군 전역 후 08년도에 구입했던 HP Compaq 6730s의 보조기억장치를 SSD로 교체하면서 운영체제를 우분투로 설치해봤다. <del>구입한지 10년이 되어가지만 Backlight를 한번 교체한 것 외에 고장이 없다. 경이로운 내구성이다.</del> MS-DOS, Windows 3.0을 거쳐 MS사의 OS만을 사용해왔기 때문에 리눅스는 낯설다. 개발자로 전직한답시고 발발거리면서 Virture Machine 및 AWS EC2를 이용하여 사용해보았을 뿐이다. 단순 서버설정이 아닌 실질적인 사용을 위해 이것저것 설치 및 설정을 하면서 해야할 것이 너무 많다는 것을 느꼈고, 다른 이들도 자신만의 세팅방법을 작성해둔 것을 보고 나도 작성해두려 한다. <del>권한설정에 버벅거리면서 이클립스 런칭오류로 한번 포멧한건 안비밀.</del></p>
+    <content type="html"><![CDATA[<h1 id="Ubuntu-16-04-LTS-Initial-Setup"><a href="#Ubuntu-16-04-LTS-Initial-Setup" class="headerlink" title="Ubuntu 16.04 LTS Initial Setup"></a>Ubuntu 16.04 LTS Initial Setup</h1><p><img src="/images/linux/hp_laptop.png" alt=""></p>
+<p>군 전역 후 08년도에 구입했던 HP Compaq 6730s의 보조기억장치를 SSD로 교체하면서 운영체제를 우분투로 설치해봤다. MS-DOS, Windows 3.0을 거쳐 MS사의 OS만을 사용해왔기 때문에 리눅스는 낯설다. 개발자로 전직한답시고 발발거리면서 Virture Machine 및 AWS EC2를 이용하여 사용해보았을 뿐이다. 단순 서버설정이 아닌 실질적인 사용을 위해 이것저것 설치 및 설정을 하면서 해야할 것이 너무 많다는 것을 느꼈고, 다른 이들도 자신만의 세팅방법을 작성해둔 것을 보고 나도 작성해두려 한다. <del>권한설정에 버벅거리면서 이클립스 런칭오류로 한번 포멧한건 안비밀.</del></p>
 <hr>
-<ul>
-<li>SSD Maximum</li>
-<li><a href="http://davidlab.net/blog/how-to-tweak-ssd-in-ubuntu" target="_blank" rel="external">http://davidlab.net/blog/how-to-tweak-ssd-in-ubuntu</a></li>
-<li><a href="http://blog.iftm.xyz/ubuntu-16-04-1-lts-post-installation/" target="_blank" rel="external">http://blog.iftm.xyz/ubuntu-16-04-1-lts-post-installation/</a></li>
-<li><a href="http://sergeswin.com/980" target="_blank" rel="external">http://sergeswin.com/980</a></li>
-<li>한글설정(zapary.blogspot.kr)</li>
-<li>chrome(<a href="https://brunch.co.kr/@hancoma/90" target="_blank" rel="external">https://brunch.co.kr/@hancoma/90</a>)</li>
-<li>$ wget <a href="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb" target="_blank" rel="external">https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb</a></li>
-<li>$ sudo apt-get install libxssl libgconf2-4 libappindicator1 libindicator7</li>
-<li>$ sudo dpkg -i google-chrome-stable_current_amd64.deb</li>
-<li>dropbox(<a href="https://www.linuxbabe.com/cloud-storage/install-dropbox-ubuntu-16-04" target="_blank" rel="external">https://www.linuxbabe.com/cloud-storage/install-dropbox-ubuntu-16-04</a>)</li>
-<li>​</li>
-<li>Unity Tweek</li>
-<li>$ sudo apt-get install unity-tweak-tool</li>
-<li>theme</li>
+<h3 id="SSD-Optimization"><a href="#SSD-Optimization" class="headerlink" title="SSD Optimization"></a>SSD Optimization</h3><ul>
+<li><p><a href="http://davidlab.net/blog/how-to-tweak-ssd-in-ubuntu" target="_blank" rel="external">http://davidlab.net/blog/how-to-tweak-ssd-in-ubuntu</a></p>
+</li>
+<li><p><a href="http://blog.iftm.xyz/ubuntu-16-04-1-lts-post-installation/" target="_blank" rel="external">http://blog.iftm.xyz/ubuntu-16-04-1-lts-post-installation/</a></p>
+</li>
+<li><p><a href="http://sergeswin.com/980" target="_blank" rel="external">http://sergeswin.com/980</a></p>
+</li>
+<li><p><a href="http://www.techrepublic.com/article/getting-up-to-speed-with-the-linux-desktop-operating-system/" target="_blank" rel="external">TechRepublic: Linux desktop operating system: A beginner’s guide</a></p>
+</li>
+<li><p>한글설정(zapary.blogspot.kr)</p>
+</li>
+<li><p>chrome(<a href="https://brunch.co.kr/@hancoma/90" target="_blank" rel="external">https://brunch.co.kr/@hancoma/90</a>)</p>
+</li>
+<li><p>$ wget <a href="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb" target="_blank" rel="external">https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb</a></p>
+</li>
+<li><p>$ sudo apt-get install libxssl libgconf2-4 libappindicator1 libindicator7</p>
+</li>
+<li><p>$ sudo dpkg -i google-chrome-stable_current_amd64.deb</p>
+</li>
+<li><p>dropbox(<a href="https://www.linuxbabe.com/cloud-storage/install-dropbox-ubuntu-16-04" target="_blank" rel="external">https://www.linuxbabe.com/cloud-storage/install-dropbox-ubuntu-16-04</a>)</p>
+</li>
+<li><p>​</p>
+</li>
+<li><p>Unity Tweek</p>
+</li>
+<li><p>$ sudo apt-get install unity-tweak-tool</p>
+</li>
+<li><p>theme</p>
+</li>
 <li><p><a href="https://www.ubuntufree.com/ubuntu-themes/" target="_blank" rel="external">https://www.ubuntufree.com/ubuntu-themes/</a></p>
 </li>
 <li><p>​</p>
@@ -486,50 +758,77 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ screenfetch</div></pre></td></tr></table></figure>
 <p>​</p>
 </li>
-<li>telegram</li>
-<li><a href="https://www.linuxbabe.com/desktop-linux/2-ways-install-telegram-ubuntu-16-04-ppa-snap" target="_blank" rel="external">https://www.linuxbabe.com/desktop-linux/2-ways-install-telegram-ubuntu-16-04-ppa-snap</a></li>
-<li>nautilus</li>
-<li>$ sudo apt install gksu</li>
-<li>$ sudo apt-get install nautilus</li>
-<li>$ sudo apt install nautilus</li>
-<li>nodejs &amp; npm</li>
-<li>sublimetext3</li>
-<li><a href="http://hochulshin.com/sublime-text3/" target="_blank" rel="external">http://hochulshin.com/sublime-text3/</a><ul>
+<li><p>telegram</p>
+</li>
+<li><p><a href="https://www.linuxbabe.com/desktop-linux/2-ways-install-telegram-ubuntu-16-04-ppa-snap" target="_blank" rel="external">https://www.linuxbabe.com/desktop-linux/2-ways-install-telegram-ubuntu-16-04-ppa-snap</a></p>
+</li>
+<li><p>nautilus</p>
+</li>
+<li><p>$ sudo apt install gksu</p>
+</li>
+<li><p>$ sudo apt-get install nautilus</p>
+</li>
+<li><p>$ sudo apt install nautilus</p>
+</li>
+<li><p>nodejs &amp; npm</p>
+</li>
+<li><p>sublimetext3</p>
+</li>
+<li><p><a href="http://hochulshin.com/sublime-text3/" target="_blank" rel="external">http://hochulshin.com/sublime-text3/</a></p>
+<ul>
 <li><a href="http://jos39.tistory.com/243" target="_blank" rel="external">http://jos39.tistory.com/243</a></li>
 </ul>
 </li>
-<li><a href="http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/" target="_blank" rel="external">http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/</a></li>
-<li>java</li>
-<li>jdk: <a href="http://blog.danggun.net/4101" target="_blank" rel="external">http://blog.danggun.net/4101</a></li>
-<li>eclipse </li>
-<li>git</li>
-<li><a href="http://egloos.zum.com/seoz/v/3910833" target="_blank" rel="external">http://egloos.zum.com/seoz/v/3910833</a></li>
-<li><a href="https://help.github.com/articles/caching-your-github-password-in-git/" target="_blank" rel="external">https://help.github.com/articles/caching-your-github-password-in-git/</a></li>
+<li><p><a href="http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/" target="_blank" rel="external">http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/</a></p>
+</li>
+<li><p>java</p>
+</li>
+<li><p>jdk: <a href="http://blog.danggun.net/4101" target="_blank" rel="external">http://blog.danggun.net/4101</a></p>
+</li>
+<li><p>eclipse </p>
+</li>
+<li><p>git</p>
+</li>
+<li><p><a href="http://egloos.zum.com/seoz/v/3910833" target="_blank" rel="external">http://egloos.zum.com/seoz/v/3910833</a></p>
+</li>
+<li><p><a href="https://help.github.com/articles/caching-your-github-password-in-git/" target="_blank" rel="external">https://help.github.com/articles/caching-your-github-password-in-git/</a></p>
+</li>
 <li><p><a href="http://www.dreamy.pe.kr/zbxe/CodeClip/95408" target="_blank" rel="external">http://www.dreamy.pe.kr/zbxe/CodeClip/95408</a></p>
 </li>
 <li><p>terminator-ing</p>
 </li>
-<li><a href="http://programmingsummaries.tistory.com/361" target="_blank" rel="external">http://programmingsummaries.tistory.com/361</a></li>
-<li>vim</li>
-<li><a href="http://sparklingstar.tistory.com/entry/5-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-Vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85" target="_blank" rel="external">http://sparklingstar.tistory.com/entry/5-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-Vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85</a></li>
-<li><a href="http://terrorjang.tistory.com/69" target="_blank" rel="external">http://terrorjang.tistory.com/69</a><ul>
+<li><p><a href="http://programmingsummaries.tistory.com/361" target="_blank" rel="external">http://programmingsummaries.tistory.com/361</a></p>
+</li>
+<li><p>vim</p>
+</li>
+<li><p><a href="http://sparklingstar.tistory.com/entry/5-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-Vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85" target="_blank" rel="external">http://sparklingstar.tistory.com/entry/5-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-Vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85</a></p>
+</li>
+<li><p><a href="http://terrorjang.tistory.com/69" target="_blank" rel="external">http://terrorjang.tistory.com/69</a></p>
+<ul>
 <li><a href="https://medium.com/sunhyoups-story/vim-%EC%97%90%EB%94%94%ED%84%B0-%EC%9D%B4%EC%81%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-5b6b8d546017" target="_blank" rel="external">https://medium.com/sunhyoups-story/vim-%EC%97%90%EB%94%94%ED%84%B0-%EC%9D%B4%EC%81%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-5b6b8d546017</a></li>
 </ul>
 </li>
-<li><a href="http://sybd.tistory.com/100" target="_blank" rel="external">http://sybd.tistory.com/100</a></li>
-<li><a href="http://akal.co.kr/?p=934" target="_blank" rel="external">http://akal.co.kr/?p=934</a><ul>
+<li><p><a href="http://sybd.tistory.com/100" target="_blank" rel="external">http://sybd.tistory.com/100</a></p>
+</li>
+<li><p><a href="http://akal.co.kr/?p=934" target="_blank" rel="external">http://akal.co.kr/?p=934</a></p>
+<ul>
 <li><a href="http://luckyyowu.tistory.com/308" target="_blank" rel="external">http://luckyyowu.tistory.com/308</a></li>
 </ul>
 </li>
-<li>typora</li>
-<li><a href="http://support.typora.io/Typora-on-Linux/" target="_blank" rel="external">http://support.typora.io/Typora-on-Linux/</a></li>
-<li>sublimetext3</li>
-<li><a href="http://hochulshin.com/sublime-text3/" target="_blank" rel="external">http://hochulshin.com/sublime-text3/</a></li>
+<li><p>typora</p>
+</li>
+<li><p><a href="http://support.typora.io/Typora-on-Linux/" target="_blank" rel="external">http://support.typora.io/Typora-on-Linux/</a></p>
+</li>
+<li><p>sublimetext3</p>
+</li>
+<li><p><a href="http://hochulshin.com/sublime-text3/" target="_blank" rel="external">http://hochulshin.com/sublime-text3/</a></p>
+</li>
 <li><p><a href="http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/" target="_blank" rel="external">http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/</a></p>
 </li>
 <li><p>oralcle</p>
 </li>
-<li>Qt</li>
+<li><p>Qt</p>
+</li>
 </ul>
 <p>todo<br>• tomboy Notes<br>• nemo<br>• green recorder</p>
 <p><a href="http://programmingsummaries.tistory.com/389" target="_blank" rel="external">http://programmingsummaries.tistory.com/389</a></p>
@@ -542,14 +841,12 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
     
     </summary>
     
-      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
+      <category term="Linux" scheme="http://daehuijo.github.io/categories/Linux/"/>
     
-      <category term="ubuntu" scheme="http://daehuijo.github.io/categories/etc/ubuntu/"/>
     
+      <category term="linux" scheme="http://daehuijo.github.io/tags/linux/"/>
     
       <category term="ubuntu" scheme="http://daehuijo.github.io/tags/ubuntu/"/>
-    
-      <category term="os" scheme="http://daehuijo.github.io/tags/os/"/>
     
   </entry>
   
@@ -800,11 +1097,11 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://spring.io/&q
     <link href="http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/"/>
     <id>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</id>
     <published>2017-04-03T13:39:41.000Z</published>
-    <updated>2017-04-18T11:04:38.743Z</updated>
+    <updated>2017-04-20T01:01:11.331Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hexo와-Github-Page를-이용한-블로그-개설"><a href="#Hexo와-Github-Page를-이용한-블로그-개설" class="headerlink" title="Hexo와 Github Page를 이용한 블로그 개설"></a>Hexo와 Github Page를 이용한 블로그 개설</h1><p><img src="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" width="500" height="250"><span style="
 font-size:10px">[이미지 출처: <a href="http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg" target="_blank" rel="external">http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg</a>]</span></p>
-<p>블로그 개설을 결심하고 블로그 제공 서비스들(<a href="http://section.blog.naver.com/" target="_blank" rel="external">Naver</a>, <a href="http://www.tistory.com/" target="_blank" rel="external">Tistory</a>, <a href="https://www.blogger.com/" target="_blank" rel="external">Blogger</a>, <a href="https://medium.com/" target="_blank" rel="external">Medium</a>)을 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. Jekyll(Ruby 기반), Hugo(Go 기반), Hexo(Node.js 기반)와 같은 <a href="https://staticsitegenerators.net/" target="_blank" rel="external">Static Website Generator</a>를 이용하여 생성한 블로그를 github에 push하면 블로그 사이트가 만들어 진다. 다양한 서비스들이 있지만 그나마 알고 있는 nodejs기반 Hexo를 이용하기로 했다.</p>
+<p>블로그 개설을 결심하고 블로그 제공 서비스들(<a href="http://section.blog.naver.com/" target="_blank" rel="external">Naver</a>, <a href="http://www.tistory.com/" target="_blank" rel="external">Tistory</a>, <a href="https://www.blogger.com/" target="_blank" rel="external">Blogger</a>, <a href="https://medium.com/" target="_blank" rel="external">Medium</a>)을 기웃거리면서 구글링 중 github page를 이용한 블로그에 대해 알게 되었다. <a href="https://jekyllrb-ko.github.io/" target="_blank" rel="external">Jekyll(Ruby 기반)</a>, <a href="https://gohugo.io/" target="_blank" rel="external">Hugo(Go 기반)</a>, Hexo(Node.js 기반)와 같은 <a href="https://staticsitegenerators.net/" target="_blank" rel="external">Static Website Generator</a>를 이용하여 생성한 블로그를 github에 push하면 블로그 사이트가 만들어 진다. 다양한 서비스들이 있지만 그나마 알고 있는 nodejs기반 Hexo를 이용하기로 했다.</p>
 <hr>
 <h3 id="설치"><a href="#설치" class="headerlink" title="설치"></a>설치</h3><table>
 <thead>
