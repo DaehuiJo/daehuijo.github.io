@@ -8,19 +8,19 @@
     
         <meta name="keywords" content="aws,VNCviewr" />
     
-    <meta name="description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  1.access aws ec2 ssh -i “C:\root\dev\AWS\Key\ubuntudesktop.pem“ ubuntu@ec2">
+    <meta name="description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
 <meta name="keywords" content="aws,VNCviewr">
 <meta property="og:type" content="article">
 <meta property="og:title" content="AWS ubuntu GUI">
 <meta property="og:url" content="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/index.html">
 <meta property="og:site_name" content="personal papers">
-<meta property="og:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  1.access aws ec2 ssh -i “C:\root\dev\AWS\Key\ubuntudesktop.pem“ ubuntu@ec2">
-<meta property="og:image" content="http://www.thevirtualist.org/wp-content/uploads/2014/07/aws1.png">
-<meta property="og:updated_time" content="2017-04-12T22:18:20.263Z">
+<meta property="og:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
+<meta property="og:image" content="http://daehuijo.github.io/images/aws/aws.png">
+<meta property="og:updated_time" content="2017-04-21T09:32:48.996Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="AWS ubuntu GUI">
-<meta name="twitter:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  1.access aws ec2 ssh -i “C:\root\dev\AWS\Key\ubuntudesktop.pem“ ubuntu@ec2">
-<meta name="twitter:image" content="http://www.thevirtualist.org/wp-content/uploads/2014/07/aws1.png">
+<meta name="twitter:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
+<meta name="twitter:image" content="http://daehuijo.github.io/images/aws/aws.png">
     
 
     <!-- hexo-auto-canonical -->
@@ -184,37 +184,36 @@ ga('send', 'pageview');
         
         
         <div class="article-entry" itemprop="articleBody">
-            <h1 id="Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up"><a href="#Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up" class="headerlink" title="Amazon Web Services EC2 Linux(ubuntu) GUI set  up"></a>Amazon Web Services EC2 Linux(ubuntu) GUI set  up</h1><p><img src="http://www.thevirtualist.org/wp-content/uploads/2014/07/aws1.png" alt=""></p>
+            <h1 id="Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up"><a href="#Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up" class="headerlink" title="Amazon Web Services EC2 Linux(ubuntu) GUI set  up"></a>Amazon Web Services EC2 Linux(ubuntu) GUI set  up</h1><p><img src="/images/aws/aws.png" alt=""></p><p><font size="2em">[출처: <a href="http://www.thevirtualist.org/" target="_blank" rel="external">http://www.thevirtualist.org/</a>]</font></p><p></p>
 <p>AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.</p>
 <hr>
-<p>1.access aws ec2</p>
-<p>ssh -i “<del>C:\root\dev\AWS\Key\ubuntudesktop.pem</del>“ <del>ubuntu@ec2-13-124-20-68.ap-northeast-</del></p>
-<p>2.compute.amazonaws.com</p>
-<ol>
-<li>sudo apt-get update</li>
-<li>sudo apt-get install ubuntu-desktop vnc4server gnome-panel gnome-settings-daemon nautilus gnome-terminal</li>
-<li>vncserver <ul>
-<li>(setting pw)</li>
-</ul>
-</li>
-<li>vncserver -kill :1</li>
-<li><p>cd .vnc -&gt; sudo vim xstatup</p>
+<h3 id="AWS-EC2-Instance-접속"><a href="#AWS-EC2-Instance-접속" class="headerlink" title="AWS EC2 Instance 접속"></a>AWS EC2 Instance 접속</h3><p><img src="/images/aws/aws-instance-list.png" alt=""></p>
+<p>자세한 Instance 생성방법은 생략한다. <a href="https://opentutorials.org/course/2717" target="_blank" rel="external">egoing님의 아마존 웹서비스 강의</a>를 참고하면 된다. 인스턴스가 생성되면 해당 인스턴스 위에서 마우스 오른쪽 키를 누르게 되면 다음과 같은 옵션들이 표시된다.</p>
+<p><img src="/images/aws/aws-instance-option.png" alt=""></p>
+<p>옵션목록에서 최상단에 있는 Connect를 선택하게 되면 다음과 같은 창이 뜬다.</p>
+<p><img src="/images/aws/aws-instance-connect.png" alt=""></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ ssh -i &quot;암호키파일경로&quot; Instance사용자명(ubuntu)@Public DNS Address</div><div class="line"></div><div class="line">예)</div><div class="line">$ ssh -i &quot;C:\root\dev\AWS\Key\ubuntudesktop.pem&quot; ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</div></pre></td></tr></table></figure>
+<p>윈도우의 경우에는 자신이 선호하는 SSH Client(<a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank" rel="external">PuTTy</a>, <a href="http://www.netsarang.co.kr/download/free_license.html" target="_blank" rel="external">xshell</a>)를 이용해서 해당 인스턴스에 접속하면 된다. 리눅스의 경우 키파일에 대한 권한설정을 해준뒤 자체 터미널을 이용하여 접속한다. (리눅스에서 키파일에 대한 경로설정 방법을 몰라서 키파일이 있는 폴더로 이동 후 접속했다.)</p>
+<p><img src="/images/aws/aws-ubuntu.png" alt=""></p>
+<h3 id="원격접속을-위한-프로그램-설치-및-설정"><a href="#원격접속을-위한-프로그램-설치-및-설정" class="headerlink" title="원격접속을 위한 프로그램 설치 및 설정"></a>원격접속을 위한 프로그램 설치 및 설정</h3><p><strong>package install</strong></p>
+<p>우분투 데스크탑 버전, vnc4server, gnome-panel, gnome-settings-daemon, nautilus, gnome-terminal을 설치한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ sudo apt-get update</div><div class="line">$ sudo apt-get install ubuntu-desktop vnc4server gnome-panel gnome-settings-daemon nautilus gnome-terminal</div></pre></td></tr></table></figure>
+<p><strong>vncserver setup</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ vncserver</div><div class="line">  password 설정</div><div class="line">$ vncserver -kill :1</div><div class="line">$ cd .vnc</div><div class="line">$ sudo vim xstatup</div></pre></td></tr></table></figure>
+<p>xstatup 파일의 하단에 다음의 내용을 추가한다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">#!/bin/sh</div><div class="line"></div><div class="line">export XKL_XMODMAP_DISABLE=1</div><div class="line">unset SESSION_MANAGER</div><div class="line">unset DBUS_SESSION_BUS_ADDRESS</div><div class="line"></div><div class="line">[ -x /etc/vnc/xstartup ] &amp;&amp; exec /etc/vnc/xstartup</div><div class="line">[ -r $HOME/.Xresources ] &amp;&amp; xrdb $HOME/.Xresources</div><div class="line">xsetroot -solid grey</div><div class="line">vncconfig -iconic &amp;</div><div class="line"></div><div class="line">gnome-panel &amp;</div><div class="line">gnome-settings-daemon &amp;</div><div class="line">metacity &amp;</div><div class="line">nautilus &amp;</div><div class="line">gnome-terminal &amp;</div></pre></td></tr></table></figure>
-</li>
-<li><p>eixt</p>
-</li>
-</ol>
-<hr>
-<ol>
-<li>reconnect</li>
-</ol>
-<p>ssh -L 5901:localhost:5901 -i “<del>C:\root\dev\AWS\Key\ubuntudesktop.pem</del>“ <del>ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</del></p>
-<ol>
-<li>vncserver -kill :1</li>
-<li>vncserver -geometry 1280x800</li>
-<li>vnc-viwer =&gt; localhost:5901</li>
-</ol>
-<h2 id="———————————————–"><a href="#———————————————–" class="headerlink" title="———————————————–"></a>———————————————–</h2><p>nodejs framework</p>
+<p><strong>Instance disconnect</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ exit</div></pre></td></tr></table></figure>
+<h3 id="원격접속-활성화"><a href="#원격접속-활성화" class="headerlink" title="원격접속 활성화"></a>원격접속 활성화</h3><p><strong>reconnect</strong></p>
+<p>처음 인스턴스에 접속하기 위해 입력했던 명령어 중 ssh와 -i 사이에<code>-L 5901:localhost:5901</code>을 삽입하여 다시 접속한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ ssh -L 5901:localhost:5901 -i &quot;C:\root\dev\AWS\Key\ubuntudesktop.pem&quot; ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</div></pre></td></tr></table></figure>
+<p><strong>activate vncserver</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ vncserver -geometry 1280x800    //자신이 원하는 화면 크기를 입력하면 된다.</div></pre></td></tr></table></figure>
+<p><strong>원격접속</strong></p>
+<p>여기까지 원격접속을 위한 인스턴스 내 설정을 마쳤고 vncViewer(원격접속 프로그램)를 이용하여 인스턴스에 접속하면 된다. 접속주소는 <code>localhost:5901</code>이다. 경고창은 무시해도 된다.</p>
+<p><strong>원격서버 종료</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ vncserver -kill :1</div></pre></td></tr></table></figure>
+<p>nodejs framework</p>
 <p>root 권한으로 express 실행</p>
 <hr>
 <p>nojs automatic 24Hr hosting</p>
@@ -231,7 +230,7 @@ ga('send', 'pageview');
 
 
 
-    <a data-url="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/" data-id="cj1qmw690001umvy0x34t6x3v" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/" data-id="cj1rn2r15001ukly0uusp0ug6" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -438,7 +437,7 @@ ga('send', 'pageview');
                             <a href="/2017/04/20/etc-tool-20170420-version-control/" class="thumbnail">
     
     
-        <span style="background-image:url(/images/etc/version_control.jpg)" alt="version control" class="thumbnail-image"></span>
+        <span style="background-image:url(/images/etc/version_control.png)" alt="version control" class="thumbnail-image"></span>
     
     
 </a>

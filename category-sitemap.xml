@@ -7,13 +7,6 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/categories/etc/aws/</loc>
-        <lastmod>2017-04-12T22:18:20.263Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/categories/Java/</loc>
         <lastmod>2017-04-18T21:37:41.084Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -35,15 +28,22 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/categories/etc/</loc>
-        <lastmod>2017-04-20T15:53:59.347Z</lastmod>
+        <loc>http://daehuijo.github.io/categories/Linux/</loc>
+        <lastmod>2017-04-21T06:50:08.924Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/categories/Linux/</loc>
-        <lastmod>2017-04-20T16:36:13.398Z</lastmod>
+        <loc>http://daehuijo.github.io/categories/etc/</loc>
+        <lastmod>2017-04-21T09:32:48.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/categories/etc/aws/</loc>
+        <lastmod>2017-04-21T09:32:48.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
