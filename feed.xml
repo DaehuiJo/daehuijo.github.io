@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-22T15:32:28.862Z</updated>
+  <updated>2017-04-22T17:29:27.289Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/"/>
     <id>http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/</id>
     <published>2017-04-20T08:41:08.000Z</published>
-    <updated>2017-04-22T15:32:28.862Z</updated>
+    <updated>2017-04-22T17:29:27.289Z</updated>
     
     <content type="html"><![CDATA[<p><img width="400" src="http://q-linux.com/wp-content/uploads/sites/460/2016/02/linux_distros-1024x766.png"><div style="
 font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank" rel="external">http://q-linux.com/</a>]</div></p>
-<h2 id="리눅스-구축환경-결정"><a href="#리눅스-구축환경-결정" class="headerlink" title="리눅스 구축환경 결정"></a>리눅스 구축환경 결정</h2><p>리눅스 환경을 구축하는 방법으로는 세 가지로 볼 수 있다. <strong>현재 사용중인 PC의 운영체제로써 배포판을 직접 설치</strong>하거나(또는 Multi-booting을 이용하여 하나의 PC에 윈도우와 리눅스를 공존시켜 부팅시 선택) <strong>가상머신(<a href="http://www.vmware.com/kr.html" target="_blank" rel="external">VMware</a>, <a href="https://www.virtualbox.org/" target="_blank" rel="external">Virtual BOX</a>, <a href="http://www.parallels.com/kr/" target="_blank" rel="external">Parallels</a>)을 이용</strong>하여 운용할 수 있으며, <strong>AWS, Google cloud platform, MS Azure와 같은 PasS(Platform as a Service)를 이용</strong>하여 리눅스 환경을 구축할 수 있다. 또한 <a href="https://www.raspberrypi.org/" target="_blank" rel="external">Raspberry Pi</a>, <a href="http://www.bananapi.org/" target="_blank" rel="external">Banana Pi</a> <del>(라즈베리파이의 아류. 중국 선적의 LeMaker에서 제작, 사용평은…)</del>, <a href="http://www.rikomagic.co.uk" target="_blank" rel="external">Rikomagic의 Stick PC</a> 등과 같은 단일 보드 컴퓨터에 리눅스 환경을 구축할 수 있다.</p>
+<h2 id="리눅스-구축환경-결정"><a href="#리눅스-구축환경-결정" class="headerlink" title="리눅스 구축환경 결정"></a>리눅스 구축환경 결정</h2><p>리눅스 환경을 구축하는 방법으로는 세 가지로 볼 수 있다. <strong>현재 사용중인 PC의 운영체제로써 배포판을 직접 설치</strong>하거나(또는 Multi-booting을 이용하여 하나의 PC에 윈도우와 리눅스를 공존시켜 부팅시 선택) <strong>가상머신(<a href="http://www.vmware.com/kr.html" target="_blank" rel="external">VMware</a>, <a href="https://www.virtualbox.org/" target="_blank" rel="external">Virtual BOX</a>, <a href="http://www.parallels.com/kr/" target="_blank" rel="external">Parallels</a>)을 이용</strong>하여 운용할 수 있으며, <strong>AWS, Google cloud platform, MS Azure와 같은 PasS(Platform as a Service)를 이용</strong>하여 리눅스 환경을 구축할 수 있다. 또한 <a href="https://www.raspberrypi.org/" target="_blank" rel="external">Raspberry Pi</a>, <a href="http://www.bananapi.org/" target="_blank" rel="external">Banana Pi</a> <del>(라즈베리파이의 아류. 중국 선적의 LeMaker에서 제작)</del>, <a href="http://www.rikomagic.co.uk" target="_blank" rel="external">Rikomagic의 Stick PC</a> 등과 같은 단일 보드 컴퓨터에 리눅스 환경을 구축할 수 있다.</p>
 <p></p><h2>리눅스 배포판 결정</h2><table style="border:0px solid gray; margin:0; text-align:center;"><tr><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/linux_rank.png"></td><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/lastest_release.png"></td><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/lastest_package.png"></td></tr></table><div text-align:right="">[출처: <a href="http://distrowatch.com/" target="_blank" rel="external">http://distrowatch.com/</a>] 4/20/2017</div><p></p>
 <p>국내에서 널리 알려진 리눅스 배포판은 주로 레드햇 사의 레드햇 엔터프라이즈 리눅스(RHEL)와 계보를 같이하는 페도라(Fedora), 센트OS(CentOS)가 있으며, 데비안으로 부터 파생된 우분투(ubuntu), 민트(Mint)가 있다. 그리고 스마트폰에 탑재되는 안드로이드(Android)가 있다.</p>
 <table>
@@ -53,7 +53,7 @@ font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank"
 <td><img src="http://img.clubic.com/0320025808421404-photo-ubuntu-16-04-lts.jpg" alt=""></td>
 </tr>
 <tr>
-<td>우분투는 데비안 계열의 리눅스 중 가장 성공한 desktop 배포판이다. 데비안으로부터 이어받은 APT를 통해 소프트웨어의 설치·관리·제거를 쉽게 할 수 있기 때문에 리눅스뿐만 아니라 컴퓨터 자체를 처음 접하는 이들에게 있어서도 리눅스 배포판 중에서는 최고라고 할 수 있다. 하드웨어 인식에서 플러그 앤 플레이 기능도 뛰어나 USB든 블루투스든 뭐든지 일단 연결하면 거의 다 작동한다. 이는 일반인들의 리눅스에 대한 인식, 즉 “컴퓨터 전문가들이나 쓰는 OS”와 크게 다르다. 쉽고 편하게 사용할 수 있는 운영체제를 목표로 잡고있기 때문에 복잡한 인스톨 과정이나 커맨드라인 명령어 같은 것들을 전혀 몰라도 사용하는데 지장이 없다. 또한 MS Office나 Photo Shop 등을 대체할 수 있는 여러 소프트웨어들이 무료로 제공된다.</td>
+<td>우분투는 데비안 계열의 리눅스 중 가장 성공한 desktop 배포판이다. 데비안으로부터 이어받은 APT를 통해 소프트웨어의 설치·관리·제거를 쉽게 할 수 있기 때문에 리눅스뿐만 아니라 컴퓨터 자체를 처음 접하는 이들에게 있어서도 리눅스 배포판 중에서는 최고라고 할 수 있다. 하드웨어 인식에서 플러그 앤 플레이 기능도 뛰어나 USB든 블루투스든 뭐든지 일단 연결하면 거의 다 작동한다. 복잡한 인스톨 과정이나 커맨드라인 명령어 같은 것들을 전혀 몰라도 사용하는데 지장이 없다. 또한 MS Office나 Photo Shop 등을 대체할 수 있는 여러 소프트웨어들이 무료로 제공된다.</td>
 </tr>
 </tbody>
 </table>
@@ -68,7 +68,7 @@ font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank"
 <td><img src="http://1.bp.blogspot.com/-VlNfWhsvUNQ/VmLlwYK1I_I/AAAAAAAAGzo/CeyIpm3KDLQ/s1920/Linux_Mint_17_3-1.jpg" alt=""></td>
 </tr>
 <tr>
-<td>민트는 우분투 기반의 리눅스 배포판으로서 우분투의 단점을 보완하기 위해 시작되었다. 우분투와은 가장 큰 차이로는 GUI를 뽑을 수 있다. 윈도우 환경과 최대한 유사하게 구성되어 있어 리눅스를 처음 접한 사용자도 쉽게 접근할 수 있다.  제작 기반이 두 가지인 것도 특징 중 하나다. 우분투를 기반으로 한 것과 데비안을 기반으로 한 것이 있다. 우분투 기반은 우분투 저장소를 쓰고 데비안 기반은 데비안 저장소를 쓴다. 데비안 기반의 민트는 LMDE라고 해서 세미롤링 업데이트를 지원한다. 아치 리눅스 처럼 계속해서 조금씩 업데이트가 되는 방식이다. 우분투 기반과는 다르게 LMDE는 데비안처럼 계속해서 업데이트가 되기 때문에 지원기간 만료를 신경쓸 필요가 없이 한번설치하면 재설치 없이 항상 최신버전으로 유지가능하다. 안정판기준 데비안 기반답게 LMDE의 패키지 업데이트 속도는 상당히 늦은 편이다. 다만 LMDE의 경우 어느정도 리눅스 지식을 갖고있지않다면 사용하기 힘든면이있다.</td>
+<td>민트는 우분투 기반의 리눅스 배포판으로서 우분투의 단점을 보완하기 위해 시작되었다. 우분투와은 가장 큰 차이로는 GUI를 뽑을 수 있다. 윈도우 환경과 최대한 유사하게 구성되어 있어 리눅스를 처음 접한 사용자도 쉽게 접근할 수 있다.  제작 기반이 두 가지인 것도 특징 중 하나다. 우분투를 기반으로 한 것과 데비안을 기반으로 한 것이 있다.</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank"
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Screenshot_rhel7-gnome_2014-06-11_17_06_46.png" alt=""></td>
 </tr>
 <tr>
-<td>레드헷은 리눅스 서버시장의 강자로 군림하고 있다. 다른 배포판들과는 다르게 라이센스를 구입하여 운용해야하지만(상용이 아닌 개발용은 무료) 그에 따른 사후관리(기술지원) 비용이라고 할 수 있으며 자체적인 솔루션들을 판매하고 있다. 기술지원과 뛰어난 서버 운영 솔루션을 가지고 있기 때문에 많은 기업들이 레드헷을 선호한다. 2003년 레드헷 배포판의 판매 및 중지하였으며 Fedora를 후원하여 대신하고 있다.  레드헷의 업데이트가 이루어지기 전에 배포판인 Fedora를 통해 먼저 발표된다.</td>
+<td>레드헷은 리눅스 서버시장의 강자로 군림하고 있다. 다른 배포판들과는 다르게 라이센스를 구입하여 운용해야하지만(상용이 아닌 개발용은 무료) 그에 따른 사후관리(기술지원) 비용이라고 할 수 있으며 자체적인 솔루션들을 판매하고 있다. 기술지원과 뛰어난 서버 운영 솔루션을 가지고 있기 때문에 많은 기업들이 레드헷을 선호한다. 2003년 레드헷 배포판의 발표를 중지하였으며 Fedora를 후원하여 대신하고 있다.  레드헷의 업데이트가 이루어지기 전에 배포판인 Fedora를 통해 먼저 발표된다.</td>
 </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank"
 <td><img src="http://i1-linux.softpedia-static.com/screenshots/Arch-Linux_1.jpg" alt=""></td>
 </tr>
 <tr>
-<td>아치리눅스는 리눅스 배포판중에서는 소프트웨어 업데이트 속도가 가장 빠르다. 패키지 관리자로는 팩맨을 사용한다. 처음 시작할 때 CUI를 띄우는 것 부터 시작해서 손수 세팅할것을 요구한다. 하지만 이는 아치리눅스의 중요한 특징으로 처음 설치를 할 때 기본적인 틀만 짜인 상태에서 유저가 알아서 자신만의 OS를 만들어간다. 설치부터 쓸만한 하나의 운영체제가 될 때 까지 만들어가는 게 오래 걸리긴 하지만 운영체제의 구석구석을 돌아다니면서 배울 수 있는 것도 많고, 웬만한 설정파일은 유저의 손을 한번씩 거치므로 뭔가가 꼬였을 때 풀어나갈 수 있는 안목도 기르게 된다.</td>
+<td>아치리눅스는 리눅스 배포판중에서는 소프트웨어 업데이트 속도가 가장 빠르다. 패키지 관리자로는 팩맨을 사용한다. 처음 시작할 때 CUI를 띄우는 것 부터 시작해서 손수 세팅할것을 요구한다. 하지만 이는 아치리눅스의 중요한 특징으로 처음 설치를 할 때 기본적인 틀만 짜인 상태에서 유저가 알아서 자신만의 OS를 만들어간다.</td>
 </tr>
 </tbody>
 </table>
@@ -158,7 +158,7 @@ font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank"
 <td><img src="http://i1-news.softpedia-static.com/images/news2/manjaro-linux-16-06-cinnamon-edition-to-offer-the-latest-cinnamon-3-0-desktop-504308-3.jpg" alt=""></td>
 </tr>
 <tr>
-<td>아치 리눅스 기반 배포판. 굉장히 가벼운 아치 리눅스의 컨셉을 가져오면서도 우분투 계열의 사용성을 확보하기 위해 많은 노력을 기울인다. 공식 데스크탑 환경은 Xfce, KDE, GNOME이며 만자로 리눅스 커뮤니티에서 지원하는 거의 모든 데스크탑 환경을 지원한다. 각각의 데스크탑 환경에 맞는 버전을 설치해도 그 데스크탑 환경의 부속 어플리케이션을 설치와 함께 모두 제공하지 않는다. 말 그대로 필수적인 어플리케이션만 포함하고 나머지 어플리케이션은 사용자 입맛에 맞게 저장소에서 설치하면 된다. GUI 세팅 창에서 몇 번 클릭만 하면 아치 리눅스의 유저 저장소(Repository)인 AUR을 사용하도록 설정할 수 있고, 라이트 유저용 어플리케이션은 AUR에서 컴파일해도 대부분 호환된다. 또한 CLI 기반인 팩맨 뿐 아니라 GUI 기반의 패키지 관리자를 기본으로 끼워주며, 이 패키지 관리자 역시 불필요한 기능은 싹 빼고 패키지 관리와 검색 및 업데이트 외의 잡기능은 제공하지 않는다.</td>
+<td>아치 리눅스 기반 배포판. 굉장히 가벼운 아치 리눅스의 컨셉을 가져오면서도 우분투 계열의 사용성을 확보하기 위해 많은 노력을 기울인다. 공식 데스크탑 환경은 Xfce, KDE, GNOME이며 만자로 리눅스 커뮤니티에서 지원하는 거의 모든 데스크탑 환경을 지원한다. 각각의 데스크탑 환경에 맞는 버전을 설치해도 그 데스크탑 환경의 부속 어플리케이션을 설치와 함께 모두 제공하지 않는다. 말 그대로 필수적인 어플리케이션만 포함하고 나머지 어플리케이션은 사용자 입맛에 맞게 저장소에서 설치하면 된다.</td>
 </tr>
 </tbody>
 </table>
@@ -185,103 +185,11 @@ font-size:10px&quot;&gt;[이
   </entry>
   
   <entry>
-    <title>spring projects</title>
-    <link href="http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/"/>
-    <id>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</id>
-    <published>2017-04-12T22:48:12.000Z</published>
-    <updated>2017-04-22T11:30:39.193Z</updated>
-    
-    <content type="html"><![CDATA[<div style="text-align:right"><a href="/images/etc/icons.zip" download=""><i class="fa fa-download" aria-hidden="true"></i> Spring project icons.zip</a></div>
-
-<p><img src="https://spring.io/img/spring-by-pivotal.png" alt=""><span style="
-font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" rel="external">https://spring.io/</a>]</span></p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="http://platform.spring.io/platform/" target="_blank" rel="external"><img src="/images/spring/icon/springio.png" width="110" height="110"></a></td>
-<td><img src="https://en.opensuse.org/images/e/e3/None.png" width="50"></td>
-<td><strong>Spring IO Platform</strong><br>스프링 IO는 현대적인 애플리케이션을 위해서 응집력 있고 버전관리가 된 기본적인 플랫폼안에 핵심(core) 스프링 API를 함께 제공한다.</td>
-</tr>
-<tr>
-<td><img src="/images/spring/icon/spring-boot.png" width="110" height="110"></td>
-<td></td>
-<td><strong>Spring Boot</strong><br>작은 스프링 구성과 함께 언제든지 실행할 수 있는 스프링 애플리케이션을 만들수 있게 도와준다.</td>
-</tr>
-<tr>
-<td><img src="/images/spring/icon/spring-framework.png" width="110" height="110"></td>
-<td></td>
-<td><strong>Spring Framework</strong><br>자바로 엔터프라이즈 애플리케이션을 만들 때 포괄적으로 사용할 수 있는 Programming 및 Configuration 모델을 제공해주는 프레임워크이다.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><a href="http://codingcoding.tistory.com/29" target="_blank" rel="external">http://codingcoding.tistory.com/29</a></p>
-<p><a href="https://gs.saro.me/#!m=elec&amp;jn=673" target="_blank" rel="external">https://gs.saro.me/#!m=elec&amp;jn=673</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;div style=&quot;text-align:right&quot;&gt;&lt;a href=&quot;/images/etc/icons.zip&quot; download=&quot;&quot;&gt;&lt;i class=&quot;fa fa-download&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spring project i
-    
-    </summary>
-    
-      <category term="Java" scheme="http://daehuijo.github.io/categories/Java/"/>
-    
-      <category term="Spring" scheme="http://daehuijo.github.io/categories/Java/Spring/"/>
-    
-    
-      <category term="spring" scheme="http://daehuijo.github.io/tags/spring/"/>
-    
-      <category term="framework" scheme="http://daehuijo.github.io/tags/framework/"/>
-    
-  </entry>
-  
-  <entry>
     <title>markdown posting</title>
     <link href="http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/"/>
     <id>http://daehuijo.github.io/2017/04/06/hexo-20170406-markdown-posting/</id>
     <published>2017-04-05T19:16:10.000Z</published>
-    <updated>2017-04-18T11:00:14.574Z</updated>
+    <updated>2017-04-22T17:14:06.296Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Markdown을-이용한-Hexo-블로그-포스팅"><a href="#Markdown을-이용한-Hexo-블로그-포스팅" class="headerlink" title="Markdown을 이용한 Hexo 블로그 포스팅"></a>Markdown을 이용한 Hexo 블로그 포스팅</h1><p><img src="/images/hexo/hexo_title.png" alt=""><span style="
 font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p>
@@ -344,7 +252,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <p>태그의 경우 계층의 구분이 없기때문에 작성순서가 중요하지 않으나, 카테고리는 작성한 순서에 따라 계층구조로 적용된다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: firstPost</div><div class="line">date: 2017-04-15 22:18:35</div><div class="line">categories:</div><div class="line"> - Sports</div><div class="line"> - Baseball</div><div class="line">tags:</div><div class="line"> - Exercise</div><div class="line"> - athlete</div><div class="line"> ---</div></pre></td></tr></table></figure>
 <p><strong>본문 작성</strong></p>
-<p>Front-matter 다음 라인<code>(---)</code>부터 컨텐츠 내용을 GFM에 맞춰서 작성하면 된다.</p>
+<p>Front-matter 다음 라인<code>(---)</code>부터 컨텐츠 내용을 GFM에 맞춰서 작성하면 된다. 이미 만들어진 테마를 사용할 경우 그 테마의 css설정에 따라 원하는 디자인과는 다른 형태로 나타난다거나, markdown 문법이 다양하지 않음으로 인한 한계가 있을 수 있다. 이 경우에는 css 파일을 수정하거나 md파일 내에 직접 html 코드를 입력하여 원하는 형태로 표현할 수 있다. 또한 헥소에서 제공하는 문법인 <a href="https://hexo.io/ko/docs/tag-plugins.html" target="_blank" rel="external"><code>Tag plugins</code></a>을 사용하여 포스트를 작성할 수 있다.</p>
 <ul>
 <li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">biospin님의 마크다운.md</a></li>
 </ul>
@@ -400,7 +308,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
     <link href="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/"/>
     <id>http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/</id>
     <published>2017-04-05T19:07:08.000Z</published>
-    <updated>2017-04-22T10:19:13.237Z</updated>
+    <updated>2017-04-22T17:33:50.244Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up"><a href="#Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up" class="headerlink" title="Amazon Web Services EC2 Linux(ubuntu) GUI set  up"></a>Amazon Web Services EC2 Linux(ubuntu) GUI set  up</h1><p><img src="/images/aws/aws.png" alt=""></p><p><font size="2em">[출처: <a href="http://www.thevirtualist.org/" target="_blank" rel="external">http://www.thevirtualist.org/</a>]</font></p><p></p>
 <p>AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.</p>
@@ -433,17 +341,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <li><a href="https://www.realvnc.com/download/vnc/windows/" target="_blank" rel="external">real vncViewer</a></li>
 </ul>
 <p><strong>원격서버 종료</strong></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ vncserver -kill :1</div></pre></td></tr></table></figure>
-<p>nodejs framework</p>
-<p>root 권한으로 express 실행</p>
-<hr>
-<p>nojs automatic 24Hr hosting</p>
-<ol>
-<li>$ nohup npm start &amp;<br>==&gt; process id 11963</li>
-<li>$ ps -ef<br>==&gt; current processing list</li>
-<li>$ kill [process Id]<br>==&gt; webserver sutdown</li>
-</ol>
-<p>############################################<br>port rediection: 80번 port를 설정한 port로 자동 redirection하는 방법<br>$ sudo iptables -A PREROUTING -t nat -i eth0 -p tcp –dport 80 -j REDIRECT –to-port 9000</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ vncserver -kill :1</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">

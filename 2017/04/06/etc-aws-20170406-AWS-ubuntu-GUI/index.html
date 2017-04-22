@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="personal papers">
 <meta property="og:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
 <meta property="og:image" content="http://daehuijo.github.io/images/aws/aws.png">
-<meta property="og:updated_time" content="2017-04-22T10:19:13.237Z">
+<meta property="og:updated_time" content="2017-04-22T17:33:50.244Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="AWS ubuntu GUI">
 <meta name="twitter:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
@@ -215,17 +215,7 @@ ga('send', 'pageview');
 <li><a href="https://www.realvnc.com/download/vnc/windows/" target="_blank" rel="external">real vncViewer</a></li>
 </ul>
 <p><strong>원격서버 종료</strong></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ vncserver -kill :1</div></pre></td></tr></table></figure>
-<p>nodejs framework</p>
-<p>root 권한으로 express 실행</p>
-<hr>
-<p>nojs automatic 24Hr hosting</p>
-<ol>
-<li>$ nohup npm start &amp;<br>==&gt; process id 11963</li>
-<li>$ ps -ef<br>==&gt; current processing list</li>
-<li>$ kill [process Id]<br>==&gt; webserver sutdown</li>
-</ol>
-<p>############################################<br>port rediection: 80번 port를 설정한 port로 자동 redirection하는 방법<br>$ sudo iptables -A PREROUTING -t nat -i eth0 -p tcp –dport 80 -j REDIRECT –to-port 9000</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ vncserver -kill :1</div></pre></td></tr></table></figure>
 
         </div>
         <footer class="article-footer">
@@ -233,7 +223,7 @@ ga('send', 'pageview');
 
 
 
-    <a data-url="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/" data-id="cj1tfxt250017j8y0lfj1rnbf" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/" data-id="cj1tjogox000yx5y073y5rxyn" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -372,7 +362,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-list">
         <h3 class="widget-title">categories</h3>
         <div class="widget">
-            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/">Java</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/Spring/">Spring</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/">Linux</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/">etc</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/etc/aws/">aws</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/blog/">blog</a><span class="category-list-count">2</span></li></ul></li></ul>
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/">Java</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/Spring/">Spring</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/">Linux</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/">etc</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/etc/aws/">aws</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/blog/">blog</a><span class="category-list-count">2</span></li></ul></li></ul>
         </div>
     </div>
 
@@ -382,7 +372,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-float">
         <h3 class="widget-title">tag cloud</h3>
         <div class="widget tagcloud">
-            <a href="/tags/VNCviewr/" style="font-size: 10px;">VNCviewr</a> <a href="/tags/aws/" style="font-size: 10px;">aws</a> <a href="/tags/blog/" style="font-size: 20px;">blog</a> <a href="/tags/framework/" style="font-size: 20px;">framework</a> <a href="/tags/hexo/" style="font-size: 20px;">hexo</a> <a href="/tags/linux/" style="font-size: 10px;">linux</a> <a href="/tags/markdown/" style="font-size: 10px;">markdown</a> <a href="/tags/spring/" style="font-size: 20px;">spring</a>
+            <a href="/tags/VNCviewr/" style="font-size: 10px;">VNCviewr</a> <a href="/tags/aws/" style="font-size: 10px;">aws</a> <a href="/tags/blog/" style="font-size: 20px;">blog</a> <a href="/tags/framework/" style="font-size: 10px;">framework</a> <a href="/tags/hexo/" style="font-size: 20px;">hexo</a> <a href="/tags/linux/" style="font-size: 10px;">linux</a> <a href="/tags/markdown/" style="font-size: 10px;">markdown</a> <a href="/tags/spring/" style="font-size: 10px;">spring</a>
         </div>
     </div>
 
@@ -411,26 +401,6 @@ ga('send', 'pageview');
                             <p class="item-category"><a class="article-category-link" href="/categories/Linux/">Linux</a></p>
                             <p class="item-title"><a href="/2017/04/20/linux-Which-Linux-should-I-use/" class="title">Which Linux should I use</a></p>
                             <p class="item-date"><time datetime="2017-04-20T08:41:08.000Z" itemprop="datePublished">2017-04-20</time></p>
-                        </div>
-                    </li>
-                
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/04/13/spring-20170413-spring-projects/" class="thumbnail">
-    
-    
-        <span style="background-image:url(https://spring.io/img/spring-by-pivotal.png)" alt="spring projects" class="thumbnail-image"></span>
-    
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"><a class="article-category-link" href="/categories/Java/">Java</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Java/Spring/">Spring</a></p>
-                            <p class="item-title"><a href="/2017/04/13/spring-20170413-spring-projects/" class="title">spring projects</a></p>
-                            <p class="item-date"><time datetime="2017-04-12T22:48:12.000Z" itemprop="datePublished">2017-04-13</time></p>
                         </div>
                     </li>
                 
@@ -491,6 +461,26 @@ ga('send', 'pageview');
                             <p class="item-category"><a class="article-category-link" href="/categories/Java/">Java</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Java/Spring/">Spring</a></p>
                             <p class="item-title"><a href="/2017/04/03/spring-20170403-Spring-개발환경-설정/" class="title">Spring 개발환경 설정</a></p>
                             <p class="item-date"><time datetime="2017-04-03T14:06:16.000Z" itemprop="datePublished">2017-04-03</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/04/03/hexo-20170403-Hexo-blog/" class="thumbnail">
+    
+    
+        <span style="background-image:url(http://masatolan.com/images/2015/programming/1/hexo-blog-basic1.jpg)" alt="Hexo blog" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/etc/blog/">blog</a></p>
+                            <p class="item-title"><a href="/2017/04/03/hexo-20170403-Hexo-blog/" class="title">Hexo blog</a></p>
+                            <p class="item-date"><time datetime="2017-04-03T13:39:41.000Z" itemprop="datePublished">2017-04-03</time></p>
                         </div>
                     </li>
                 
