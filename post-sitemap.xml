@@ -7,16 +7,16 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/</loc>
-        <lastmod>2017-04-21T09:43:49.135Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/20/etc-versionControl-20170420-version-control/</loc>
+        <lastmod>2017-04-22T15:42:38.330Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/20/etc-tool-20170420-version-control/</loc>
-        <lastmod>2017-04-21T08:03:26.075Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/19/etc-cloudIDE-20170419-Cloud-IDE/</loc>
+        <lastmod>2017-04-22T15:42:25.450Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,39 +24,23 @@
 
     <url>
         <loc>http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/</loc>
-        <lastmod>2017-04-21T06:50:08.924Z</lastmod>
+        <lastmod>2017-04-22T15:32:28.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/13/linux-20170413-Ubuntu-Init-Setting/</loc>
-        <lastmod>2017-04-20T16:36:13.398Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</loc>
+        <lastmod>2017-04-22T11:30:39.193Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/2017/04/21/linux-20170421-desktop-environments/</loc>
-        <lastmod>2017-04-20T16:36:01.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</loc>
-        <lastmod>2017-04-20T15:53:59.347Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/2017/04/19/etc-tool-20170419-Cloud-IDE/</loc>
-        <lastmod>2017-04-20T11:09:35.308Z</lastmod>
+        <loc>http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/</loc>
+        <lastmod>2017-04-22T10:19:13.237Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -65,22 +49,6 @@
     <url>
         <loc>http://daehuijo.github.io/2017/04/03/hexo-20170403-Hexo-blog/</loc>
         <lastmod>2017-04-20T01:01:11.331Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</loc>
-        <lastmod>2017-04-18T21:45:50.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</loc>
-        <lastmod>2017-04-18T21:37:41.084Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

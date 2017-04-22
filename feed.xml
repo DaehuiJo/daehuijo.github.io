@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://daehuijo.github.io/"/>
-  <updated>2017-04-20T16:36:01.882Z</updated>
+  <updated>2017-04-22T15:32:28.862Z</updated>
   <id>http://daehuijo.github.io/</id>
   
   <author>
@@ -16,63 +16,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>desktop environments</title>
-    <link href="http://daehuijo.github.io/2017/04/21/linux-20170421-desktop-environments/"/>
-    <id>http://daehuijo.github.io/2017/04/21/linux-20170421-desktop-environments/</id>
-    <published>2017-04-20T15:28:10.000Z</published>
-    <updated>2017-04-20T16:36:01.882Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong><a href="https://www.gnome.org/" target="_blank" rel="external">GNOME</a></strong></p>
-<p><img src="https://www.gnome.org/wp-content/themes/gnome-grass/images/home/featured_image.png" alt=""></p>
-<ul>
-<li><a href="http://www.omgubuntu.co.uk/2016/05/install-gnome-3-20-ubuntu-16-04-lts" target="_blank" rel="external">omgubuntu.co.uk: Install GNOME 3.20 on Ubuntu 16.04 LTS</a></li>
-</ul>
-<p><strong><a href="https://www.kde.org/" target="_blank" rel="external">KDE Plasma</a></strong></p>
-<p><img src="http://i1-news.softpedia-static.com/images/news2/opensuse-tumbleweed-receives-kde-plasma-5-4-2-kde-apps-15-08-2-qt-5-5-1-495457-2.jpg" alt=""></p>
-<ul>
-<li><a href="http://www.tecmint.com/install-kde-plasma-5-in-linux/" target="_blank" rel="external">techmint.com: install kde plasma5 in linux</a></li>
-</ul>
-<p><strong><a href="http://developer.linuxmint.com/projects.html" target="_blank" rel="external">Cinnamon Desktop</a></strong></p>
-<p><img src="https://fthmb.tqn.com/qTbeXkDPUJOqka5Avn3CvRsYQEM=/768x0/filters:no_upscale(" alt="">/about/cinnamondesktop-588a4c6a5f9b5874ee1d5f5e.png)</p>
-<ul>
-<li><a href="https://www.lifewire.com/install-cinnamon-on-ubuntu-4125605" target="_blank" rel="external">lifewire.com: insatll cinnamon on ubuntu</a></li>
-</ul>
-<p><strong><a href="http://mate-desktop.com/" target="_blank" rel="external">MATE Desktop</a></strong></p>
-<p><img src="http://mate-desktop.org/gallery/1.14/MATE-1.14_1.png" alt=""></p>
-<ul>
-<li><a href="http://www.tecmint.com/install-mate-desktop-in-ubuntu-fedora/" target="_blank" rel="external">techmint.com: insatll Mate desktop</a></li>
-</ul>
-<p><strong><a href="https://unity.ubuntu.com/" target="_blank" rel="external">Unity Desktop</a></strong></p>
-<h2 id="참고"><a href="#참고" class="headerlink" title="참고"></a>참고</h2><ul>
-<li><a href="http://www.tecmint.com/best-linux-desktop-environments/" target="_blank" rel="external">techmint.com: 10 Best and Most Popular Linux Desktop Environments of All Time</a></li>
-<li><a href="https://www.lifewire.com/best-linux-desktop-environments-4120912" target="_blank" rel="external">https://www.lifewire.com/best-linux-desktop-environments-4120912</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.gnome.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GNOME&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gnome.org/wp-cont
-    
-    </summary>
-    
-      <category term="Linux" scheme="http://daehuijo.github.io/categories/Linux/"/>
-    
-    
-      <category term="linux" scheme="http://daehuijo.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Which Linux should I use</title>
     <link href="http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/"/>
     <id>http://daehuijo.github.io/2017/04/20/linux-Which-Linux-should-I-use/</id>
     <published>2017-04-20T08:41:08.000Z</published>
-    <updated>2017-04-21T06:50:08.924Z</updated>
+    <updated>2017-04-22T15:32:28.862Z</updated>
     
     <content type="html"><![CDATA[<p><img width="400" src="http://q-linux.com/wp-content/uploads/sites/460/2016/02/linux_distros-1024x766.png"><div style="
-font-size:10px" text-align:"center"="">[이미지 출처: <a href="http://q-linux.com/" target="_blank" rel="external">http://q-linux.com/</a>]</div></p>
-<h2 id="리눅스-구축환경-결정"><a href="#리눅스-구축환경-결정" class="headerlink" title="리눅스 구축환경 결정"></a>리눅스 구축환경 결정</h2><p>리눅스 환경을 구축하는 방법으로는 세 가지로 볼 수 있다. <strong>현재 사용중인 PC의 운영체제로써 배포판을 직접 설치</strong>하거나(또는 Multi-booting을 이용하여 하나의 PC에 윈도우와 리눅스를 공존시켜 부팅시 선택) <strong>가상머신(<a href="http://www.vmware.com/kr.html" target="_blank" rel="external">VMware</a>, <a href="https://www.virtualbox.org/" target="_blank" rel="external">Virtual BOX</a>, <a href="http://www.parallels.com/kr/" target="_blank" rel="external">Parallels</a>)을 이용</strong>하여 운용할 수 있으며, <strong>Amazon web service와 같은 PasS(Platform as a Service)를 이용</strong>하여 리눅스 환경을 구축할 수 있다. 또한 <a href="https://www.raspberrypi.org/" target="_blank" rel="external">Raspberry Pi</a>, <a href="http://www.bananapi.org/" target="_blank" rel="external">Banana Pi</a> <del>(라즈베리파이의 아류. 중국 선적의 LeMaker에서 제작, 사용평은…)</del>, <a href="http://www.rikomagic.co.uk" target="_blank" rel="external">Rikomagic의 Stick PC</a> 등과 같은 단일 보드 컴퓨터에 리눅스 환경을 구축할 수 있다.</p>
+font-size:10px">[이미지 출처: <a href="http://q-linux.com/" target="_blank" rel="external">http://q-linux.com/</a>]</div></p>
+<h2 id="리눅스-구축환경-결정"><a href="#리눅스-구축환경-결정" class="headerlink" title="리눅스 구축환경 결정"></a>리눅스 구축환경 결정</h2><p>리눅스 환경을 구축하는 방법으로는 세 가지로 볼 수 있다. <strong>현재 사용중인 PC의 운영체제로써 배포판을 직접 설치</strong>하거나(또는 Multi-booting을 이용하여 하나의 PC에 윈도우와 리눅스를 공존시켜 부팅시 선택) <strong>가상머신(<a href="http://www.vmware.com/kr.html" target="_blank" rel="external">VMware</a>, <a href="https://www.virtualbox.org/" target="_blank" rel="external">Virtual BOX</a>, <a href="http://www.parallels.com/kr/" target="_blank" rel="external">Parallels</a>)을 이용</strong>하여 운용할 수 있으며, <strong>AWS, Google cloud platform, MS Azure와 같은 PasS(Platform as a Service)를 이용</strong>하여 리눅스 환경을 구축할 수 있다. 또한 <a href="https://www.raspberrypi.org/" target="_blank" rel="external">Raspberry Pi</a>, <a href="http://www.bananapi.org/" target="_blank" rel="external">Banana Pi</a> <del>(라즈베리파이의 아류. 중국 선적의 LeMaker에서 제작, 사용평은…)</del>, <a href="http://www.rikomagic.co.uk" target="_blank" rel="external">Rikomagic의 Stick PC</a> 등과 같은 단일 보드 컴퓨터에 리눅스 환경을 구축할 수 있다.</p>
 <p></p><h2>리눅스 배포판 결정</h2><table style="border:0px solid gray; margin:0; text-align:center;"><tr><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/linux_rank.png"></td><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/lastest_release.png"></td><td style="border:0px solid black; margin:0; vertical-align:top"><img src="/images/linux/lastest_package.png"></td></tr></table><div text-align:right="">[출처: <a href="http://distrowatch.com/" target="_blank" rel="external">http://distrowatch.com/</a>] 4/20/2017</div><p></p>
 <p>국내에서 널리 알려진 리눅스 배포판은 주로 레드햇 사의 레드햇 엔터프라이즈 리눅스(RHEL)와 계보를 같이하는 페도라(Fedora), 센트OS(CentOS)가 있으며, 데비안으로 부터 파생된 우분투(ubuntu), 민트(Mint)가 있다. 그리고 스마트폰에 탑재되는 안드로이드(Android)가 있다.</p>
 <table>
@@ -221,7 +173,7 @@ font-size:10px" text-align:"center"="">[이미지 출처: <a href="http://q-linu
     <summary type="html">
     
       &lt;p&gt;&lt;img width=&quot;400&quot; src=&quot;http://q-linux.com/wp-content/uploads/sites/460/2016/02/linux_distros-1024x766.png&quot;&gt;&lt;div style=&quot;
-font-size:10px&quot; te
+font-size:10px&quot;&gt;[이
     
     </summary>
     
@@ -234,10 +186,10 @@ font-size:10px&quot; te
   
   <entry>
     <title>version control</title>
-    <link href="http://daehuijo.github.io/2017/04/20/etc-tool-20170420-version-control/"/>
-    <id>http://daehuijo.github.io/2017/04/20/etc-tool-20170420-version-control/</id>
+    <link href="http://daehuijo.github.io/2017/04/20/etc-versionControl-20170420-version-control/"/>
+    <id>http://daehuijo.github.io/2017/04/20/etc-versionControl-20170420-version-control/</id>
     <published>2017-04-20T01:58:04.000Z</published>
-    <updated>2017-04-21T08:03:26.075Z</updated>
+    <updated>2017-04-22T15:42:38.330Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/etc/version_control.png" alt=""></p>
 <h2 id="버젼관리란"><a href="#버젼관리란" class="headerlink" title="버젼관리란?"></a>버젼관리란?</h2><blockquote>
@@ -287,10 +239,10 @@ font-size:10px&quot; te
   
   <entry>
     <title>Cloud IDE</title>
-    <link href="http://daehuijo.github.io/2017/04/19/etc-tool-20170419-Cloud-IDE/"/>
-    <id>http://daehuijo.github.io/2017/04/19/etc-tool-20170419-Cloud-IDE/</id>
+    <link href="http://daehuijo.github.io/2017/04/19/etc-cloudIDE-20170419-Cloud-IDE/"/>
+    <id>http://daehuijo.github.io/2017/04/19/etc-cloudIDE-20170419-Cloud-IDE/</id>
     <published>2017-04-18T19:24:26.000Z</published>
-    <updated>2017-04-20T11:09:35.308Z</updated>
+    <updated>2017-04-22T15:42:25.450Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/800/0*anRQIKUQuPcFdClg.jpg" alt=""><span style="
 font-size:10px">[이미지 출처: <a href="https://blog.codenvy.com/" target="_blank" rel="external">https://blog.codenvy.com/</a>]</span></p>
@@ -373,269 +325,11 @@ font-size:10px&quot;&gt;[이미지 출처: &lt;a href=&quot;https://
   </entry>
   
   <entry>
-    <title>markup and markdown</title>
-    <link href="http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/"/>
-    <id>http://daehuijo.github.io/2017/04/16/etc-20170416-markup-and-markdown/</id>
-    <published>2017-04-16T12:56:24.000Z</published>
-    <updated>2017-04-18T21:45:50.504Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Markup"><a href="#Markup" class="headerlink" title="Markup"></a>Markup</h2><p><img src="http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-Stock-Illustration.jpg" alt=""></p>
-<blockquote>
-<p>마크업(Markup)은 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한 가지이다. 태그는 원래 텍스트와는 별도로 원고의 교정부호와 주석을 표현하기 위한 것이였으나 용도가 점차 확장되어 문서의 구조를 표현하는 역할을 하게 되었다.                                                                                                                                     - wikipedia</p>
-</blockquote>
-<h2 id="Markdonw"><a href="#Markdonw" class="headerlink" title="Markdonw"></a>Markdonw</h2><p><img src="/images/etc/markdown.jpg" alt=""></p>
-<blockquote>
-<p>존 그루버는 2004년에 문법 면에서 에런 스워츠와 중대한 협업을 통해 마크다운 언어를 만들었다. 마크다운(markdown)은 일반 텍스트 문서의 양식을 편집하는 문법이다. README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 쓰인다. 마크다운을 이용해 작성된 문서는 쉽게 HTML 등 다른 문서형태로 변환이 가능하다.                                                                                                                                        - wikipedia</p>
-</blockquote>
-<p><strong><a href="https://www.slideshare.net/devsejong/ss-34549631" target="_blank" rel="external">박세정님의 Markdown 소개 Slide Share</a></strong></p>
-<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/apbFgxTgXWXPWR" width="780" height="460" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div></p>
-<h3 id="참고사이트"><a href="#참고사이트" class="headerlink" title="참고사이트"></a>참고사이트</h3><ul>
-<li><a href="http://daringfireball.net/projects/markdown/syntax" target="_blank" rel="external">JOHN GRUBER Markdown Syntax</a></li>
-<li><a href="https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/" target="_blank" rel="external">https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/</a></li>
-<li><a href="http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/" target="_blank" rel="external">Kalkin7님의 워드프레스 마크다운 문법 설명</a></li>
-<li><a href="https://nolboo.kim/blog/2014/03/25/php-markdown-extra/" target="_blank" rel="external">Nolboo님의 PHP 마크다운 확장 번역</a></li>
-<li>​</li>
-<li>​</li>
-<li>​</li>
-<li>​</li>
-<li><a href="https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md" target="_blank" rel="external">https://github.com/biospin/BigBio/blob/master/reference/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md</a></li>
-<li><a href="http://www.hakawati.co.kr/405" target="_blank" rel="external">http://www.hakawati.co.kr/405</a></li>
-<li><a href="http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e" target="_blank" rel="external">http://uosarch.appspot.com/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#h_2cc02e22d67e7c3548e91a110987b51e</a></li>
-<li><a href="https://simhyejin.github.io/2016/06/30/Markdown-syntax/" target="_blank" rel="external">https://simhyejin.github.io/2016/06/30/Markdown-syntax/</a></li>
-<li><a href="http://ccl.cckorea.org/syntax/" target="_blank" rel="external">http://ccl.cckorea.org/syntax/</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Markup&quot;&gt;&lt;a href=&quot;#Markup&quot; class=&quot;headerlink&quot; title=&quot;Markup&quot;&gt;&lt;/a&gt;Markup&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://previews.123rf.com/images/kgtoh/kgtoh
-    
-    </summary>
-    
-      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
-    
-    
-      <category term="markup" scheme="http://daehuijo.github.io/tags/markup/"/>
-    
-      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>bookmark page</title>
-    <link href="http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/"/>
-    <id>http://daehuijo.github.io/2017/04/13/etc-20170413-bookmark/</id>
-    <published>2017-04-12T23:15:10.000Z</published>
-    <updated>2017-04-20T15:53:59.347Z</updated>
-    
-    <content type="html"><![CDATA[<table>
-<thead>
-<tr>
-<th>@category</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="#AWS">AWS</a> / <a href="#Cloud_IDE">Cloud IDE</a> / <a href="#Database">Database</a> / <a href="#JAVA">JAVA</a> / <a href="#Spring">Spring</a> / <a href="#웹표준">웹표준</a> /</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3 id="웹표준"><a href="#웹표준" class="headerlink" title="웹표준"></a>웹표준</h3><table>
-<thead>
-<tr>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://www.w3schools.com/" target="_blank" rel="external">W3SCHOOL.COM</a></td>
-</tr>
-<tr>
-<td><a href="http://superkts.com/" target="_blank" rel="external">CSS, JQuery 공작소</a></td>
-</tr>
-<tr>
-<td><a href="http://www.homejjang.com/" target="_blank" rel="external">홈짱닷컴 홈페이지 제작 가이드</a></td>
-</tr>
-<tr>
-<td><a href="http://www.htmldrive.net/" target="_blank" rel="external">Free Dhtml scripts, Jquery plugins ,Javascript, CSS, CSS3, Html5 Library</a></td>
-</tr>
-<tr>
-<td><a href="https://opentutorials.org/course/743" target="_blank" rel="external">생활코딩 JavaScript</a></td>
-</tr>
-<tr>
-<td><a href="https://nolboo.kim/blog/2014/03/13/how-to-learn-javascript-properly/" target="_blank" rel="external">Nolboo님의 자바스크립트 제대로 배우기</a></td>
-</tr>
-</tbody>
-</table>
-<h3 id="JAVA"><a href="#JAVA" class="headerlink" title="JAVA"></a>JAVA</h3><table>
-<thead>
-<tr>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>CORE</strong></td>
-</tr>
-<tr>
-<td><a href="http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php" target="_blank" rel="external">난 정말 JAVA를 공부한 적이 없다구요</a> / 오렌지 미디어 동영상 강의</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td><strong>JSP/SERVELET</strong></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h3 id="Spring"><a href="#Spring" class="headerlink" title="Spring"></a>Spring</h3><table>
-<thead>
-<tr>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>동영상 강좌</strong></td>
-</tr>
-<tr>
-<td><a href="https://www.youtube.com/playlist?list=PLieE0qnqO2kTyzAlsvxzoulHVISvO8zA9" target="_blank" rel="external">Seoul Wiz: Java&amp;JSP&amp;Spring</a> /youtube</td>
-</tr>
-<tr>
-<td><a href="https://www.youtube.com/playlist?list=PLY9pe3iUjRrRHaN7Sb8xxWS7Ir_PolLtk" target="_blank" rel="external">Boaz Academy: Spring</a> /youtube</td>
-</tr>
-<tr>
-<td><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x" target="_blank" rel="external">Java Brains: Spring Boot quick start</a> /youtube</td>
-</tr>
-<tr>
-<td><strong>tutorial</strong></td>
-</tr>
-<tr>
-<td><a href="https://slipp.net/wiki/pages/viewpage.action?pageId=25529113" target="_blank" rel="external">자바지기(박재성)님의 Spring-Boot, JPA로 질문/답변 게시판 구현</a> / <a href="http://asfirstalways.tistory.com/292" target="_blank" rel="external">JBee님의 실습페이지</a></td>
-</tr>
-<tr>
-<td><a href="http://addio3305.tistory.com/category/Spring?page=2" target="_blank" rel="external">흔한 개발자의 개발 노트: Spring</a></td>
-</tr>
-<tr>
-<td><a href="http://blog.naver.com/jazz1234k" target="_blank" rel="external">강력먼지제거님의 Spring 3</a></td>
-</tr>
-<tr>
-<td><a href="https://gs.saro.me/#!m=elec&amp;jn=674" target="_blank" rel="external">박용서님의 Spring 4 입문 &amp; 리눅스 서버 배포</a></td>
-</tr>
-<tr>
-<td><a href="http://ooz.co.kr/170" target="_blank" rel="external">오즈님의 Spring Framework</a></td>
-</tr>
-<tr>
-<td><a href="https://leesunghee.gitbooks.io/mockito-for-spring/content/chapter1.html" target="_blank" rel="external">이성희님의 Spring Framework</a></td>
-</tr>
-<tr>
-<td><a href="http://websystique.com/spring-4-mvc-tutorial/" target="_blank" rel="external">websystique.com: Spring 4 MVC Tutorial</a></td>
-</tr>
-<tr>
-<td><a href="http://millky.com/@origoni/post/1100?language=ko_kr" target="_blank" rel="external">밀키님의 Spring Boot web Project</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h3 id="AWS"><a href="#AWS" class="headerlink" title="AWS"></a>AWS</h3><table>
-<thead>
-<tr>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Amazon Web Service</strong></td>
-</tr>
-<tr>
-<td><a href="http://ora-sysdba.tistory.com/entry/Cloud-Computing-Amazon-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-JavaJDK-%EC%84%A4%EC%B9%98" target="_blank" rel="external">Amazon EC2 Instance에 Java(JDK) 설치: FTP방식</a></td>
-</tr>
-<tr>
-<td><a href="https://tkddlf59.github.io/2016/09/12/2016-09-12-aws2/" target="_blank" rel="external">AWS EC2 Java, Tomcat 설치 및 설정</a></td>
-</tr>
-<tr>
-<td><a href="http://editorizer.tistory.com/36" target="_blank" rel="external">FileZilla FTP 사용법</a></td>
-</tr>
-<tr>
-<td><a href="http://m.blog.naver.com/carrotcarrot/220680470792" target="_blank" rel="external">EC2에 FTP 접속 설정</a></td>
-</tr>
-<tr>
-<td><a href="http://hyeonstorage.tistory.com/271" target="_blank" rel="external">아마존 웹서비스(AWS) EC2 접속 Putty</a></td>
-</tr>
-</tbody>
-</table>
-<h3 id="Cloud-IDE"><a href="#Cloud-IDE" class="headerlink" title="Cloud_IDE"></a>Cloud_IDE</h3><table>
-<thead>
-<tr>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://c9.io/" target="_blank" rel="external">Cloud9</a></td>
-</tr>
-<tr>
-<td><a href="https://ide.goorm.io/" target="_blank" rel="external">구름IDE</a></td>
-</tr>
-<tr>
-<td><a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" rel="external">tutorialspoint Onlie Terminal &amp; IDE</a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>### </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;@category&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;#AWS&quot;&gt;AWS&lt;/a&gt; / &lt;a href=&quot;#Cloud_IDE&quot;&gt;Cloud IDE&lt;/a&gt; / &lt;a hre
-    
-    </summary>
-    
-      <category term="etc" scheme="http://daehuijo.github.io/categories/etc/"/>
-    
-    
-      <category term="bookmark" scheme="http://daehuijo.github.io/tags/bookmark/"/>
-    
-  </entry>
-  
-  <entry>
     <title>spring projects</title>
     <link href="http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/"/>
     <id>http://daehuijo.github.io/2017/04/13/spring-20170413-spring-projects/</id>
     <published>2017-04-12T22:48:12.000Z</published>
-    <updated>2017-04-18T21:37:41.084Z</updated>
+    <updated>2017-04-22T11:30:39.193Z</updated>
     
     <content type="html"><![CDATA[<div style="text-align:right"><a href="/images/etc/icons.zip" download=""><i class="fa fa-download" aria-hidden="true"></i> Spring project icons.zip</a></div>
 
@@ -719,149 +413,6 @@ font-size:10px">[이미지 출처: <a href="https://spring.io/" target="_blank" 
       <category term="spring" scheme="http://daehuijo.github.io/tags/spring/"/>
     
       <category term="framework" scheme="http://daehuijo.github.io/tags/framework/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ubuntu Init Setup</title>
-    <link href="http://daehuijo.github.io/2017/04/13/linux-20170413-Ubuntu-Init-Setting/"/>
-    <id>http://daehuijo.github.io/2017/04/13/linux-20170413-Ubuntu-Init-Setting/</id>
-    <published>2017-04-12T18:07:36.000Z</published>
-    <updated>2017-04-20T16:36:13.398Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Ubuntu-16-04-LTS-Initial-Setup"><a href="#Ubuntu-16-04-LTS-Initial-Setup" class="headerlink" title="Ubuntu 16.04 LTS Initial Setup"></a>Ubuntu 16.04 LTS Initial Setup</h1><p><img src="/images/linux/hp_laptop.png" alt=""></p>
-<p>군 전역 후 08년도에 구입했던 HP Compaq 6730s의 보조기억장치를 SSD로 교체하면서 운영체제를 우분투로 설치해봤다. MS-DOS, Windows 3.0을 거쳐 MS사의 OS만을 사용해왔기 때문에 리눅스는 낯설다. 개발자로 전직한답시고 발발거리면서 Virture Machine 및 AWS EC2를 이용하여 사용해보았을 뿐이다. 단순 서버설정이 아닌 실질적인 사용을 위해 이것저것 설치 및 설정을 하면서 해야할 것이 너무 많다는 것을 느꼈고, 다른 이들도 자신만의 세팅방법을 작성해둔 것을 보고 나도 작성해두려 한다. <del>권한설정에 버벅거리면서 이클립스 런칭오류로 한번 포멧한건 안비밀.</del></p>
-<hr>
-<h3 id="SSD-Optimization"><a href="#SSD-Optimization" class="headerlink" title="SSD Optimization"></a>SSD Optimization</h3><ul>
-<li><p><a href="http://davidlab.net/blog/how-to-tweak-ssd-in-ubuntu" target="_blank" rel="external">http://davidlab.net/blog/how-to-tweak-ssd-in-ubuntu</a></p>
-</li>
-<li><p><a href="http://blog.iftm.xyz/ubuntu-16-04-1-lts-post-installation/" target="_blank" rel="external">http://blog.iftm.xyz/ubuntu-16-04-1-lts-post-installation/</a></p>
-</li>
-<li><p><a href="http://sergeswin.com/980" target="_blank" rel="external">http://sergeswin.com/980</a></p>
-</li>
-<li><p><a href="http://www.techrepublic.com/article/getting-up-to-speed-with-the-linux-desktop-operating-system/" target="_blank" rel="external">TechRepublic: Linux desktop operating system: A beginner’s guide</a></p>
-</li>
-<li><p>한글설정(zapary.blogspot.kr)</p>
-</li>
-<li><p>chrome(<a href="https://brunch.co.kr/@hancoma/90" target="_blank" rel="external">https://brunch.co.kr/@hancoma/90</a>)</p>
-</li>
-<li><p>$ wget <a href="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb" target="_blank" rel="external">https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb</a></p>
-</li>
-<li><p>$ sudo apt-get install libxssl libgconf2-4 libappindicator1 libindicator7</p>
-</li>
-<li><p>$ sudo dpkg -i google-chrome-stable_current_amd64.deb</p>
-</li>
-<li><p>dropbox(<a href="https://www.linuxbabe.com/cloud-storage/install-dropbox-ubuntu-16-04" target="_blank" rel="external">https://www.linuxbabe.com/cloud-storage/install-dropbox-ubuntu-16-04</a>)</p>
-</li>
-<li><p>​</p>
-</li>
-<li><p>Unity Tweek</p>
-</li>
-<li><p>$ sudo apt-get install unity-tweak-tool</p>
-</li>
-<li><p>theme</p>
-</li>
-<li><p><a href="https://www.ubuntufree.com/ubuntu-themes/" target="_blank" rel="external">https://www.ubuntufree.com/ubuntu-themes/</a></p>
-</li>
-<li><p>​</p>
-</li>
-<li><p><a href="http://www.noobslab.com/p/themes-icons.html" target="_blank" rel="external">http://www.noobslab.com/p/themes-icons.html</a></p>
-</li>
-<li><p><a href="http://ubuntunext.com/2016/06/15/top-10-themes-for-ubuntu-16-04" target="_blank" rel="external">http://ubuntunext.com/2016/06/15/top-10-themes-for-ubuntu-16-04</a></p>
-</li>
-<li><p><a href="https://www.reddit.com/r/Ubuntu/comments/4k2kqi/favorite_unity_themes_1604/" target="_blank" rel="external">https://www.reddit.com/r/Ubuntu/comments/4k2kqi/favorite_unity_themes_1604/</a><br>*plank<a href="http://programmingsummaries.tistory.com/359" target="_blank" rel="external">http://programmingsummaries.tistory.com/359</a></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ screenfetch</div></pre></td></tr></table></figure>
-<p>​</p>
-</li>
-<li><p>telegram</p>
-</li>
-<li><p><a href="https://www.linuxbabe.com/desktop-linux/2-ways-install-telegram-ubuntu-16-04-ppa-snap" target="_blank" rel="external">https://www.linuxbabe.com/desktop-linux/2-ways-install-telegram-ubuntu-16-04-ppa-snap</a></p>
-</li>
-<li><p>nautilus</p>
-</li>
-<li><p>$ sudo apt install gksu</p>
-</li>
-<li><p>$ sudo apt-get install nautilus</p>
-</li>
-<li><p>$ sudo apt install nautilus</p>
-</li>
-<li><p>nodejs &amp; npm</p>
-</li>
-<li><p>sublimetext3</p>
-</li>
-<li><p><a href="http://hochulshin.com/sublime-text3/" target="_blank" rel="external">http://hochulshin.com/sublime-text3/</a></p>
-<ul>
-<li><a href="http://jos39.tistory.com/243" target="_blank" rel="external">http://jos39.tistory.com/243</a></li>
-</ul>
-</li>
-<li><p><a href="http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/" target="_blank" rel="external">http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/</a></p>
-</li>
-<li><p>java</p>
-</li>
-<li><p>jdk: <a href="http://blog.danggun.net/4101" target="_blank" rel="external">http://blog.danggun.net/4101</a></p>
-</li>
-<li><p>eclipse </p>
-</li>
-<li><p>git</p>
-</li>
-<li><p><a href="http://egloos.zum.com/seoz/v/3910833" target="_blank" rel="external">http://egloos.zum.com/seoz/v/3910833</a></p>
-</li>
-<li><p><a href="https://help.github.com/articles/caching-your-github-password-in-git/" target="_blank" rel="external">https://help.github.com/articles/caching-your-github-password-in-git/</a></p>
-</li>
-<li><p><a href="http://www.dreamy.pe.kr/zbxe/CodeClip/95408" target="_blank" rel="external">http://www.dreamy.pe.kr/zbxe/CodeClip/95408</a></p>
-</li>
-<li><p>terminator-ing</p>
-</li>
-<li><p><a href="http://programmingsummaries.tistory.com/361" target="_blank" rel="external">http://programmingsummaries.tistory.com/361</a></p>
-</li>
-<li><p>vim</p>
-</li>
-<li><p><a href="http://sparklingstar.tistory.com/entry/5-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-Vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85" target="_blank" rel="external">http://sparklingstar.tistory.com/entry/5-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-Vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85</a></p>
-</li>
-<li><p><a href="http://terrorjang.tistory.com/69" target="_blank" rel="external">http://terrorjang.tistory.com/69</a></p>
-<ul>
-<li><a href="https://medium.com/sunhyoups-story/vim-%EC%97%90%EB%94%94%ED%84%B0-%EC%9D%B4%EC%81%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-5b6b8d546017" target="_blank" rel="external">https://medium.com/sunhyoups-story/vim-%EC%97%90%EB%94%94%ED%84%B0-%EC%9D%B4%EC%81%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-5b6b8d546017</a></li>
-</ul>
-</li>
-<li><p><a href="http://sybd.tistory.com/100" target="_blank" rel="external">http://sybd.tistory.com/100</a></p>
-</li>
-<li><p><a href="http://akal.co.kr/?p=934" target="_blank" rel="external">http://akal.co.kr/?p=934</a></p>
-<ul>
-<li><a href="http://luckyyowu.tistory.com/308" target="_blank" rel="external">http://luckyyowu.tistory.com/308</a></li>
-</ul>
-</li>
-<li><p>typora</p>
-</li>
-<li><p><a href="http://support.typora.io/Typora-on-Linux/" target="_blank" rel="external">http://support.typora.io/Typora-on-Linux/</a></p>
-</li>
-<li><p>sublimetext3</p>
-</li>
-<li><p><a href="http://hochulshin.com/sublime-text3/" target="_blank" rel="external">http://hochulshin.com/sublime-text3/</a></p>
-</li>
-<li><p><a href="http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/" target="_blank" rel="external">http://www.kvcodes.com/2016/11/install-update-sublime-text-3-ubuntu-using-terminal/</a></p>
-</li>
-<li><p>oralcle</p>
-</li>
-<li><p>Qt</p>
-</li>
-</ul>
-<p>todo<br>• tomboy Notes<br>• nemo<br>• green recorder</p>
-<p><a href="http://programmingsummaries.tistory.com/389" target="_blank" rel="external">http://programmingsummaries.tistory.com/389</a></p>
-<p>###############################################<br><a href="http://blog.saltfactory.net/install-oracle-xe-on-ubuntu/" target="_blank" rel="external">http://blog.saltfactory.net/install-oracle-xe-on-ubuntu/</a><br><a href="http://sarc.io/index.php/oracledatabase/529-ubuntu-oracle-11gr2" target="_blank" rel="external">http://sarc.io/index.php/oracledatabase/529-ubuntu-oracle-11gr2</a><br><a href="http://shinyul.tistory.com/9" target="_blank" rel="external">http://shinyul.tistory.com/9</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Ubuntu-16-04-LTS-Initial-Setup&quot;&gt;&lt;a href=&quot;#Ubuntu-16-04-LTS-Initial-Setup&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu 16.04 LTS Initial Setup&quot;&gt;
-    
-    </summary>
-    
-      <category term="Linux" scheme="http://daehuijo.github.io/categories/Linux/"/>
-    
-    
-      <category term="linux" scheme="http://daehuijo.github.io/tags/linux/"/>
-    
-      <category term="ubuntu" scheme="http://daehuijo.github.io/tags/ubuntu/"/>
     
   </entry>
   
@@ -976,11 +527,11 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
       <category term="blog" scheme="http://daehuijo.github.io/categories/etc/blog/"/>
     
     
-      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
-    
       <category term="hexo" scheme="http://daehuijo.github.io/tags/hexo/"/>
     
       <category term="blog" scheme="http://daehuijo.github.io/tags/blog/"/>
+    
+      <category term="markdown" scheme="http://daehuijo.github.io/tags/markdown/"/>
     
   </entry>
   
@@ -989,7 +540,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
     <link href="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/"/>
     <id>http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/</id>
     <published>2017-04-05T19:07:08.000Z</published>
-    <updated>2017-04-21T09:43:49.135Z</updated>
+    <updated>2017-04-22T10:19:13.237Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up"><a href="#Amazon-Web-Services-EC2-Linux-ubuntu-GUI-set-up" class="headerlink" title="Amazon Web Services EC2 Linux(ubuntu) GUI set  up"></a>Amazon Web Services EC2 Linux(ubuntu) GUI set  up</h1><p><img src="/images/aws/aws.png" alt=""></p><p><font size="2em">[출처: <a href="http://www.thevirtualist.org/" target="_blank" rel="external">http://www.thevirtualist.org/</a>]</font></p><p></p>
 <p>AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.</p>
@@ -999,7 +550,7 @@ font-size:10px">[이미지 출처: Hexo Landscape theme default image]</span></p
 <p><img src="/images/aws/aws-instance-option.png" alt=""></p>
 <p>옵션목록의 최상단에 있는 Connect를 선택하게 되면 다음과 같은 창이 뜬다.</p>
 <p><img src="/images/aws/aws-instance-connect.png" alt=""></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ ssh -i &quot;암호키파일경로&quot; Instance사용자명(ubuntu)@Public DNS Address</div><div class="line"></div><div class="line">예)</div><div class="line">$ ssh -i &quot;C:\root\dev\AWS\Key\ubuntudesktop.pem&quot; ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ ssh -i <span class="string">"암호키파일경로"</span> Instance계정명(ubuntu)@Public DNS Address</div><div class="line"></div><div class="line">예)</div><div class="line">$ ssh -i <span class="string">"C:\root\dev\AWS\Key\ubuntudesktop.pem"</span> ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</div></pre></td></tr></table></figure>
 <p>윈도우의 경우에는 자신이 선호하는 SSH Client(<a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank" rel="external">PuTTy</a>, <a href="http://www.netsarang.co.kr/download/free_license.html" target="_blank" rel="external">xshell</a> 등)를 이용해서 해당 인스턴스에 접속하면 된다. 리눅스의 경우 키파일에 대한 권한설정을 해준 뒤 자체 터미널을 이용하여 접속한다. (리눅스에서 키파일에 대한 경로설정 방법을 몰라서 키파일이 있는 폴더로 이동 후 접속했다.)</p>
 <p><img src="/images/aws/aws-ubuntu.png" alt=""></p>
 <h3 id="원격접속을-위한-프로그램-설치-및-설정"><a href="#원격접속을-위한-프로그램-설치-및-설정" class="headerlink" title="원격접속을 위한 프로그램 설치 및 설정"></a>원격접속을 위한 프로그램 설치 및 설정</h3><p><strong>package install</strong></p>

@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="personal papers">
 <meta property="og:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
 <meta property="og:image" content="http://daehuijo.github.io/images/aws/aws.png">
-<meta property="og:updated_time" content="2017-04-21T09:43:49.135Z">
+<meta property="og:updated_time" content="2017-04-22T10:19:13.237Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="AWS ubuntu GUI">
 <meta name="twitter:description" content="Amazon Web Services EC2 Linux(ubuntu) GUI set  up[출처: http://www.thevirtualist.org/] AWS를 이용하여 이것저것 해보면서 CLI환경이 익숙치 않아 버벅거리다, 구글링을 통해 알게된 GUI 설정방법을 기록해 두고자 한다.  AWS EC2 Instance 접속 자세한 Instance 생성방법은">
@@ -192,7 +192,7 @@ ga('send', 'pageview');
 <p><img src="/images/aws/aws-instance-option.png" alt=""></p>
 <p>옵션목록의 최상단에 있는 Connect를 선택하게 되면 다음과 같은 창이 뜬다.</p>
 <p><img src="/images/aws/aws-instance-connect.png" alt=""></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ ssh -i &quot;암호키파일경로&quot; Instance사용자명(ubuntu)@Public DNS Address</div><div class="line"></div><div class="line">예)</div><div class="line">$ ssh -i &quot;C:\root\dev\AWS\Key\ubuntudesktop.pem&quot; ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">$ ssh -i <span class="string">"암호키파일경로"</span> Instance계정명(ubuntu)@Public DNS Address</div><div class="line"></div><div class="line">예)</div><div class="line">$ ssh -i <span class="string">"C:\root\dev\AWS\Key\ubuntudesktop.pem"</span> ubuntu@ec2-13-124-20-68.ap-northeast-2.compute.amazonaws.com</div></pre></td></tr></table></figure>
 <p>윈도우의 경우에는 자신이 선호하는 SSH Client(<a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank" rel="external">PuTTy</a>, <a href="http://www.netsarang.co.kr/download/free_license.html" target="_blank" rel="external">xshell</a> 등)를 이용해서 해당 인스턴스에 접속하면 된다. 리눅스의 경우 키파일에 대한 권한설정을 해준 뒤 자체 터미널을 이용하여 접속한다. (리눅스에서 키파일에 대한 경로설정 방법을 몰라서 키파일이 있는 폴더로 이동 후 접속했다.)</p>
 <p><img src="/images/aws/aws-ubuntu.png" alt=""></p>
 <h3 id="원격접속을-위한-프로그램-설치-및-설정"><a href="#원격접속을-위한-프로그램-설치-및-설정" class="headerlink" title="원격접속을 위한 프로그램 설치 및 설정"></a>원격접속을 위한 프로그램 설치 및 설정</h3><p><strong>package install</strong></p>
@@ -233,7 +233,7 @@ ga('send', 'pageview');
 
 
 
-    <a data-url="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/" data-id="cj1rnjbad001u9ay01ztrmesd" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://daehuijo.github.io/2017/04/06/etc-aws-20170406-AWS-ubuntu-GUI/" data-id="cj1tfph8h00173sy04w2wqsk1" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -372,7 +372,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-list">
         <h3 class="widget-title">categories</h3>
         <div class="widget">
-            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/">Java</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/Spring/">Spring</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/">Linux</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/">etc</a><span class="category-list-count">7</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/etc/aws/">aws</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/blog/">blog</a><span class="category-list-count">2</span></li></ul></li></ul>
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/">Java</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Java/Spring/">Spring</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Linux/">Linux</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/">etc</a><span class="category-list-count">5</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/etc/aws/">aws</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/etc/blog/">blog</a><span class="category-list-count">2</span></li></ul></li></ul>
         </div>
     </div>
 
@@ -382,7 +382,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-float">
         <h3 class="widget-title">tag cloud</h3>
         <div class="widget tagcloud">
-            <a href="/tags/Cloud-IDE/" style="font-size: 10px;">Cloud IDE</a> <a href="/tags/VNCviewr/" style="font-size: 10px;">VNCviewr</a> <a href="/tags/aws/" style="font-size: 10px;">aws</a> <a href="/tags/blog/" style="font-size: 15px;">blog</a> <a href="/tags/bookmark/" style="font-size: 10px;">bookmark</a> <a href="/tags/framework/" style="font-size: 15px;">framework</a> <a href="/tags/hexo/" style="font-size: 15px;">hexo</a> <a href="/tags/linux/" style="font-size: 20px;">linux</a> <a href="/tags/markdown/" style="font-size: 15px;">markdown</a> <a href="/tags/markup/" style="font-size: 10px;">markup</a> <a href="/tags/spring/" style="font-size: 15px;">spring</a> <a href="/tags/ubuntu/" style="font-size: 10px;">ubuntu</a> <a href="/tags/version-control/" style="font-size: 10px;">version control</a>
+            <a href="/tags/Cloud-IDE/" style="font-size: 10px;">Cloud IDE</a> <a href="/tags/VNCviewr/" style="font-size: 10px;">VNCviewr</a> <a href="/tags/aws/" style="font-size: 10px;">aws</a> <a href="/tags/blog/" style="font-size: 20px;">blog</a> <a href="/tags/framework/" style="font-size: 20px;">framework</a> <a href="/tags/hexo/" style="font-size: 20px;">hexo</a> <a href="/tags/linux/" style="font-size: 10px;">linux</a> <a href="/tags/markdown/" style="font-size: 10px;">markdown</a> <a href="/tags/spring/" style="font-size: 20px;">spring</a> <a href="/tags/version-control/" style="font-size: 10px;">version control</a>
         </div>
     </div>
 
@@ -393,26 +393,6 @@ ga('send', 'pageview');
         <h3 class="widget-title">recents</h3>
         <div class="widget">
             <ul id="recent-post" class="">
-                
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/04/21/linux-20170421-desktop-environments/" class="thumbnail">
-    
-    
-        <span style="background-image:url(https://www.gnome.org/wp-content/themes/gnome-grass/images/home/featured_image.png)" alt="desktop environments" class="thumbnail-image"></span>
-    
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"><a class="article-category-link" href="/categories/Linux/">Linux</a></p>
-                            <p class="item-title"><a href="/2017/04/21/linux-20170421-desktop-environments/" class="title">desktop environments</a></p>
-                            <p class="item-date"><time datetime="2017-04-20T15:28:10.000Z" itemprop="datePublished">2017-04-21</time></p>
-                        </div>
-                    </li>
                 
                     <li>
                         
@@ -437,7 +417,7 @@ ga('send', 'pageview');
                     <li>
                         
                         <div class="item-thumbnail">
-                            <a href="/2017/04/20/etc-tool-20170420-version-control/" class="thumbnail">
+                            <a href="/2017/04/20/etc-versionControl-20170420-version-control/" class="thumbnail">
     
     
         <span style="background-image:url(/images/etc/version_control.png)" alt="version control" class="thumbnail-image"></span>
@@ -449,7 +429,7 @@ ga('send', 'pageview');
                         
                         <div class="item-inner">
                             <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a></p>
-                            <p class="item-title"><a href="/2017/04/20/etc-tool-20170420-version-control/" class="title">version control</a></p>
+                            <p class="item-title"><a href="/2017/04/20/etc-versionControl-20170420-version-control/" class="title">version control</a></p>
                             <p class="item-date"><time datetime="2017-04-20T01:58:04.000Z" itemprop="datePublished">2017-04-20</time></p>
                         </div>
                     </li>
@@ -457,7 +437,7 @@ ga('send', 'pageview');
                     <li>
                         
                         <div class="item-thumbnail">
-                            <a href="/2017/04/19/etc-tool-20170419-Cloud-IDE/" class="thumbnail">
+                            <a href="/2017/04/19/etc-cloudIDE-20170419-Cloud-IDE/" class="thumbnail">
     
     
         <span style="background-image:url(https://cdn-images-1.medium.com/max/800/0*anRQIKUQuPcFdClg.jpg)" alt="Cloud IDE" class="thumbnail-image"></span>
@@ -469,7 +449,7 @@ ga('send', 'pageview');
                         
                         <div class="item-inner">
                             <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a></p>
-                            <p class="item-title"><a href="/2017/04/19/etc-tool-20170419-Cloud-IDE/" class="title">Cloud IDE</a></p>
+                            <p class="item-title"><a href="/2017/04/19/etc-cloudIDE-20170419-Cloud-IDE/" class="title">Cloud IDE</a></p>
                             <p class="item-date"><time datetime="2017-04-18T19:24:26.000Z" itemprop="datePublished">2017-04-19</time></p>
                         </div>
                     </li>
@@ -477,10 +457,10 @@ ga('send', 'pageview');
                     <li>
                         
                         <div class="item-thumbnail">
-                            <a href="/2017/04/16/etc-20170416-markup-and-markdown/" class="thumbnail">
+                            <a href="/2017/04/13/spring-20170413-spring-projects/" class="thumbnail">
     
     
-        <span style="background-image:url(http://previews.123rf.com/images/kgtoh/kgtoh1001/kgtoh100102241/6233471-Word-cloud-concept-illustration-of-XML-markup-language-Stock-Illustration.jpg)" alt="markup and markdown" class="thumbnail-image"></span>
+        <span style="background-image:url(https://spring.io/img/spring-by-pivotal.png)" alt="spring projects" class="thumbnail-image"></span>
     
     
 </a>
@@ -488,9 +468,29 @@ ga('send', 'pageview');
                         </div>
                         
                         <div class="item-inner">
-                            <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a></p>
-                            <p class="item-title"><a href="/2017/04/16/etc-20170416-markup-and-markdown/" class="title">markup and markdown</a></p>
-                            <p class="item-date"><time datetime="2017-04-16T12:56:24.000Z" itemprop="datePublished">2017-04-16</time></p>
+                            <p class="item-category"><a class="article-category-link" href="/categories/Java/">Java</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Java/Spring/">Spring</a></p>
+                            <p class="item-title"><a href="/2017/04/13/spring-20170413-spring-projects/" class="title">spring projects</a></p>
+                            <p class="item-date"><time datetime="2017-04-12T22:48:12.000Z" itemprop="datePublished">2017-04-13</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/04/06/hexo-20170406-markdown-posting/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/images/hexo/hexo_title.png)" alt="markdown posting" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/etc/">etc</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/etc/blog/">blog</a></p>
+                            <p class="item-title"><a href="/2017/04/06/hexo-20170406-markdown-posting/" class="title">markdown posting</a></p>
+                            <p class="item-date"><time datetime="2017-04-05T19:16:10.000Z" itemprop="datePublished">2017-04-06</time></p>
                         </div>
                     </li>
                 

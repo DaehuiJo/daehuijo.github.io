@@ -2,29 +2,8 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://daehuijo.github.io/tags/spring/</loc>
-        <lastmod>2017-04-18T21:37:41.084Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/framework/</loc>
-        <lastmod>2017-04-18T21:37:41.084Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/markup/</loc>
-        <lastmod>2017-04-18T21:45:50.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/markdown/</loc>
-        <lastmod>2017-04-18T21:45:50.504Z</lastmod>
+        <lastmod>2017-04-18T11:00:14.574Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -44,50 +23,50 @@
     </url>
 
     <url>
-        <loc>http://daehuijo.github.io/tags/Cloud-IDE/</loc>
-        <lastmod>2017-04-20T11:09:35.308Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/bookmark/</loc>
-        <lastmod>2017-04-20T15:53:59.347Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/ubuntu/</loc>
-        <lastmod>2017-04-20T16:36:13.398Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/linux/</loc>
-        <lastmod>2017-04-21T06:50:08.924Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/tags/version-control/</loc>
-        <lastmod>2017-04-21T08:03:26.075Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://daehuijo.github.io/tags/aws/</loc>
-        <lastmod>2017-04-21T09:43:49.135Z</lastmod>
+        <lastmod>2017-04-22T10:19:13.237Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://daehuijo.github.io/tags/VNCviewr/</loc>
-        <lastmod>2017-04-21T09:43:49.135Z</lastmod>
+        <lastmod>2017-04-22T10:19:13.237Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/spring/</loc>
+        <lastmod>2017-04-22T11:30:39.193Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/framework/</loc>
+        <lastmod>2017-04-22T11:30:39.193Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/linux/</loc>
+        <lastmod>2017-04-22T15:32:28.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/Cloud-IDE/</loc>
+        <lastmod>2017-04-22T15:42:25.450Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://daehuijo.github.io/tags/version-control/</loc>
+        <lastmod>2017-04-22T15:42:38.330Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
