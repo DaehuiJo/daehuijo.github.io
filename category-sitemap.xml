@@ -14,6 +14,13 @@
     </url>
 
     <url>
+        <loc>http://daehuijo.github.io/categories/etc/</loc>
+        <lastmod>2017-04-22T10:19:13.237Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://daehuijo.github.io/categories/etc/aws/</loc>
         <lastmod>2017-04-22T10:19:13.237Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -37,13 +44,6 @@
     <url>
         <loc>http://daehuijo.github.io/categories/Linux/</loc>
         <lastmod>2017-04-22T15:32:28.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://daehuijo.github.io/categories/etc/</loc>
-        <lastmod>2017-04-22T15:42:38.330Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
